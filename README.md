@@ -68,9 +68,9 @@ streamlit run app.py
 
 The dashboard will open in your browser. On first launch, you'll be prompted to configure your portfolio (select tickers, enter share counts, and assign sectors).
 
-There is an option to use demo portfolio - This will generate 10 stocks that I used in the production of the portfolio and is merely for convenience.
+There is an option to use demo portfolio - This will generate the 10 stocks that I used in the production of the portfolio and is merely for convenience.
 
-Instead, you can select up to 10 US listed companies. Just input 10 tickers you are curious to see the news surrounding, the software will detect if you have mistyped any tickers automatically.
+Instead, you can select up to 10 US listed companies. Just input 10 tickers you are curious about, the software will detect if you have mistyped any tickers automatically.
 
 ## Using Cached Data (No API Key Required)
 
