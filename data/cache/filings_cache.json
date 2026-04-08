@@ -1,0 +1,352 @@
+[
+  {
+    "ticker": "XOM",
+    "filing_type": "8-K",
+    "filing_date": "2026-04-08",
+    "description": "FORM 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000056/xom-20260408.htm"
+  },
+  {
+    "ticker": "XOM",
+    "filing_type": "8-K",
+    "filing_date": "2026-03-31",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526134838/d121881d8k.htm"
+  },
+  {
+    "ticker": "CAT",
+    "filing_type": "8-K",
+    "filing_date": "2026-03-26",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000013/cat-20260326.htm"
+  },
+  {
+    "ticker": "NEE",
+    "filing_type": "8-K",
+    "filing_date": "2026-03-20",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000024/nee-20260320.htm"
+  },
+  {
+    "ticker": "AMZN",
+    "filing_type": "8-K",
+    "filing_date": "2026-03-16",
+    "description": "FORM 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926028556/tm266670d9_8k.htm"
+  },
+  {
+    "ticker": "AMZN",
+    "filing_type": "8-K",
+    "filing_date": "2026-03-13",
+    "description": "FORM 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926027729/tm266670d8_8k.htm"
+  },
+  {
+    "ticker": "NEE",
+    "filing_type": "8-K",
+    "filing_date": "2026-03-10",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000022/nee-20260305.htm"
+  },
+  {
+    "ticker": "UNH",
+    "filing_type": "8-K",
+    "filing_date": "2026-03-09",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000067/unh-20260309.htm"
+  },
+  {
+    "ticker": "NEE",
+    "filing_type": "8-K",
+    "filing_date": "2026-03-03",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000020/nee-20260303.htm"
+  },
+  {
+    "ticker": "UNH",
+    "filing_type": "8-K",
+    "filing_date": "2026-03-02",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000064/unh-20260224.htm"
+  },
+  {
+    "ticker": "UNH",
+    "filing_type": "10-K",
+    "filing_date": "2026-03-02",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm"
+  },
+  {
+    "ticker": "AMZN",
+    "filing_type": "8-K",
+    "filing_date": "2026-02-27",
+    "description": "FORM 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926021050/tm267374d1_8k.htm"
+  },
+  {
+    "ticker": "NEE",
+    "filing_type": "8-K",
+    "filing_date": "2026-02-26",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000017/nee-20260226.htm"
+  },
+  {
+    "ticker": "UNH",
+    "filing_type": "8-K",
+    "filing_date": "2026-02-25",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000046/unh-20260223.htm"
+  },
+  {
+    "ticker": "AAPL",
+    "filing_type": "8-K",
+    "filing_date": "2026-02-24",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126006577/ef20060722_8k.htm"
+  },
+  {
+    "ticker": "JPM",
+    "filing_type": "8-K",
+    "filing_date": "2026-02-23",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026010693/jpm-20260223.htm"
+  },
+  {
+    "ticker": "XOM",
+    "filing_type": "8-K",
+    "filing_date": "2026-02-20",
+    "description": "FORM 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000047/xom-20260218.htm"
+  },
+  {
+    "ticker": "XOM",
+    "filing_type": "10-K",
+    "filing_date": "2026-02-18",
+    "description": "FORM 10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+  },
+  {
+    "ticker": "JPM",
+    "filing_type": "10-K",
+    "filing_date": "2026-02-13",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+  },
+  {
+    "ticker": "CAT",
+    "filing_type": "10-K",
+    "filing_date": "2026-02-13",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+  },
+  {
+    "ticker": "NEE",
+    "filing_type": "10-K",
+    "filing_date": "2026-02-13",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000015/nee-20251231.htm"
+  },
+  {
+    "ticker": "JNJ",
+    "filing_type": "10-K",
+    "filing_date": "2026-02-11",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm"
+  },
+  {
+    "ticker": "AMZN",
+    "filing_type": "10-K",
+    "filing_date": "2026-02-06",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm"
+  },
+  {
+    "ticker": "JPM",
+    "filing_type": "8-K",
+    "filing_date": "2026-02-05",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000119312526039427/d23804d8k.htm"
+  },
+  {
+    "ticker": "AMZN",
+    "filing_type": "8-K",
+    "filing_date": "2026-02-05",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000002/amzn-20260205.htm"
+  },
+  {
+    "ticker": "AAPL",
+    "filing_type": "10-Q",
+    "filing_date": "2026-01-30",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm"
+  },
+  {
+    "ticker": "XOM",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-30",
+    "description": "FORM 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000033/xom-20260130.htm"
+  },
+  {
+    "ticker": "AAPL",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-29",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000005/aapl-20260129.htm"
+  },
+  {
+    "ticker": "CAT",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-29",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000003/cat-20260129.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "filing_type": "10-Q",
+    "filing_date": "2026-01-28",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/msft-20251231.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-28",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027198/msft-20260128.htm"
+  },
+  {
+    "ticker": "UNH",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-27",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000025/unh-20260127.htm"
+  },
+  {
+    "ticker": "PG",
+    "filing_type": "10-Q",
+    "filing_date": "2026-01-23",
+    "description": "FY2526 Q2 OND 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/pg-20251231.htm"
+  },
+  {
+    "ticker": "JPM",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-22",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000052/jpm-20260120.htm"
+  },
+  {
+    "ticker": "JPM",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-22",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000119312526019450/d18152d8k.htm"
+  },
+  {
+    "ticker": "PG",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-22",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000009/pg-20260122.htm"
+  },
+  {
+    "ticker": "PG",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-22",
+    "description": "FY2526 Q2 OND 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000006/pg-20260122.htm"
+  },
+  {
+    "ticker": "JNJ",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-21",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000002/jnj-20260121.htm"
+  },
+  {
+    "ticker": "PG",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-13",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000002/pg-20260113.htm"
+  },
+  {
+    "ticker": "CAT",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-06",
+    "description": "FORM 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/18230/000110465926001346/tm261912d1_8k.htm"
+  },
+  {
+    "ticker": "AAPL",
+    "filing_type": "8-K",
+    "filing_date": "2026-01-02",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126000199/ef20060722_8k.htm"
+  },
+  {
+    "ticker": "PG",
+    "filing_type": "8-K",
+    "filing_date": "2025-12-15",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042425000287/pg-20251215.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "filing_type": "8-K",
+    "filing_date": "2025-12-08",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525311196/d34077d8k.htm"
+  },
+  {
+    "ticker": "AAPL",
+    "filing_type": "8-K",
+    "filing_date": "2025-12-05",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000114036125044561/ef20060722_8k.htm"
+  },
+  {
+    "ticker": "CAT",
+    "filing_type": "10-Q",
+    "filing_date": "2025-11-03",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823025000048/cat-20250930.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "filing_type": "10-Q",
+    "filing_date": "2025-10-29",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/msft-20250930.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "filing_type": "8-K",
+    "filing_date": "2025-10-29",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256310/msft-20251028.htm"
+  },
+  {
+    "ticker": "JNJ",
+    "filing_type": "10-Q",
+    "filing_date": "2025-10-22",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/jnj-20250928.htm"
+  },
+  {
+    "ticker": "JNJ",
+    "filing_type": "8-K",
+    "filing_date": "2025-10-14",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000201/jnj-20251014.htm"
+  },
+  {
+    "ticker": "JNJ",
+    "filing_type": "8-K",
+    "filing_date": "2025-09-09",
+    "description": "8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000190/jnj-20250908.htm"
+  }
+]

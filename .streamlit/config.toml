@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#4F7C82"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F7F8"
+textColor = "#0B2E33"
+font = "sans serif"
+# Note: Open Sans is loaded via CSS @import in app.py
+
+[server]
+headless = true

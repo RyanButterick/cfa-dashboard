@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Environment & secrets
+.env
+.venv/
+venv/
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Note: data/cache/*.json files are INTENTIONALLY tracked
+# so judges can run the dashboard in cached mode without API keys.

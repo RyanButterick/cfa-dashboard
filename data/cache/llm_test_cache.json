@@ -1,0 +1,17 @@
+{
+  "event": {
+    "title": "Federal Reserve holds interest rates steady at 4.5%",
+    "description": "The FOMC voted unanimously to maintain the federal funds rate, citing balanced risks to employment and inflation."
+  },
+  "affected_stocks": [
+    {
+      "ticker": "JPM",
+      "company_name": "JPMorgan Chase & Co."
+    },
+    {
+      "ticker": "NEE",
+      "company_name": "NextEra Energy Inc."
+    }
+  ],
+  "summary": "# Market Impact Summary\n\nThe Federal Reserve's decision to hold rates steady at 4.5% signals a pause in its tightening cycle, which should benefit **JPM** by stabilizing net interest margins at current levels while reducing uncertainty around refinancing costs for its lending portfolio and capital markets activities. For **NEE**, the unchanged rate environment provides relief for its capital-intensive renewable energy projects, as lower refinancing risk supports the present value of long-term utility investments, though the utility may face continued pressure if rates remain elevated relative to historical norms."
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "event_name": "US ISM Manufacturing PMI -March 2026",
+    "date": "2026-04-01",
+    "time": "10:00 EST",
+    "description": "The Institute for Supply Management releases the March 2026 Manufacturing PMI, a key indicator of industrial sector health.",
+    "affected_sectors": ["Industrials", "Energy", "Technology"],
+    "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
+  },
+  {
+    "event_name": "US Non-Farm Payrolls -March 2026",
+    "date": "2026-04-03",
+    "time": "08:30 EST",
+    "description": "The Bureau of Labor Statistics releases the March 2026 employment situation report, including non-farm payrolls and unemployment rate.",
+    "affected_sectors": ["Consumer Discretionary", "Financials", "Industrials"],
+    "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+  },
+  {
+    "event_name": "US CPI Release -March 2026",
+    "date": "2026-04-14",
+    "time": "08:30 EST",
+    "description": "The Bureau of Labor Statistics publishes the Consumer Price Index for March 2026, measuring inflation trends across the US economy.",
+    "affected_sectors": ["Consumer Staples", "Consumer Discretionary", "Financials"],
+    "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+  },
+  {
+    "event_name": "US Retail Sales -March 2026",
+    "date": "2026-04-15",
+    "time": "08:30 EST",
+    "description": "The Census Bureau releases advance estimates of US retail and food services sales for March 2026, indicating consumer spending trends.",
+    "affected_sectors": ["Consumer Discretionary", "Consumer Staples", "Technology"],
+    "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+  },
+  {
+    "event_name": "ECB Interest Rate Decision -April 2026",
+    "date": "2026-04-17",
+    "time": "08:15 EST",
+    "description": "The European Central Bank announces its monetary policy decision, which influences global capital flows and multinational earnings (estimated date based on typical 6-week cycle).",
+    "affected_sectors": ["Financials", "Utilities", "Consumer Discretionary"],
+    "source_url": "https://www.ecb.europa.eu/press/govcdec/mopo/html/index.en.html"
+  },
+  {
+    "event_name": "US Consumer Confidence -April 2026",
+    "date": "2026-04-28",
+    "time": "10:00 EST",
+    "description": "The Conference Board releases the Consumer Confidence Index for April 2026, reflecting household sentiment on economic conditions and spending intentions.",
+    "affected_sectors": ["Consumer Discretionary", "Consumer Staples", "Financials"],
+    "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+  },
+  {
+    "event_name": "US GDP Q1 2026 Advance Estimate",
+    "date": "2026-04-29",
+    "time": "08:30 EST",
+    "description": "The Bureau of Economic Analysis publishes the advance estimate of Q1 2026 real GDP growth, providing the first comprehensive measure of economic output for the quarter.",
+    "affected_sectors": ["Technology", "Financials", "Healthcare", "Energy", "Consumer Discretionary", "Consumer Staples", "Industrials", "Utilities"],
+    "source_url": "https://www.bea.gov/news/schedule"
+  },
+  {
+    "event_name": "US PCE Price Index -March 2026",
+    "date": "2026-04-30",
+    "time": "08:30 EST",
+    "description": "The Bureau of Economic Analysis releases the Personal Consumption Expenditures Price Index for March 2026, the Federal Reserve's preferred measure of inflation.",
+    "affected_sectors": ["Financials", "Consumer Staples", "Consumer Discretionary", "Utilities"],
+    "source_url": "https://www.bea.gov/news/schedule"
+  },
+  {
+    "event_name": "US ISM Manufacturing PMI -April 2026",
+    "date": "2026-05-01",
+    "time": "10:00 EST",
+    "description": "The Institute for Supply Management releases the April 2026 Manufacturing PMI, indicating expansion or contraction in the manufacturing sector.",
+    "affected_sectors": ["Industrials", "Energy", "Technology"],
+    "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
+  },
+  {
+    "event_name": "FOMC Interest Rate Decision -May 2026",
+    "date": "2026-05-07",
+    "time": "14:00 EST",
+    "description": "The Federal Open Market Committee announces its interest rate decision following the May 6-7 meeting, with an updated economic outlook and press conference.",
+    "affected_sectors": ["Financials", "Utilities", "Consumer Discretionary"],
+    "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+  },
+  {
+    "event_name": "US Non-Farm Payrolls -April 2026",
+    "date": "2026-05-08",
+    "time": "08:30 EST",
+    "description": "The Bureau of Labor Statistics releases the April 2026 employment situation report, a key indicator of labor market strength.",
+    "affected_sectors": ["Consumer Discretionary", "Financials", "Industrials"],
+    "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+  },
+  {
+    "event_name": "BoE Interest Rate Decision -May 2026",
+    "date": "2026-05-08",
+    "time": "07:00 EST",
+    "description": "The Bank of England's Monetary Policy Committee announces its interest rate decision, influencing global fixed-income markets and UK-exposed multinationals (estimated date based on typical schedule).",
+    "affected_sectors": ["Financials", "Utilities", "Consumer Discretionary"],
+    "source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes"
+  },
+  {
+    "event_name": "US CPI Release -April 2026",
+    "date": "2026-05-12",
+    "time": "08:30 EST",
+    "description": "The Bureau of Labor Statistics publishes the Consumer Price Index for April 2026, providing the latest reading on inflation trends.",
+    "affected_sectors": ["Consumer Staples", "Consumer Discretionary", "Financials"],
+    "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+  },
+  {
+    "event_name": "US Consumer Confidence -May 2026",
+    "date": "2026-05-26",
+    "time": "10:00 EST",
+    "description": "The Conference Board releases the Consumer Confidence Index for May 2026, gauging household expectations for income, business, and labor market conditions.",
+    "affected_sectors": ["Consumer Discretionary", "Consumer Staples", "Financials"],
+    "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+  },
+  {
+    "event_name": "FOMC Meeting Minutes -May 2026",
+    "date": "2026-05-27",
+    "time": "14:00 EST",
+    "description": "The Federal Reserve releases detailed minutes from the May 6-7 FOMC meeting, providing insight into policymakers' views on interest rates and the economic outlook (typically released 3 weeks after the meeting).",
+    "affected_sectors": ["Financials", "Utilities", "Consumer Discretionary"],
+    "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "title": "Why UnitedHealth Group Rallied Today - The Motley Fool",
+    "description": "Why UnitedHealth Group Rallied Today - The Motley Fool",
+    "event_type": "news",
+    "date": "Tue, 07 Apr 2026 19:39:00 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHJJclVET1dvbkJTdXRPQkxXZ05qZXBHOWJXSU51WUdMQURXTHlSbms3QVB5ZGY0SXdTdWpjM0VvYjRqLWQyT3VqMFpwVUM0WjB1S0NEbjRjWDdfY1R2djZZZ19mRjFKQnMxSldLSmZOSTNsanZoNmpLRlJhLUYyNjJoMXdpZw?oc=5",
+    "source": "The Motley Fool",
+    "mention_count": 11,
+    "entity_centrality": "primary",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "UNH"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 10,
+    "ai_tickers": [
+      "UNH"
+    ],
+    "ai_reason": "High coverage directly names UNH with material positive price movement explanation.",
+    "ai_sentiment": "positive",
+    "is_mover_related": true,
+    "relevance_score": 78.0,
+    "summary": "UnitedHealth Group (UNH) rallied today, likely driven by positive developments in the healthcare insurance or policy landscape affecting the company's core business segments. UNH's stock movement was tied to its exposure across health insurance operations, Medicare/Medicaid contracts, and pharmacy benefits management\u2014where favorable regulatory developments or improved claims outlook would directly expand net margins and boost earnings visibility for these high-margin segments.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Tue, 07 Apr 2026 19:39:00 GMT"
+  },
+  {
+    "title": "Why UnitedHealth Stock Is Soaring Today - TradingView",
+    "description": "Why UnitedHealth Stock Is Soaring Today - TradingView",
+    "event_type": "news",
+    "date": "Tue, 07 Apr 2026 12:01:09 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjVZTmhSbGdzd0xSaE5ReFg4YnRfVlNJa0plUmdWbWVYUU1aN1o3Nzdkc0UwMDZQemdFcGtieV9mYWxucXYwR1VuQ0dMSTJBaXM1b3FrYlBxeEhDaE5nR1RDWXhFZ1h5T19qd25pV29hNzRqc284dTY4dVhWc1JUZF9vSldLdmZtUDZ0bC1CaW1QM0JvbUtJQ3ZJTHJ6UzN5?oc=5",
+    "source": "TradingView",
+    "mention_count": 9,
+    "entity_centrality": "primary",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "UNH"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 9,
+    "ai_tickers": [],
+    "ai_reason": "High coverage indicates material positive event driving stock movement.",
+    "ai_sentiment": "positive",
+    "is_mover_related": true,
+    "relevance_score": 76.08,
+    "summary": "UnitedHealth Group (UNH) experienced a significant stock price increase today. UNH likely benefited from positive developments in healthcare policy, Medicare/Medicaid reimbursement rates, or pharmacy benefits management operations, which are core profit drivers for the company's insurance and UnitedHealthcare segments. The stock's strength reflects investor optimism regarding the company's ability to maintain or expand margins across its health insurance and healthcare services divisions.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Tue, 07 Apr 2026 12:01:09 GMT"
+  },
+  {
+    "title": "UnitedHealth Group (UNH) Upgraded Over Potential Upside to Earnings Estimates",
+    "description": "UnitedHealth Group (UNH) Upgraded Over Potential Upside to Earnings Estimates",
+    "event_type": "news",
+    "date": "Wed, 08 Apr 2026 06:21:24 +0000",
+    "source_url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-unh-upgraded-over-070224075.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "mention_count": 5,
+    "entity_centrality": "primary",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "PG"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 8,
+    "ai_tickers": [],
+    "ai_reason": "Analyst upgrade with earnings upside; directly material for UNH valuation and returns.",
+    "ai_sentiment": "positive",
+    "relevance_score": 72.98,
+    "summary": "UnitedHealth Group received an analyst upgrade based on expectations for upward revisions to its earnings forecasts. While UNH is a healthcare company and PG operates in consumer staples, both benefit from pricing power dynamics\u2014UNH can increase insurance premiums and medical service costs to offset inflation, while PG can pass through higher input costs to consumers, potentially boosting both companies' margins during inflationary periods. The upgrade to UNH may signal analyst confidence in the healthcare sector's ability to maintain profitability, which could support defensive positioning in PG as well.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Wed, 08 Apr 2026 06:21:24 +0000"
+  },
+  {
+    "title": "Buy UnitedHealth or Humana Stock as Medicare Advantage Rates Increase?",
+    "description": "Buy UnitedHealth or Humana Stock as Medicare Advantage Rates Increase?",
+    "event_type": "news",
+    "date": "Tue, 07 Apr 2026 23:44:00 +0000",
+    "source_url": "https://finance.yahoo.com/sectors/healthcare/articles/buy-unitedhealth-humana-stock-medicare-234400124.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "mention_count": 4,
+    "entity_centrality": "primary",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "UNH"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 10,
+    "ai_tickers": [],
+    "ai_reason": "Medicare Advantage rates increase directly benefits insurers; strong fundamental driver for UNH.",
+    "ai_sentiment": "positive",
+    "is_mover_related": true,
+    "relevance_score": 71.04,
+    "summary": "The Centers for Medicare & Medicaid Services announced higher reimbursement rates for Medicare Advantage plans, benefiting insurers offering these government-sponsored health programs. UNH (UnitedHealth Group) will see improved underwriting margins on its Medicare Advantage segment as higher per-member monthly rates directly increase premium revenue without proportional increases in medical claims costs, enhancing operating leverage in this high-margin business line.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Tue, 07 Apr 2026 23:44:00 +0000"
+  },
+  {
+    "title": "Microsoft and Publicis Groupe expand their strategic partnership to power the future of agentic marketing for businesses worldwide - Microsoft Source",
+    "description": "Microsoft and Publicis Groupe expand their strategic partnership to power the future of agentic marketing for businesses worldwide - Microsoft Source",
+    "event_type": "news",
+    "date": "Wed, 08 Apr 2026 13:12:11 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRThjUExCQ21aWm5xM3hJQW9rNzJNcGxlaHRlVzZRdUJlUzdZX0lDRk1GTmNGSGl3eHNMeVppNGFmTkQtLVJPSGgyV2Q5eUZqdGc4RVk5NTRKbENJWGk0T1dxMTVfUm9YdnNVWmd6M1UzQklfaHB1a0pQZ3hGS0pHZzJ4S0t3NVAtQ2pHWUhrOUgxYmlHSnROS1RFeHQ5bUZZM0pwUEZ6ckk0OHAzbDI1Z2IzTm5YYkNtMGR2OFJlWlFkT1lBeHV4MXBJN1Q2ZnR6SVpPNzU2U1otdUZDVlVGSGpndVNvY254cThyUHM3a2JFdzlScEFReEVYbERrS1BJUlhKWDNkSQ?oc=5",
+    "source": "Microsoft Source",
+    "mention_count": 2,
+    "entity_centrality": "primary",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "MSFT"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 7,
+    "ai_tickers": [
+      "MSFT"
+    ],
+    "ai_reason": "Directly names MSFT partnership expansion in AI marketing, strengthening enterprise positioning.",
+    "ai_sentiment": "positive",
+    "relevance_score": 71.02,
+    "summary": "Microsoft and Publicis Groupe have expanded their strategic partnership to develop agentic marketing solutions powered by AI and cloud technology. MSFT will generate incremental revenue streams through Azure consumption and enterprise software licensing as Publicis integrates Microsoft's AI models and cloud infrastructure into its marketing automation platforms, while also strengthening MSFT's enterprise AI positioning against competitors like Amazon Web Services and Google Cloud.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Wed, 08 Apr 2026 13:12:11 GMT"
+  },
+  {
+    "title": "Exxon Mobil (XOM) Stock Loses 6% of Output After Iran War Disrupts Gulf Production - CoinCentral",
+    "description": "Exxon Mobil (XOM) Stock Loses 6% of Output After Iran War Disrupts Gulf Production - CoinCentral",
+    "event_type": "news",
+    "date": "Wed, 08 Apr 2026 13:22:40 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSEhhbXdneXhQdHk2YkZNeldaOFZWTHYzR1JldlNocWtyMFJiYlhqY2lYRlFxRVBQM0ZVdzlhbksyT0oxTGNCZlBTTGJadE05bm1CdlRzbTNBTmNzYXRNR1lsdnBOSERwa3dLT0lyVnRSaWcyaGM0NFJhbVNsYzROWF84UXNZR29HYUxPM05DVDVFWDIyWElkcVZsNXRDcm5wQU5VREh2MA?oc=5",
+    "source": "CoinCentral",
+    "mention_count": 5,
+    "entity_centrality": "primary",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "XOM"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 8,
+    "ai_tickers": [
+      "XOM"
+    ],
+    "ai_reason": "Directly reports XOM production loss from geopolitical disruption materially affecting output.",
+    "ai_sentiment": "negative",
+    "relevance_score": 70.98,
+    "summary": "Exxon Mobil (XOM) has lost 6% of its production output due to Iran war disruptions affecting Gulf operations. XOM's earnings per barrel will decline as reduced production volumes amplify fixed cost per unit of output, while the company simultaneously faces reduced revenue from lower crude sales volume in the near term. This production loss will pressure XOM's free cash flow generation and dividend sustainability if the disruption persists beyond the current quarter.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Wed, 08 Apr 2026 13:22:40 GMT"
+  },
+  {
+    "title": "UnitedHealth Jumps on CMS' MA Rate Boost: How to Position Now - TradingView",
+    "description": "UnitedHealth Jumps on CMS' MA Rate Boost: How to Position Now - TradingView",
+    "event_type": "news",
+    "date": "Tue, 07 Apr 2026 15:43:00 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2R3bmxuNmRLc3FkdUV5RDI4dEk1S19aaGVFTFNSZ3ZGWVRmMG5UM2RrRWxHSUxfQm4tZUR6QVBSZGEyQl9oRV8tTTg2VkRHWFVxa2tLXzhtWDRGWUJfTC1iVDRnYl9STkoyU1NEWlZNQ0FIYmQ3WTFFVzZHaWRELU1PbDFCVk9FSXVVZWJ6aUJiV0FaaS1TRU5hclI0bjd0QUs5cjJ0QzRhTHd2dEVKRHlBZ0NDUQ?oc=5",
+    "source": "TradingView",
+    "mention_count": 3,
+    "entity_centrality": "primary",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "UNH"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 10,
+    "ai_tickers": [],
+    "ai_reason": "CMS MA rate boost directly enhances UNH earnings and investment thesis.",
+    "ai_sentiment": "positive",
+    "is_mover_related": true,
+    "relevance_score": 66.54,
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) announced increased reimbursement rates for Medicare Advantage plans, benefiting insurers offering these programs. UnitedHealth Group (UNH), which derives significant revenue from its Optum Health and UnitedHealthcare Medicare Advantage segments, will experience improved operating margins and higher net revenues as CMS rate increases flow directly to its bottom line through higher per-member-per-month (PMPM) capitated payments.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Tue, 07 Apr 2026 15:43:00 GMT"
+  },
+  {
+    "title": "UNH Stock Today: April 8 \u2014 CMS Hikes 2027 MA Rates; Insurers Rally - Meyka",
+    "description": "UNH Stock Today: April 8 \u2014 CMS Hikes 2027 MA Rates; Insurers Rally - Meyka",
+    "event_type": "news",
+    "date": "Wed, 08 Apr 2026 08:53:16 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDEwOVJTTDZOOEZJdTgxeW1zeTNoQkJTM2RZRUVOVzZXYVFlTTFfTVJRMndKODZKU082WGRDZldEb0UtUHFOcnVmYmZtQUh3dFpMVFdwTEpFd2tZQXZGX2JhRHZFRW81YjJseTRUbWd2QlVUcFIyajZYSXJCRGN0R3BvdEU1UjRuOEN0YmxNRTl0X1RQY0E?oc=5",
+    "source": "Meyka",
+    "mention_count": 3,
+    "entity_centrality": "primary",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "UNH"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 10,
+    "ai_tickers": [],
+    "ai_reason": "CMS Medicare Advantage rate hikes directly boost UNH revenue and margins significantly.",
+    "ai_sentiment": "positive",
+    "is_mover_related": true,
+    "relevance_score": 66.54,
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) announced higher reimbursement rates for Medicare Advantage plans in 2027, benefiting major insurers. UnitedHealth Group (UNH), which derives a substantial portion of revenue from its Medicare Advantage business through UnitedHealthcare, will experience increased premium income and improved margins from these higher capitated payment rates, directly boosting earnings per share for that segment.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Wed, 08 Apr 2026 08:53:16 GMT"
+  },
+  {
+    "title": "6-Day Rally Sends UnitedHealth Stock Up 19% - Trefis",
+    "description": "6-Day Rally Sends UnitedHealth Stock Up 19% - Trefis",
+    "event_type": "news",
+    "date": "Wed, 08 Apr 2026 04:30:40 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0FVcTNwX1ozQ1oyMWZYSWt4SDVNazY5cWU4emJiOWEtcldZb3p0Qmd1Z0ljQ2pEMjZBSnRYbUU3TENUcUt6Y08xWFdFUHRzLTR0UUpNY0J4SWdmalNZN1hBQWh3RUJnaEY0dkdIM0NYMmxmY1F0V0kwOU1TaXFVenJHLTdCOGYtdzVKamFmajVuakloRzZOSGtoaTVLdFNialBPOTZ3?oc=5",
+    "source": "Trefis",
+    "mention_count": 3,
+    "entity_centrality": "primary",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "UNH"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 9,
+    "ai_tickers": [],
+    "ai_reason": "19% rally confirmation; material price momentum and market recognition of strength.",
+    "ai_sentiment": "positive",
+    "is_mover_related": true,
+    "relevance_score": 66.54,
+    "summary": "UnitedHealth Group (UNH) experienced a significant 6-day rally, with its stock price appreciating 19% during this period. The surge likely reflects positive sentiment around UNH's insurance operations, including its UnitedHealthcare division's competitive positioning in Medicare Advantage and Medicaid plans, which generate recurring premium revenues and drive earnings growth. This rally also suggests investor optimism regarding the company's pharmacy benefits management (PBM) segment through Optum, which benefits from increased medication volumes and margin expansion in a higher-demand healthcare environment.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Wed, 08 Apr 2026 04:30:40 GMT"
+  },
+  {
+    "title": "XOM 8-K Filing",
+    "description": "FORM 8-K",
+    "event_type": "filing",
+    "date": "2026-04-08",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000056/xom-20260408.htm",
+    "mention_count": 1,
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "XOM"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 5,
+    "ai_sentiment": "neutral",
+    "ai_reason": "SEC filing by portfolio company",
+    "relevance_score": 60.5,
+    "summary": "Exxon Mobil Corporation (XOM) has filed a Form 8-K with the SEC, disclosing a material event that requires immediate disclosure to investors. The filing will likely detail changes affecting XOM's upstream production volumes, downstream refining margins, or exposure to commodity price volatility in crude oil and natural gas, which directly impact the company's cash flow generation and earnings per share. Investors should review the specific 8-K item to determine whether the disclosure involves operational disruptions, asset impairments, regulatory changes related to carbon policy, or strategic M&A activity that alters XOM's financial guidance.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "2026-04-08"
+  }
+]
