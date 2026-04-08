@@ -76,7 +76,7 @@ To run the dashboard without making live API calls:
 2. The app will load pre-saved data from the `data/cache/` directory.
 3. All three intelligence feeds will display using previously generated AI analysis.
 
-This is useful for reproducibility, demonstrations, and running without an API key. The cached data represents a snapshot of the dashboard's output and does not require any external API calls.
+This is useful for reproducibility, demonstrations, and running without an API key. The cached data represents a snapshot of the dashboard's output and does not require any external API calls. When using cached data, a full AI summary when clicking each event's dropdown isn't displayed, it will just show the title again. This was done for simplicity reasons as the output is merely a demonstration of what the product is capable of. To see full AI summary's of events, add an Anthropic API key to the .env file and refresh the page using the tool in the sidebar. This should take a couple minutes but will update the full dashboard as well as full AI summaries and catalyst suggestions.
 
 ## Refreshing Data
 
