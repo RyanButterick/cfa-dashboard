@@ -76,6 +76,8 @@ Instead, you can select up to 10 **U.S.-listed companies**. Just input 10 ticker
 
 I recommend using VS Code to see the process of event filtering. Usually, ~600 Headlines will be analysed and filtered down with ~200 passing the initial scoring system. Claude's Haiku model will then give an advanced score to each event using criteria we have outlined in the code. This should show the mose "relevant" events surrounding the selected portfolio. 
 
+The analysis process does take a few minutes and is dependent on: internet connection, compute power, how volatile the stocks are, quantity/quality of news surrounding the stocks, how many headlines passed the filtering system, and other factors. We recognise the slowness of the process and are currently developing a more efficient filtering system using a python script (metatags) instead of fully AI. 
+
 ## Using Cached Data (No API Key Required)
 
 To run the dashboard without making live API calls:
