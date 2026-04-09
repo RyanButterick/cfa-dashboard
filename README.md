@@ -84,7 +84,7 @@ The analysis process does take a few minutes and is dependent on: internet conne
 2. To get an API key, it is important your Anthropic account has credits before you generate the key. You can purchase them here:                                     https://platform.claude.com/settings/billing
 3. Once you have credits, create an API key here: https://platform.claude.com/settings/keys
 4. Copy your API key and replace "your_key_here" in the .env file.
-5. It shoud look like: ANTHROPIC_API_KEY=ANTHROPIC_API_KEY=sk-ant-api03-jYndRTrvMKU-Wigm5GuD3loDawkJDhPFlmSa79ws5obm7smZITPaJRWawd_aed333dsd3WtCrw-M65IOgAA
+5. It shoud look like: ANTHROPIC_API_KEY=sk-ant-api03-jYndRTrvMKU-Wigm5GuD3loDawkJDhPFlmSa79ws5obm7smZITPaJRWawd_aed333dsd3WtCrw-M65IOgAA
 6. Now run streamlit run app.py in your terminal, create a portfolio, refresh all data (make sure cached data is unchecked), wait a few minutes and voila.
    
 ## Using Cached Data (No API Key Required)
