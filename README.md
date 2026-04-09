@@ -66,11 +66,11 @@ ANTHROPIC_API_KEY=your_key_here
 streamlit run app.py
 ```
 
-The dashboard will open in your browser. On first launch, you'll be prompted to configure your portfolio (select tickers, enter share counts, and assign sectors).
+The dashboard will open in your browser. On first launch, you'll be prompted to configure your portfolio (select tickers, and enter share counts).
 
 There is an option to use demo portfolio - This will generate the 10 stocks that I used in the production of the portfolio and is merely for convenience, if you don't want to use an API key, make sure to use the demo portfolio as all cached data is for the demo portfolio and was computed on 09/04/26.
 
-Instead, you can select up to 10 U.S.-listed companies. Just input 10 tickers you are curious about, and the software will detect if you have mistyped any tickers automatically - the events tab will only work if you have added your Anthropic API to the .env file.
+Instead, you can select up to 10 **U.S.-listed companies**. Just input 10 tickers you are curious about, and the software will detect if you have mistyped any tickers automatically - the events tab will only work if you have added your Anthropic API to the .env file.
 
 *IMPORTANT* Once you've selected your portfolio, hit "refresh all data" in the sidebar. This will update the entire dashboard and may take 1-2 minutes, depending on the internet connection and computing power.
 
