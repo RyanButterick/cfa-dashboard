@@ -38,7 +38,7 @@ The dashboard uses a multi-stage AI processing pipeline:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/cfa-dashboard.git
+git clone https://github.com/RyanButterick/cfa-dashboard.git
 cd cfa-dashboard
 ```
 
