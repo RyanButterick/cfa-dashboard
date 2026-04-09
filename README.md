@@ -70,7 +70,9 @@ The dashboard will open in your browser. On first launch, you'll be prompted to 
 
 There is an option to use demo portfolio - This will generate the 10 stocks that I used in the production of the portfolio and is merely for convenience.
 
-Instead, you can select up to 10 US listed companies. Just input 10 tickers you are curious about, the software will detect if you have mistyped any tickers automatically.
+Instead, you can select up to 10 U.S.-listed companies. Just input 10 tickers you are curious about, and the software will detect if you have mistyped any tickers automatically.
+
+*IMPORTANT* Once you've selected your portfolio, hit "refresh all data" in the sidebar. This will update the entire dashboard and may take 1-2 minutes, depending on the internet connection and computing power.
 
 ## Using Cached Data (No API Key Required)
 
