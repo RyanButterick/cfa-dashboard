@@ -1,82 +1,82 @@
 [
   {
-    "ticker": "AAPL",
-    "company_name": "Apple Inc.",
-    "price": 253.5,
-    "daily_change_pct": -2.07,
-    "52w_high": 288.62,
-    "52w_low": 171.89
+    "ticker":"AAPL",
+    "company_name":"Apple Inc.",
+    "price":259.11,
+    "daily_change_pct":0.08,
+    "52w_high":288.62,
+    "52w_low":183.0
   },
   {
-    "ticker": "MSFT",
-    "company_name": "Microsoft Corp.",
-    "price": 372.29,
-    "daily_change_pct": -0.16,
-    "52w_high": 555.45,
-    "52w_low": 353.1
+    "ticker":"MSFT",
+    "company_name":"Microsoft Corp.",
+    "price":371.37,
+    "daily_change_pct":-0.79,
+    "52w_high":555.45,
+    "52w_low":355.67
   },
   {
-    "ticker": "JPM",
-    "company_name": "JPMorgan Chase & Co.",
-    "price": 297.4,
-    "daily_change_pct": 0.66,
-    "52w_high": 337.25,
-    "52w_low": 211.0
+    "ticker":"JPM",
+    "company_name":"JPMorgan Chase & Co.",
+    "price":310.88,
+    "daily_change_pct":0.94,
+    "52w_high":337.25,
+    "52w_low":220.1
   },
   {
-    "ticker": "JNJ",
-    "company_name": "Johnson & Johnson",
-    "price": 238.41,
-    "daily_change_pct": -1.06,
-    "52w_high": 251.71,
-    "52w_low": 141.5
+    "ticker":"JNJ",
+    "company_name":"Johnson & Johnson",
+    "price":242.76,
+    "daily_change_pct":0.61,
+    "52w_high":251.71,
+    "52w_low":145.13
   },
   {
-    "ticker": "XOM",
-    "company_name": "Exxon Mobil Corp.",
-    "price": 163.91,
-    "daily_change_pct": 0.33,
-    "52w_high": 176.41,
-    "52w_low": 97.8
+    "ticker":"XOM",
+    "company_name":"Exxon Mobil Corp.",
+    "price":155.17,
+    "daily_change_pct":-0.67,
+    "52w_high":176.41,
+    "52w_low":97.8
   },
   {
-    "ticker": "AMZN",
-    "company_name": "Amazon.com Inc.",
-    "price": 213.77,
-    "daily_change_pct": 0.46,
-    "52w_high": 258.6,
-    "52w_low": 165.29
+    "ticker":"AMZN",
+    "company_name":"Amazon.com Inc.",
+    "price":231.78,
+    "daily_change_pct":4.76,
+    "52w_high":258.6,
+    "52w_low":165.29
   },
   {
-    "ticker": "PG",
-    "company_name": "Procter & Gamble Co.",
-    "price": 141.3,
-    "daily_change_pct": -1.03,
-    "52w_high": 171.65,
-    "52w_low": 137.62
+    "ticker":"PG",
+    "company_name":"Procter & Gamble Co.",
+    "price":146.17,
+    "daily_change_pct":0.88,
+    "52w_high":171.65,
+    "52w_low":137.62
   },
   {
-    "ticker": "UNH",
-    "company_name": "UnitedHealth Group Inc.",
-    "price": 307.73,
-    "daily_change_pct": 9.37,
-    "52w_high": 606.36,
-    "52w_low": 234.6
+    "ticker":"UNH",
+    "company_name":"UnitedHealth Group Inc.",
+    "price":306.47,
+    "daily_change_pct":0.16,
+    "52w_high":606.36,
+    "52w_low":234.6
   },
   {
-    "ticker": "CAT",
-    "company_name": "Caterpillar Inc.",
-    "price": 724.44,
-    "daily_change_pct": 0.44,
-    "52w_high": 789.81,
-    "52w_low": 269.13
+    "ticker":"CAT",
+    "company_name":"Caterpillar Inc.",
+    "price":790.24,
+    "daily_change_pct":2.42,
+    "52w_high":792.58,
+    "52w_low":279.8
   },
   {
-    "ticker": "NEE",
-    "company_name": "NextEra Energy Inc.",
-    "price": 93.67,
-    "daily_change_pct": 1.01,
-    "52w_high": 95.91,
-    "52w_low": 61.72
+    "ticker":"NEE",
+    "company_name":"NextEra Energy Inc.",
+    "price":95.31,
+    "daily_change_pct":1.22,
+    "52w_high":96.2,
+    "52w_low":63.64
   }
 ]

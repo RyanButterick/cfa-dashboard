@@ -1,145 +1,271 @@
 [
   {
-    "title": "RWE Extends Cooperation With ASML - Energ\u00edas Renovables, el periodismo de las energ\u00edas limpias.",
-    "source": "Energ\u00edas Renovables, el periodismo de las energ\u00edas limpias.",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQS1sbmpNZVBTbVRIWk45NUR1a0tMVmRoU2FqZkdOTmFNd2VTTjRvTUw5bm9kaEMzb1pqMjMzS1BmcF9XdWt6SzV4UFpzWnpNdGJ4eER1VWpLXzk3YmFWTmVoeXlCUVlMN3FoZlJTcnJKWWVFbHlSQk9CTWhYRDRZekVhdE41MjBldmwzQ0VDbm8?oc=5",
-    "published": "Wed, 08 Apr 2026 13:22:43 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "OpenAI\u2019s New \u2018Industrial Policy for the Intelligence Age\u2019 is a Policymercial - Tech Policy Press",
-    "source": "Tech Policy Press",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDQyR1JiSUs2TEtUWGZEZWQ0aWNaRFZWZTNNcVpVNmthbDJuMDdVRE4wV2RRRDFRQkpSZmE4cmV6Yl9FRGliRFVMX0FEZ0w2dFRTWTV1dUVfVUF1MGRDOTYwR1NoSGJ2VWR0RlBzRWJKNGtGU3c4Q0VYdjg0cHNia0VwMUk1cTR0UFZWeDlJS3E4el9WR1k2SzdzRlp6YXUxWWh0MHZB?oc=5",
-    "published": "Wed, 08 Apr 2026 13:21:03 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "AI is reshaping drug development \u2014 but who will benefit? - Devex",
-    "source": "Devex",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSGhsTElpTGY0a2pIdzdYcmhkcWRPbGNRYWlmakV4cUFUTlF6blpvUUp3dVhuUnBaZmxIcC1URm43dkRPcUFiZXEwYURkRm02YXVybGhacDJhSEEwSndGLVpWWmhGYlZUWU13ZTN0bnlxc1RQYU14NFViRktPZm9BOXNIR2t5dS1DWXY1NlNvZlc?oc=5",
-    "published": "Wed, 08 Apr 2026 13:19:57 GMT",
+    "title": "Trump has battled the drug industry. Now its top lobbyist is leaving. - The Washington Post",
+    "source": "The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3Jvc0ZmclNiNEUxZmpuaEFhSjNELXV5djlheU9POFMxZ1VrdDVrNVNiTlY1d0xBVzNZZmRBQkRHTzZzRVdNNHNqdHI5R2o2cXBLMkpKNlRHamgyRGJReVBCd0p1OVV6OUQwamlCSFBHOHhrTmhwQ3o5SDI0TjNoVEMtX2RpcEFienQ5Wm9VSzRvMVRkQ1JlTzJTZ1ZyQlFBRWx5LUlrU2xlX1N0NjFpbjFtajJwUQ?oc=5",
+    "published": "Wed, 08 Apr 2026 23:28:34 GMT",
     "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Here's Why Illinois Tool Works Stock Lost Ground in March - The Globe and Mail",
-    "source": "The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUndYc1E5dENnZnJNejg1cVk0UkM3MlI1M1JJbDZsX3hvOE96dzZKUF9JbXFvQkN2eGsxbWJoS0R0aGFTaHJnN2hJbXl3Y0hlNzY4N1RUUjFGRlpUdUhCYTk4SVBmLU1kQUs0VnNpUS0xWTdhUHBDRHZITVFDQTRKWWhRZm56Zk9ZcnM4QXBjY3NRRUh6TV9tM0NyX2x0Z1hRaGRaWHUtblRhdlB3VDlpNXg4clowWDJ3bHQxbFhKcW1yX2R1SENfZzVtUERfNDRhSW1adTNHT05sVGc?oc=5",
-    "published": "Wed, 08 Apr 2026 13:09:41 GMT",
+    "title": "Hollywood titan believes AI is a 'revolutionary moment' reshaping industries - Fox Business",
+    "source": "Fox Business",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN09hT0FjUEYtYzZoOEFvd2swRDAtNHBUbDBzU1ZuMEs1UU94bHYxRkVqSnNDVmRyTDN2MWJJbXlqRzh1aE9pNUVPaElPYWxsTWZtdkxrR2ZFNTVRTzF4NGdQelBuYUxjdENTU2FNcjkwaUI3aGgzWWZlRUluOWhVdm45VDBGczdEY044b2V5VS12am1MdkFwR24xSGZUb21BbUcxVWV30gGrAUFVX3lxTE1JbTh0cUFudDVwVmdQTWZObEVmVFN4c1FKSF9DVXBzQWFlMU9PUTVGNTk3WlJfRFJXWWNmaWFwY2JpSUQxRnRZOUxsWTA0NFY4WWdLekNPWUJNZUZSNVlaeEVWR3ZiZHZBRkdya0ZIMlVnVjItZ0NkNDBNekpKdUFUcHBSblBhVGxQSWZIN2Z1Y0ptenY3a0RBdVRBeG5yVVU5RjV4RWdZOFhobw?oc=5",
+    "published": "Wed, 08 Apr 2026 23:00:00 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Adecoagro S.A. (AGRO) Leads Foreign Consumer Staples Stocks with 89.53% Gain - GuruFocus",
+    "source": "GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnc4bDhaTnhZWTRhSFZuZ1lPMnpIVTJxQmxEMFVPcmJfTDlWQmNGU2xqTllNR0NpQ3F0ak9mYkZSNjR2YnBET1IxVHoybGlIRndHSlVNdDBGYnhjRUcxTGhmVWRiRlRVaExfd05KRkcteG1aa1VZTEREUjgtYmpsajgwRG1kMHB0aVFNS21aSWpqWFpGcEhGeHE1WU9hMlg3c0xCZE83R2UyNFpVR2c?oc=5",
+    "published": "Wed, 08 Apr 2026 22:05:22 GMT",
+    "sector": "Consumer Staples",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Rocket Companies, Columbia Banking System, and Triumph Financial Stocks Trade Up, What You Need To Know - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0M5Y2RWczNRaWRHeHhBdjZmSVBsd0lLZUJmNXBGeTVmVmI4aVNSQ2ZjeWljbEZTLWtzNlJCd3VRaTdmd3ZuUTd4WlBra3J5UFFwbjdua0d1YXhSa2diaXhvMmVZNDJlTFN0ejAzVUd1cVNDQTVpbkNMWjkxQ1VRdTFvSlM3ejJ0ZzVmdnQxdHh0M3AtWERVQl92M2VUdjU1SEQtYkFYSF8?oc=5",
+    "published": "Wed, 08 Apr 2026 21:49:47 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
+    "source": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0V0LWxCMXlFU0U3dHBXVjg5Vm9OM3JINmFFeDhGQ3lNZ09IYXZyV3lMSTVzaXJ4U05uV0xjZ3prUDc5dUhRT3cyRThVaU5BU0xUUjU5eUk2eDNPeFRRQ2ZmRUZqWTJreTdvQTlDSjRsOElVWG15cjNBU2NsdHdEcjBB?oc=5",
+    "published": "Wed, 08 Apr 2026 21:01:00 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Investor Stephanie Link swaps Chevron for technology stocks - CNBC",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEZKSVNUNFJSY3pQX3ZPWTZ5dTRBMG9VSGVlUkhFbHlycGRUbjlHSFRKZ0txelNsb19PNnplbE0zRmRpS01aOWFZUXB0R2dlZzNPdGlOYUpucnN1ZDdJQ19iWkFBTXV3NTNiQmt3elBVSmQ2dk5VeExSczZtUDJZZzE4ZHhkTUdsRVlvdnNvbEVTVDRHQWRQR3o2WWFxUQ?oc=5",
+    "published": "Wed, 08 Apr 2026 20:32:20 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Top drug lobbyist to depart PhRMA at year end - Politico",
+    "source": "Politico",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWhsUTFnbDNLOU9XT09oYmU1VWJiWnhYaldad2w1SVBhMEN5MEVyS3R2SVNEaUhoX0N5UXZseUlrVnB5QUFTWWxRV1F6NlNiZEhvTk8zeG4wRGFYNXJDUUN3VjR3bEFIaV9JTmJnU2Ztc3JDd0w4N3hjNEEtM1Z3aGFmM2RJb05GQVBfd3VLN01TNFBJMTA2aXowNA?oc=5",
+    "published": "Wed, 08 Apr 2026 20:14:24 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "How social media verdicts could upend tech industry - Santa Clarita Valley Signal",
+    "source": "Santa Clarita Valley Signal",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEdIbFppODJnWUxUbjd1Z2xmbFRtdTN3UE5hOVNyMVJzMHBHOUZSaEZTamRDQldSTWdUNV81LVYwb2t3NjJCSnZRclpmWmtQd2s2ZHphYWxPOWFUaVFGNXF4WDVSMl9oUG5EVkgwZ1E1VUg3UEVMWUhrYzRDQ0h1RHZTWWxBam5fTlE?oc=5",
+    "published": "Wed, 08 Apr 2026 20:08:30 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "RH and Home Depot Shares Are Soaring, What You Need To Know - TradingView",
+    "source": "TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGI3VW1YLTJrNTNDc3FOZW9PN3dLVjFxYXpRRllvQlRrd2M2WWhEQTJCdXh0YjROWldFWUhrLVpDNjBITXRFOHJweGFOaEtsTUZRaVJ5dXg3c1FydjRTSkVNMURITVRfRWdhNzREcUtHVktrRUJXMFZNNUZjSmxDaVNacjRMdVV6NXY5RTZxUWZZT3lBNEg3WlRUeGhjZXhSeHVDOFJjTTlNM3l5cEpnY0NkbzhVbTd2cVFv?oc=5",
+    "published": "Wed, 08 Apr 2026 19:56:07 GMT",
+    "sector": "Consumer Discretionary",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "More Interest Rate Cuts Could Happen If Iran War Drags On, Fed Says - Forbes",
+    "source": "Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTc3N1U5V1UxclJyNy1yTlR3d0xsVTVpV19YdmVfaGgwd2xTOS0ydEQ3b3dJSDJvZnFKV3p4YjNBWFRmUkZuNUU2NlhpSVBsOVdWTnJpM2wySmJyTHdEbm94MTdnSldyX2RPdWZ3UlNlMkZ1LXlWMFQzMkJYNVlDRTIxZnYwX25VUXYzWjVwNzhrVEVKN2pRM0dFcXNmRlpDN0ZUUllOejRXWG5Hay03cWMwMjh6aTVYV3c?oc=5",
+    "published": "Wed, 08 Apr 2026 19:42:28 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Canada Infrastructure Construction Market to Reach USD 208.48 Billion by 2031, Says Mordor Intelligence - openPR.com",
+    "source": "openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTN4ZVp4aHdyTnpiY3d2Q092aUoxb1lzZERlUGZ6YmRvd29qUVl3RWRqeWFTRWxUYkJOdkQ2bjBiNGEwcThuTE9POS1meEhsRlNVM1NuQWt1TURDS1ZVNlpvVnF0TXlvbUg1aFl6bnJKTlZITWFwaWxTMFEzaEIySy1IcDlzcG9XLXQ0NnBlRnlWSFFNcEpxVFhkT0pZZw?oc=5",
+    "published": "Wed, 08 Apr 2026 18:30:05 GMT",
     "sector": "Industrials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Protecting Patients from Counterfeit Pharmaceuticals with RAIN RFID - rfid journal",
-    "source": "rfid journal",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXYwRDB4d3VIcDFoOERoeUN4Z042R1pkc19wRlBncG5QUGJKbVNON3JJYWxsV1V2ZlhhdmZpMktSQ0llZWREU2ZhYjg2U0pzQldyUDJZeGUxOTdaVklZelpQaHYxdzB3T0JvUmdnb3dGSm5FUThNZENHYWNWd0xIdFRob0hDTTdxUTdiLUtfalpPY19SaGIzM3N2UTZnNTFGajBiTDF3WG12ZFVWdXRWQmUzakp5ZnM?oc=5",
-    "published": "Wed, 08 Apr 2026 13:01:25 GMT",
-    "sector": "Healthcare",
+    "title": "Adecoagro is the top performing foreign consumer staples stock YTD (KXI:NYSEARCA) - Seeking Alpha",
+    "source": "Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUE5nZVR1aVkzMWdpOXJxU1VfY0l6LWF1c3B6d1ZwZFZndi1TTGFzM3Vnb0FydXk0MXRZWEIySTFVM3o3U2UxMGlnTXlfbC00SXREVEQzM0RlZHk5T0V6eUlUNHNVWjNDandDa3cyTTFadzNURXo3TGlDdTJ6Sm5RdGFqZ1k1REdFR09mMFFOTDQyMTZVWFRwR2djVTdWT21OU0xLWTRBMA?oc=5",
+    "published": "Wed, 08 Apr 2026 17:38:39 GMT",
+    "sector": "Consumer Staples",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Jeito holds $1.2B close for biopharma fund as industry braces for next patent cliff - PitchBook",
-    "source": "PitchBook",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGNGZzFwNlFiOTlyUXVyU2dwMTRuYnVuTmY5THpnTUJvRU1aOXFvZ1VFbXUzallJSktnbE56Tk90Q0E0ZTlXVElnU3pvRmdfMXlpbDB4UEVhQzhPQTlRQUEtOF8tdzhrT0h1QlFoclVnbHh0RVdOU0dtcGZRMGprSktudHV6bENGeGNHX0ZfV043ZnRMbDFTaGxhQlVWdkI3Smo3bTBGeUZDaEJ6YVk2NHVVU2s0bEtOWnc?oc=5",
-    "published": "Wed, 08 Apr 2026 12:58:01 GMT",
-    "sector": "Healthcare",
+    "title": "First BanCorp, First Financial Bancorp, and Texas Capital Bank Stocks Trade Up, What You Need To Know - StockStory",
+    "source": "StockStory",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOHpPa1BsWUM2Tl91NEVveXQ2MVhhZ0VCa3o5eHBUQjBLVndjSWVNaFgxdzJraFQ5XzRkWXBTVWV4NzNvWkthd0ZxYjZXcGdFdHVQcUd3VDFvek4yYlJlS1ktXzNaVjVzUE4xS1pXTVV3WnlQWVJsWEd1S2xKamctRzljYWZ2R0xldzFRelA4c0UwdVE5T013Y3J0YnppZi1wbW40MUZxeWhjTjc5VGw3d0ZLeDhIREQ2bjlFQUttZWpKZzAxSGhUNnZfTU90NnlESmFlTHo5Z0JfQ3pkVW9yaGpxTXJGV1BfR2VIczhn?oc=5",
+    "published": "Wed, 08 Apr 2026 17:17:48 GMT",
+    "sector": "Financials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Energy security push sends strong inflows to Storebrand renewable fund - AMWatch",
-    "source": "AMWatch",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xclJnRjlSQXEzZnVmRUxHd0NjWThfTzBld3VHeGJUbDhuTGltMzJ6bnZtcXpyc08xckJ4LXRxa3hZYlZXODhVN055LUgwMWdHN1dGRnNGX3V3d0tpdnQ4NmpwNA?oc=5",
-    "published": "Wed, 08 Apr 2026 12:44:00 GMT",
+    "title": "SouthState, ServisFirst Bancshares, and Customers Bancorp Stocks Trade Up, What You Need To Know - StockStory",
+    "source": "StockStory",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQUpidWNGd0hBc2VJWE54TzdBejMzd05zbldNcjdpT0R5N3VTMm5laHI5LXBVT0dRRlNnbHBCdHJKZ3cwXzdtcnYwdEVNZW16S2VXZTk1VmhrOTFyZjRZQU1ZeG5nMENkSjR2RmMzczFINHV3UUlxdktpdlNQMW0wWkp0aW85MnVrNW1rcTNxTHVQOEdabFRvMlBaenQyeEY0b0ZPUThobU9FOU5QbTF1eDRaUkhxUVFfM1R4c0FvSVk2akItNTh0ZDJqRk1wb05NUmVJV2R1ZWZvMlVPNktWLWtWMDQ5RG8?oc=5",
+    "published": "Wed, 08 Apr 2026 17:17:48 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "North Sea Symra Startup Bolsters Non-OPEC Supply as Oil Prices Extend Monthly Gains - TipRanks",
+    "source": "TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHdmdmUxLS1IWnUxTU5sNVRFbU9Ha2RIQm81V05mTFJLU1B4Q2FYRlhQbEM2OV9IOHdSbl9uRkJnTUxVYW16MzJCenMxRWdFRDBZTXJUUHg5akt6aVI2WDlOemRIZVJlajFlblY5elk4RDczaVhtS3NNZDEwZ3FFdXhDdDRJUEgtYklQU2xJSXV2c2ZNckhDUDJ6VF9UTWhpdkJXQjZibXpYenREVm9pMEk2TVJ0QWRPcVVoOXg2bXlEVDA?oc=5",
+    "published": "Wed, 08 Apr 2026 16:32:39 GMT",
     "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Revolutionizing Cheese Production with AI and Machine Vision: A Success Story from Eberle Automatische Systeme - Robotics Tomorrow",
-    "source": "Robotics Tomorrow",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMkd1QlBTdFRLeGlfNTI4b1lpNHdzcXRMZUg5VDJBNTlIazFtRGNyLWtMdjdCb0ZpRjk2VUhMLWlId1BUYjFMX0N6c2dFNDhBQjM5UWFPcFZRMTVtRFAwQW05MGJabVA2V1NnVDJFRFVHQV8tOERHVHlHZVFNS2Z0M3VQZC1pT3lUY2MwbHF4ZllvMUtSbEpycmwySUhncjlLWWxTLVFBVnFweDZPdnRFYUVERjg2ZUg5SldoVndXbzByWFF2TEJzQ3J6ZzhYeV92YjBJV09uMTdYMmR4YUVxeUs0Y2pUQ1I5bEVBZzB2OF8wcHpzWjVrcA?oc=5",
-    "published": "Wed, 08 Apr 2026 12:31:52 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Seaport downgrades Broadcom stock rating on AI industry limits - Investing.com",
-    "source": "Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVW1KamEtSURzU3NpWFRJbEJWQVpiVHlXdFpGUUN2OXEtSlF2WmMzS1JRRUs5dnByUXREdUdLUFFySzAyMzFfbGVGUjBWd0xWTmhQYzA3Vkg2U1lGb29VdU95VXF0UEJBX0pwRnJHLUxONndPVG9DODA4dnpEcXJreGJkLVBjQlpkekNuZzIzS2tYWTc0Q1ktNFpGNVd4ZWtSUmN5b1pacnRNNzhRalR4aElaSEgyTzk3NGNDeHc4MA?oc=5",
-    "published": "Wed, 08 Apr 2026 12:26:13 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "3 Industrial Dividend Stocks for Reliable Income in 2026 - The Globe and Mail",
-    "source": "The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWWZSanUyOUZNVXE3bjNpWjJHRGFYdnkteU0zSGd1bzVzbklaSEktcXhWekhiMmZlOWdSdi1qYkdrOUhtbnhXMTVTZkw4THowRmNfMWg3TVlQTndBck56aUdWXy1qVm10Y0tzSENZbEhWT015cGI4LUd0N25LWng1cjVnN19ESTg2S2JvVDNWVjZ4dWlJS1ZLVG1xQ2dqN3FsczhjRXdIS1NLc1NwZ3BGN2N1aDdDQy1hRXV4bVVuNUQ3OHhnNTVVbVJ5VGdvdW80SnZ0ZTUwV0tnZw?oc=5",
-    "published": "Wed, 08 Apr 2026 12:14:36 GMT",
+    "title": "Industrial stocks hit fresh highs as ceasefire rally lifts infrastructure names (XLI:NYSEARCA) - Seeking Alpha",
+    "source": "Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEY2eGNYV2xENjhFOFVmTllzU2FvVUxubGRFRnhvQVhUTVJZTlJKWDRPT0ZDTHZCcjZXWjBFOWR3OEROR1lLaEp3WGVPbFNTNTlZVm9PTnJjdFZKTjdwbTJ4cFdfQ2w1UDV1VHJqa3hwamJldldqZmF5MTMzdGNIQWJOd0cxdGJrWXUxWjJNX29YWFlocldjZW9XODNIQ2dHRXpDdjZCLTZfdGQyVnR4TXlUMGVvWTZP?oc=5",
+    "published": "Wed, 08 Apr 2026 16:18:12 GMT",
     "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Kenya Holds Interest Rates Amid Uncertainty Over Iran War - Bloomberg.com",
+    "source": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzhwaXRhdEl6eUtyVG5FdUtJaHAxTzl1YzJHdXBDOGUyZ0lrSkMzcmhtOHJTVmQzaTJ3T1ZvZlNTeldoVFBmNmRFb3FXWWlPb2JEb3JsNjYzUHljcTJFRHhyek1oRU02ZG5mdkw5OENfMXI0WFhYQ2t2cURyUTNlemh5TTUxOHpOS0YyRFpBdlBTSWUtcndDc2VIUkx4Y3ZOZm5jNnRPS0RKdWx0?oc=5",
+    "published": "Wed, 08 Apr 2026 15:47:23 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Katherina Reiches Energiepolitik: Eine Ministerin, die das Problem mit der L\u00f6sung verwechselt - Xpert.Digital - Konrad Wolfenstein",
+    "source": "Xpert.Digital - Konrad Wolfenstein",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCam80T0dEME1WbGJPMi05eDJSd0RaS2t1NGJ1MVdMS25qY0x6ZTFuZUpRc0pQSHlEdEhYdWtIa1JJcVlmQ0lQai0zMVVEdXljTk9WeXZ6TDFEVlNiQU43NFVORjZsODTSAW9BVV95cUxOR3VGLWQ0a3ZsSHdidUZFZnh1Qk10Sm9kaGh0OW82ejloWGpxUzhpYUlYNjVReVR5X3NtYnQ1MFE3bEgyWjUxb2JaMmtQaVhDNXp1S3prdTF6b0t6cGtEM1RNZUpzbHFUQktkZXFwZ0k?oc=5",
+    "published": "Wed, 08 Apr 2026 15:16:43 GMT",
+    "sector": "Utilities",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Semiconductor industry revenue to hit $1.3 trillion in 2026 as memory crunch hits consumers - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY1htNmhyRkRha0lTN1J2aE1qaWdsbGVnWDRfbVc0LV9qRjFMREhtOFFhazFWQmNPVUhTeFI5d0d4MzgtbmpJSTl0UmE3cFJPZVI4V3JOSkxkVXc0ZGlOMmY3eV9vQWtpS2s4OWs3UlNYVHFwOTYwdlN6TTlpRHpISmlLTWVTUmhHaEUwcFFUcDktUzZsUUlNZFl6dWp4bVBSS1JsQTI2YndGd3VfalJTaUpXLTZUb0p0ak1lS3RJN1BVczZQaWwzeDNqTDVESWpvemZkdkFNMHROeFJKOHlFY0NhMklMVFZMbm1uS3NB?oc=5",
+    "published": "Wed, 08 Apr 2026 15:12:02 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Global energy stocks plunge as US-Iran ceasefire hits oil - Reuters",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnJ6SjZaRWFydzFkR0o4dkpGcC1PdnJLTWsyM090VXE2QllhNmtYSjJvSUhjQ0pMaktYdTFBYkhOa2ZWS3dyaWFId2dlMkVzRHMzN2s3Q1AyV2JhaWkyRVU1SkRGMkEwU0oydE1Da0QzSkZxOGdvTGVodVd2NVI5MkhYaF9VLUJ2Vlc3cm5FR2VlMGRLcDhvZTFka0swYTFlZGJDTWxXblJ3Zw?oc=5",
+    "published": "Wed, 08 Apr 2026 15:08:39 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Banks And Financial Stocks: Latest News And Analysis - Investor's Business Daily",
+    "source": "Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3Zid3lDUlRoeXNZWWU5cTBlUUtRTG1UbjBLWENDWGo0SC00cHB4NzVKZnhnd2lUYVBSWUdoZy11VFFfVXZrcmNIM3IzUm1nWm5sMTRUMmhXOUhobjJIZEFsX2dYeVN4ckZQNF9faUdmcnk4X2QzRGtxN2huaFhJS1pZbDlrWjM3MERBOXFkeElCdDV1WDZibFY4d2t0ZUJnbVNUTjg3OFZLTnlCcDJPa2JXOHQ?oc=5",
+    "published": "Wed, 08 Apr 2026 15:08:00 GMT",
+    "sector": "Financials",
     "entity_centrality": "mentioned",
     "mention_count": 2
   },
   {
-    "title": "Exxon, Chevron, and More Oil Stocks Fall. Get Used to It. - Barron's",
+    "title": "Will Alibaba Stock Recover Despite Slowing E-Commerce Market Momentum? - Zacks Investment Research",
+    "source": "Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVZxZnBOVVYyY3k2NkhtTGlMX3RZV0pNOHBFTks5aWkzWEgwZDhCN0ZCOWZ6azAya051Zm5zZHFsUld1UFd5Zm1ENXdwMjdQd1BITmRqeTc5M1dRb1RsTmhwdktBNkVJN3VnR2d4SUxUaGZnZWJyWWZzeC0xTWlvWEF0cEZ4dnE1M3hjeDB4UGFvVE1mQVdUM296cmtkblI2Z3ZFVWU4MnJrUThsd0tN?oc=5",
+    "published": "Wed, 08 Apr 2026 15:00:57 GMT",
+    "sector": "Consumer Discretionary",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Energy Sector Logs Worst Day In A Year: 20 Stocks Tumble Sharply - State Street Energy Select Sector SPDR - Benzinga",
+    "source": "Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVzc1dmJPcl96UnR3WUhJdEwwMlVsRFpMbzlLWnk3QmpFZ2FsVHUzRm1uMjJvWndYU1VsbXI3WnFjRFlma2FSTU9KRlRCRXI2RFd1OGFicENTVGN5TkJaNXFnbGk0OHhibzFEMEpiMDNYbUhDVFBaaDNNZTZHdnU0VVNGZzExWEZMT0N6S1pxZThYSVFxc09ZTGdkZGlVeWROVGVSWTlXLW9oTXZnSDlVUnBYbFVxQ0xGWTBzNmFWQlFRLW9RX0E?oc=5",
+    "published": "Wed, 08 Apr 2026 14:57:03 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "FDA approves Foundayo, an oral GLP-1 alternative to Wegovy - Medical News Today",
+    "source": "Medical News Today",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGdUSTljTWdCNGNtUTVLZURfdV9nQmlCV1YzTDh0bzZxVU1PekZ2Vmt5R2pKejBSUUV4YW9GTTFVZzlnOEZHV2pBQUxZeVFIY2JJSVRGSS1oLXg0RnpqQ3VZTmo3RUJISE5kUmtKWGRwZ2lUaXVOWGxBaGtXTndka2wwdU55LURBTk9LZ2lnZHA0bURVUmJUVU9oOA?oc=5",
+    "published": "Wed, 08 Apr 2026 14:24:24 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "5 Factors Inflate Costs of Maintaining Roads and Bridges - The Pew Charitable Trusts",
+    "source": "The Pew Charitable Trusts",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFlVQzNkMV9aRzZ2SVlJdG5Gc3M0Z003a3lNWV9HVFJ3dE9ob1M5anY5dkVEeENWdEtkMHhaWjBLS0tHRFBUYm5MaTBybDluVnc3bGh4YzNJbi0tZXpvYy0tQUVISno4NUdOU21veTZjSzVmazAzRkFRTmJRbUI1VE1DcmJnY0lEX0ZZOWROVjZtSWpnN3llTURrVk1NdGJadlotYmhuZUZoUlA1SF9NejFscU02blcwMzVxX1ln?oc=5",
+    "published": "Wed, 08 Apr 2026 14:17:00 GMT",
+    "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Is Consolidated Edison (ED) Stock Outpacing Its Utilities Peers This Year? - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblRxTFNaeldEX2FhUkFuMHRLWkg2eklwZzFTZmozSzFWTXQwcGRkd1g5azI0QWhWc0JDOUNHZko0X3F2cGlHRDhHQkVURWRqV0dEcnhxelZiN25WaUt1OUhuWGF0bE1vNmpJTldvOGh1UjRJOXpGQlNSa1FzVl9aSFFEdkkxdkN0Y2FSUDB1Qms5YTZuV1ZkT2lwZUw0UmNicGdITVFn?oc=5",
+    "published": "Wed, 08 Apr 2026 13:40:04 GMT",
+    "sector": "Utilities",
+    "entity_centrality": "mentioned",
+    "mention_count": 2
+  },
+  {
+    "title": "What the market is pricing for Fed and global central-bank interest rates after the cease-fire - MarketWatch",
+    "source": "MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGc4ZFYySjJ6UnJuS19OTjZkWU9TalBCcGJ4cVVDUk5WMTdnUW5BYVdQZHlNVjNfVFh1eFdjcExlNm90Z1c0ZDl0dkR3TVdFWFFBZVQ0Uk9nUWh6cFlnZ294QXYtX2ozOHJlSnFiTzlJZjhiRzJEY2RNN0dHTGdIWlJoVktZbE5CaHREUkdoU3B5dU1DSkQ3TmJnanBDMW4tS0JKendfZFZoVGs5NUUyNkQ0VFlQSVZING1hNldyLUtVcVg0alNqQ002Z0dWcGxRYW1pdWJrT1I?oc=5",
+    "published": "Wed, 08 Apr 2026 13:35:00 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Tech industry lays off nearly 80,000 employees in the first quarter of 2026 \u2014 almost 50% of affected positions cut due to AI - Tom's Hardware",
+    "source": "Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTnhvZ3kwMldsYjBtSkJibG9ZdG5pb0pRelctdGRzcU9QbUpsRkIwdTFFZ0RRamtVZmVMMDV4aHJnYVBFR0ZYWXVCUXVOVVpfYzZGWUhjZW9lN00tNEp0NTZIZUxkaHhrbDAzSUIxN3E3dFhxSDI0cXYyeTBiQl9iSFlPQUpNTHZYd0J0NmFzWVRZVjdKM1E1elQ1M2VtYi14ZEx1bnVvdk51dWlYM0J1LTROaDNiT3JHWTBaUW1tYnZqaklraXl5TGF5X1RQMW1GR2t0NkNTRzdWbmdheENSMVNKV2RSV1I1dXB0OTFCUXpNeEtOS3ZPck9aTTdmXzN1Z0E?oc=5",
+    "published": "Wed, 08 Apr 2026 13:34:41 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "The Risks to the Gulf Region\u2019s Oil Are Immense. Are Markets Shrugging Them Off? - Barron's",
     "source": "Barron's",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2T2J4dG4ya3lNa2I4UUdsVHBxWU1Zem44XzlkWVdQaldyYjVhTTJwVnlwc0JHaFJGdnQwb2RlSVhZaFNPV0hBVHVYVl9oVV9KcGZuVm5yVGZBTlAtdERsWFZUVU5hQzhSbnp5SXdNUVhaZ0ZWWWRDX0VHTXY?oc=5",
-    "published": "Wed, 08 Apr 2026 12:08:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12MWRxRDNUcVVkVkxkNENSVzNNTm44c0ZUOW5fOXBtRjlaalBydFhqNHlJVWVMTDdLbmV5QklEZ1RyUmYtOW5ES2xLNWFDbmpITVRYLXhBQTUydWV0TVYzQ3JyQXdNRFVLWWE1cGxrWWY0ek44NVNJbWFB?oc=5",
+    "published": "Wed, 08 Apr 2026 13:27:12 GMT",
     "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Analysts Offer Insights on Healthcare Companies: Neurocrine (NBIX) and Centene (CNC) - The Globe and Mail",
-    "source": "The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdzA5MnBXYXp6aW5udkVkem1Yel93c0tWZjVwaU14WTZrN2ZjNkJlS1RBYmxjU3EwSTJoZ3RuVDhCalVMaFVwdmNCc2tEYzZ6QllVVENoZkFDNFAyUTZNMTg3RTdpSHB5UkxIbkx0bDkwYzlpWVJxdllzV1NaeTVtOTVTWFFHbUJTbjF0Z2NqQXlUWHllY2RRRmUtOEpla3JTYV8xc1FNUjBWdGh0d0dtbXN6M2xPVjV2b09wb25fazR4Z203M0FjNTF6MUhoLXBJOVJ1eGp3RVNPTkYzU0hudVBYczVteGoyWE9qb0xOUmRXZ1RQc1E?oc=5",
-    "published": "Wed, 08 Apr 2026 12:07:42 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 2
-  },
-  {
-    "title": "Excipient Selection Strategies to Mitigate Nitrosamine Risks - PharmTech.com",
-    "source": "PharmTech.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdGlubFVCeEFFNDhsYlBiNmw0ajNBeU9veXpVOGdmcEM2TldrYmJSSV9SSFotX3d6XzdiN2RBLUl3STRMejdUYzQyR29STko1T0J5NXM2aktHU0VQajZ4QkJlMi1fbzVpQmREd2EtZmNSTlktRG1sNDEydmpCLXNlUk16YWRzRXR1MDVhYWxVMmlwakxm?oc=5",
-    "published": "Wed, 08 Apr 2026 12:05:36 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "ProofPilot Announces 2nd CORE Symposium, Gathering Pharma and Biotech Leaders to Tackle Clinical Operations' Toughest Challenges - PR Newswire",
-    "source": "PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVTBsRlNNWHpGRV9abWVrNUg1QlUwS1lfSm4zZU55TVEzWGlHMnQ0WlhiUmRwMzJPU1ctYTd2OHpMVHBKbThYdDJIMFEtekZNVjhVcGJkNlE1Y3dCMnFJNHBZZWppRVJ6OXZ0WnpVNHNmMzVlWDd1ZHVDTHM4X3dXN0VLTDVDY05LU0Z3VjhpS1RmMUhoMkJlbjE0Tk9QWS1GeU8yLVJ4dmRCbGdQeDRoM1BZYkpIZ2hwNzY3YVgteEd2OVFRcGFvcng3eHg5Q0JfbjRJeVZnR002RDh0X1p4dU1zZ3AyMlJFSnFBczhuc1J3ZmdJZkJOWXI1ejNhYmY1Y2hpdWVyMGR4eXROUE5j?oc=5",
-    "published": "Wed, 08 Apr 2026 12:02:00 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Japanese energy company JERA partners with UC Berkeley to co-create new technologies - Global Venturing",
-    "source": "Global Venturing",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeDhpWkF5SHZKR09zTHl2VzU5V0ZGR1ltVFdTNEFzQlVFQy1kdmtCSDNpWXpsNkx0TlQ3NnAxWHdMbFZIN2g5T1ZycGdVNHBxa0hGeWJfRFh0YnUzQXJoOVVvUWhXZEdmcUhMRHEyVTVMTzhGWXhIdThKcXVOSFc2SGFsUm15Y3dERDJuUlFFWVhxRGliazhOMG1PRVUxX1RMenhOai1oSkgzSnk1Um9kakEwRktXcWdNRlFkdzRidmhhQS1WR3d3?oc=5",
-    "published": "Wed, 08 Apr 2026 11:53:07 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "As Middle East tensions continue, IDC sees worsening tech environment - Computerworld",
-    "source": "Computerworld",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMmV2NktWQkdxMGRacUYzNTdEanZJX3BqSGN3QXlLeEZYazBoTno1VGNyU3pNRVRLZ1N0NEhxWmZFSGZJaXpXZ1pmbDE3aW5xWmZpNm01Z3NsWHR3TDVIOFhVenRZNWJyY0p3RnhYeGNSeTV4a3U0Z1BFUWNhTnkycFVjc3VmbFpiT3hhX2JNZkVGTGk4NTBGc2Myc2hYMFFKZHFOSk9jaVROOEk?oc=5",
-    "published": "Wed, 08 Apr 2026 11:31:46 GMT",
-    "sector": "Technology",
+    "title": "3 Industrial Dividend Stocks for Reliable Income in 2026 - The Motley Fool",
+    "source": "The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFdsSU9Kc2tlS2xDUC16cUtuZnJOWTdKdjlyeDBfSjJIVkVUaEdZbm9YSjFRMDRSaC1fb3pIc3hqMXdVWUdOdS1xOG5TbWNBQXdMNndwNGpGV1YzYWY2NGJ5OXBUX1pxTU9UT0pfVGxaS2d4RTM1M3VZR2x1R3p2clMtVXpkUUJrVjI0dHlBU2VVSnBjQWROVA?oc=5",
+    "published": "Wed, 08 Apr 2026 12:38:00 GMT",
+    "sector": "Industrials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -153,92 +279,11 @@
     "mention_count": 1
   },
   {
-    "title": "Will AI doom office space to history? - DW.com",
-    "source": "DW.com",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTQkp5ZVRBZFlXOTBRdzNlRl9nc2dNbnYweWc3UDNXOHpIUTBkQ3lCN0gzX21HYmZ4ZE9fTUlzMjJFUEtldVJENUtKS1VaczQ5NHFybXNuZkswaVRabWxZRzE0YU1VZ3liRkxxcWUyTHI5c050LXZPTNIBeEFVX3lxTE1NTXpOTUJzeWdBRG9RSkhIZklaSXdWbVFiMDVyOUdCOWR2NUJvQUtZU1d6NGRHT2kwcFBDbGczZFNhRER3Ujg1c3E3SFE3OUppY0VaNGZidEFJUExSMmI2SFNOX2pVSVc5aUFWRmNUcHJRQUFvcTZuSw?oc=5",
-    "published": "Wed, 08 Apr 2026 11:14:53 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Biomethane Market: Renewable Energy Growth Driven by Decarbonization Goals - openPR.com",
-    "source": "openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGRfa3dSR3RiMnlUbDhtQzlReDgtXzBKQ2lOUy1nd2hadEdfLTJWQ1BIWThLMTFZMFBwNUQ0MnpVUGJ6TVlQaUxpMVNxYk9Ib1gyeXktS2F4LWJ5U1VndWZGMWVQUkt4dnpxT2tGMXJ1Z2xpVlROb3hMbDhOb3dKWUp4cGNPdGh6bHNtLQ?oc=5",
-    "published": "Wed, 08 Apr 2026 11:02:09 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Bruker-imec Development Project aims Advance Semiconductor Metrology Technique | Business | Apr 2026 - Photonics Spectra",
-    "source": "Photonics Spectra",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOajRoME1VSjI1dDBOZGF5UUs1cUVwUzNfZTNDYlpsdUw0bHludnNxcEdhb3JJUFRxVzREUi1ZNWxOZ3lEZHhIcjZlcHBRcDk1RHJlRVFCYko5QlVxNGlGZWJLMnE3TC1lRmVmWVY2cmlaOWhTRlZmalA0MmVnRzZubHdqVTJJbXB0V1hua0RMeW8yQWc?oc=5",
-    "published": "Wed, 08 Apr 2026 11:00:47 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Construction Market: Growth Trends Driven by Smart Infrastructure and Urban Expansion - openPR.com",
-    "source": "openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmxUUS1qdkI1ZXU1OWNhQ1BtbHdEd3I3UFV1SXRlb3o0OVRqaFZBWEkyRzJERUZaNXg3UmZ0N3dpSnhvRWhRRklJaGY2RWRPNTdMa1hURlFsSlJOWC1DMXlsQWRLWGtCN0l3Snd2NnVkeTZOaWFsVmp6aUFNZUE0OV8wSDlkX0tURHEzblNB?oc=5",
-    "published": "Wed, 08 Apr 2026 10:51:49 GMT",
-    "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Energy Sector & Industry Performance - Bloomberg.com",
-    "source": "Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95cXJoTURLVVVQT1lPRm5FeDB3Q1hkRTlZU3lFVzF5bUtkQ0F5cHZkV2pBOGNfRV9NcVlRVHBwSmNxYVliRF9uQk8yWjIxTVJJenExclVLUWRTWkJ6?oc=5",
-    "published": "Wed, 08 Apr 2026 10:42:35 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 3
-  },
-  {
-    "title": "Has Novo Nordisk (NYSE:NVO) Fallen Too Far After Recent Pharma Sector Headlines - simplywall.st",
-    "source": "simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSnpBdzNVeHVKbkdVdDllN0Jsc1VWd2F3MkMyd1dOUGd0S1Jac3FfR3hpT1JtRl80bnl2TU9uekRaY3ZKbFA5VjNVTkdJTzRPYXF1MlBrdjdTc3NiVVA3OEJFcnZueWVLdXVTT24wVlpoYk9XZXF0THowbVNvajM5YnZ0ZlVkNlR3V1V6bjZmQ2M3M2hadmppekk5YkZuNFMydDBFZjFxeG93M2c0dkdSbVFKWERWdXNNUlFBYnhvcXNBd0JXdHY4NmFMRjA3LXlwZmdGckxQMmdrd9IB3wFBVV95cUxQVXE2SjFVSTdkcGZMVnhtRkhGVmtCTTRQaG96RW94OEZTMGtmZ3hiZnhHQUd4TzN6bUx0b3ZtY3M0Um9uTUNKdm56bHJaTml0RXdXUDNXZEpWVENSS2dmZTZsR0dFZ1d2RG56bHd6MTFydWs5VFZpU3dqV05RTTV3OVo5eXZ3WFdqSm1hWXRqblZ6T1ZxSzJ5cUhQc3N0Z284TTY2SXZFOFVTMk1ycEJDeWFVeTBsV3BibzA4d1k5R1E3Ti05WDU1cTJXdlZYSkFoSThjS3kxb3JwajA2Tk9r?oc=5",
-    "published": "Wed, 08 Apr 2026 10:32:51 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Scaling renewables through discipline and integration - SeeNews",
-    "source": "SeeNews",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcURNajB1Uk9PWlFWMVQzWlRxTWZsOU5Mekw2TUdSbW5aMnRRQWRTT3hYR2NRWEtTVkxDNlhDazFjcUI5UW9PbnZxT3E0Q0sxckhmTXhvUUMxWU9OR2QtOFBFTUwzdkJYbjVfVE9zOF9iZXdkNzVLSkFRRVpWYU9yZDRYdEJFbDF6NnVpd1RhMA?oc=5",
-    "published": "Wed, 08 Apr 2026 10:25:22 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Pharma industry laments Trump\u2019s tariff on branded drugs - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVUyRklaVC1EV094SzBlNk5JbmlMSDRNaXFkVEpaYng2b0NLMWMxcGpsMzlMNm5EMFc2MmJZOEpwWDhveW1KV3FoQ2xWVTUteDUtdXk2MWxSbWZ2dlA4R09zQVkyNUlNNVJURE9XMnNRTlp3cmZRT25FZjZ5SXRZZDZ4elJFMFBxVXNuMFJYX2pSd2JvZmtRODl1enlfc0JRcFljNA?oc=5",
-    "published": "Wed, 08 Apr 2026 10:20:34 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Reflecting On Diversified Financial Services Stocks\u2019 Q4 Earnings: Euronet Worldwide (NASDAQ:EEFT) - StockStory",
-    "source": "StockStory",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbFQ4RzBGNWtYd1RVSVRSeE5IZkNERjBxR2xLOTg3UzFYYjNDejMzWDNNWHFQcEQtWjJVcmt4QXFicEhTZVI2NWk5Q3hHRlgxWUY0WGlWM01zU0I4ZkxrdUMtdldtOFQzdDMxWGJpajdxSU9rZHRnNUNxNkx0OWdIYzdVc2VRUkdrSDJjWUhDXzV0RUZkYVViaG9FTmtraXB6UHUxZWJRV28zaDBPOWptRUFDSFhYWnpUTVFFbzlRU3NidVpST0Q0SXRwb0V2Uk5QNEJGc0dOSGZxWEZORGFqejd2azZJZw?oc=5",
-    "published": "Wed, 08 Apr 2026 10:12:52 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "More than 300 million euros planned for infrastructure construction works in Riga this season - Baltic News Network",
-    "source": "Baltic News Network",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWhVZzZzQzhTRU1tX3lybHJnS3AyeU5jR2M3a1NiVzJfSDVaMTh3YnNVbXd5a2ZpVUo2bDFRYWNIU0YzTUJWLS1kWXNOelVqaEF1Wl9uR0REYmU1WUZIcU9SRjN0c1hyRWRXV29xbk9saEU0Z2RFNDVNU2N2LTBTTFRIWDdBTUJfbi1LZnhzVm9tNGhkLUdVNThmRlI1Y2p0dXgtUEhTLVd0SUg1X0lFanFPMTl2bmVUVzVmTF93?oc=5",
-    "published": "Wed, 08 Apr 2026 10:12:15 GMT",
-    "sector": "Industrials",
+    "title": "India's e-commerce market to expand from $90 billion today to $250 billion by 2030 - Campaign India",
+    "source": "Campaign India",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR1ZldVdWSndCTHNUaktCczlsVUo3RGQ0UXhyYzdPa0hkRkEwR3A2R2hKVEd5Vlp3bkFqMjBRZENwdUZoMU1NdXpmTzdHdERXOUJTVFFhZkxRNEFSWmpCZmRIclROWWltdTBRWVAxbzBfRzFTcF92VU9oMHhnUzhWSi1jV2FIVFlBZHNRZ3VJMUFkODFwTzBkWFRkcXpZUGFSdUw2bzZrVVdjcDZKUHhsYXdwd0hKbnhTMl9jaEwwOXpiV1VJcTdQQVl0bkk4aUJlSWRuczNRYndaYjZp?oc=5",
+    "published": "Wed, 08 Apr 2026 10:07:25 GMT",
+    "sector": "Consumer Discretionary",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -261,40 +306,13 @@
     "mention_count": 1
   },
   {
-    "title": "Best high-yield savings interest rates today, April 8, 2026 (Earn up to 4% APY) - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM1YyUnU3OEk0T0RGQ0pVNXp4M0ROcmFLOUNnZ3V0SERZbk55RnVGcTRlczJoUmdQNWx5c1JnMEdXTUl6bVVHUExUUWFaekFZY1B1ZjViM1Q1T202UlFPSkp4T1F3SDU3d2oxdUFKbEN0SWpFZi1xUWFSeXZraWVoY2UtUkNwV0xPWkgwOEc3Y09KczZ1U0UtaUQ4alp1SlRtZUxjX1E5U3ZVUDVxb1FUWUZWUTRSZ2dsMXZLQ1JNSHdaeXlPa05kNEJJLXF3LXhIel8wd28xYlQ?oc=5",
-    "published": "Wed, 08 Apr 2026 10:00:00 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 3
-  },
-  {
-    "title": "Investigating NVIDIA's Standing In Semiconductors & Semiconductor Equipment Industry Compared To Comp - Benzinga",
-    "source": "Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVnI5NjhWc19jRjBVdFBiTW9aYXcwQXNzMHExSDdtUFZoWEZNeHE4VzNjZ3hkX3A3R1hQM09wTTFTdnlIeHlmVm1MZFNqM200azdjM1drMXItcmNkNGliUHFJQzhRYWtOOUV6WmZXNlRmZ0lqd1hWQlVZXzhPek1ROHpuRXlXOW5IeUxjZlJ6ODI0c1Z4ZUNTU0Z2aUVqT3dzWXVrdjEyMDFHSVBBd0VyTE53Z1VZYXlGN0E5TnNRY05pRFluMEswbHFtR21hRldkTV9QWmY2aGxWamwtdGhJeDdfNDN5UzJU?oc=5",
-    "published": "Wed, 08 Apr 2026 09:58:23 GMT",
+    "title": "7 reasons Goldman says beaten-down tech stocks are now a buying opportunity - Business Insider",
+    "source": "Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWlrNHBXSkVuVTF1ODFVLW5LUFMtYXJOeUdaTTctS25haFoxc1hDeHd6YTUzX0dUZWY1ckF1Si0xUUJRWXJEa19uc0xNeEY4VlQyaVRqbVRuTWZ4a3ZmMlNSVWVtVWw1QVZpbWE1Y3BsMWtTU1ZIbDFESlhRd1Rvby05RjNnMGF6SW0zWGpWUkw0SnNF?oc=5",
+    "published": "Wed, 08 Apr 2026 09:45:00 GMT",
     "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
-  },
-  {
-    "title": "Inside Samsung Electronics' Taylor, Texas Semiconductor Fab - Manufacturing Digital",
-    "source": "Manufacturing Digital",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ040Z0hJdy1zM0htN09YcTlGRnpSWjlHRFFzVUxTRHJIWnNvUzlMT3phSlZHVk0yNEh3aGt0dXNBYllwZnQ3bXdSUjRUMm9pMHRVQUhCN0xQZG5GV1VGYlFVRUJGbW1jN1cwQUZGVTIwd0xGWTZnXy1ZSDJCQmM2eGE3Vm9tY1pDYWszek5BVFgwemZNZlVOaWNnWQ?oc=5",
-    "published": "Wed, 08 Apr 2026 09:56:52 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "7 reasons Goldman says beaten-down tech stocks are now a buying opportunity - AOL.com",
-    "source": "AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tbXR2cldBc3NyQzJWcmt2TTJOV3h5Tm1rNGFXdTJqbF9kTGtiNTYxQXVmVE1ReERBWlVhLVdTLUxGR0V0QjBGN2FGV0hyelJNbkQzblpiVmxGUjVxR1JKMnF4cG40Z1ZCRnhpZjBVX3JPelBjSjV4MmJUaVRLZw?oc=5",
-    "published": "Wed, 08 Apr 2026 09:45:01 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 2
   },
   {
     "title": "3 Consumer Stocks with Questionable Fundamentals - StockStory",
@@ -306,10 +324,10 @@
     "mention_count": 1
   },
   {
-    "title": "A wartime prescription for the pharmaceutical industry - The Business Standard",
-    "source": "The Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQnZBcmNCU0E1SEt1V09EczVrY2JXMGtMYkg1YnlWSC1ERGpVc2twTElJWC1ZMzJEZFhoM3QxM2dyeUl4Qnd2RGx3d2N5N1JrR2F3Yk1ZQ2lDSWV0cGNoNE11OTFacld6ODdTVGE5aDNHYkVkaWx0QUpjanNNQ2hheTQ3dXYwQ0FRYzNLV0hn0gGTAUFVX3lxTFBOMmttYTZTTGF5MFNfeGM4TGRJRkpSSWxxb3FBYWtrNzRpRjBRTmZkZUhHUENfbElOV1NuMkd1djlKdXluY0V5eUhYN0I1Ri00SU9JOGx3MFlkOFJtVHdJNDJveHNMdzhkOHMwNG0yc0htNzR3OTlaUm1NV0FIb0FjbGtzR0E1NkNLX1NPOS12ZXJXdw?oc=5",
-    "published": "Wed, 08 Apr 2026 09:40:00 GMT",
+    "title": "Pharma industry laments Trump\u2019s tariffs on branded drugs - Pharmaceutical Technology",
+    "source": "Pharmaceutical Technology",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDVtZ1FMdnNCcjJTVENQNWpXSVFwTmRsV2RKdFQ0TjNJWnhSTmhlS3RqQmhEeWp3NjdxdnhIV1BaMjZ6ekh2c0N4Qi1GU0NHNjNmZUhXYy1CZVV3djBRTUsyTHd5MEpJWGlxUng4cXZQRll4UTNCYVFRRmhuTWJIdzAzd0V5U2lZOTRMaERXWEsxYkd0R2hKNzZ4bUxlaEhKWGVoSzBR?oc=5",
+    "published": "Wed, 08 Apr 2026 09:39:44 GMT",
     "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
@@ -321,23 +339,14 @@
     "published": "Wed, 08 Apr 2026 09:39:26 GMT",
     "sector": "Consumer Discretionary",
     "entity_centrality": "mentioned",
-    "mention_count": 2
-  },
-  {
-    "title": "Biosurfactants Market Outlook: Europe & North America Lead Sustainable Surfactant Shift - National Today",
-    "source": "National Today",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZXJ6a3BvNVNyUVJsV1JUeW02UXIwVll0NzlkYlBDZ0ZpQ3F2dkR5dmhuMUhzUk1zcl9hZVRXRjhkNjF5Y1ZwZjN5cVp6eU8xbGd0SlRmS1RxeVJjcGRCVDVGbHpMeUlIOExjVVFpMk5QU3hGWk9HNGxFWlJKQUFaaU1peGtEcTdYZTZ1SWFGdEdlbURkSnQ0RktTLUw0WThxdWp0cmNjMlpIY1pUUVBSNnEwNHdQQ0hyZ0JYc0VYX3FkZG4tZFVFakhLRVhUUXN3R1RSVWU2RzFLS2M?oc=5",
-    "published": "Wed, 08 Apr 2026 09:31:03 GMT",
-    "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Barometers trade with robust gains, financial services shares advance - Business Standard",
-    "source": "Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVjJnOExfbUxNMkNYcUNVa2NfRlVsaEJxN0tzdjR4SktkV1ZuMkxxTnJkdEJucjhONXlrX3IwdVJwSU1FRGxzWVlVTUUzcnlQTTdRWEl4cjdPWW9hQUQxdlIyS1FKRHJFOF9KU1FRTjJwa3JGa1dYVTVmNFVEYTNwWk9XdzI3RUZwMkR2Ty13TTRWOXl0c2FWck93cjFvWDMtaUhnSFJMSHh0ZFdTbHV0dmF3S1IzZkU5R0lDLW5JZ25OTWpTbnowdWtZWEw0bXJrVHpHNXc5bS1NbWF3UVAyNXBDeUzSAeoBQVVfeXFMT2dHRGJrRFhHeFFQZVFYSDNYcmZoUHI1eDd2bVA0cXI1TzZ5Y0tNME1Zbmo2d284bWR6eDZUdFN4cVFyMkZfbk13T2VuVmNUZnA2d21pSHIxYUxyeTZmSmN2dDdNSTMwWGNhUmYxYVd0RndSZHVESnRtb3dNa0tVaFBpQWdLMlktb0dUektEVndvRnBHVEk0MGUtcHhNanE5eHZtZnV3NnJ5d3h3THNQUHlKYnBWS2tpdFhUR2FLTFRpVUZUb0xyYU50ZklQYml5djJnSXVvZnI5NGhBaC1UdTRtblFPazlLT2dR?oc=5",
-    "published": "Wed, 08 Apr 2026 09:20:02 GMT",
-    "sector": "Financials",
+    "title": "The demise of software engineering jobs has been greatly exaggerated - CNN",
+    "source": "CNN",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tOElicVFPaWtXSUwxTC16U2Q0aGNsT3piYTNjLUdIbWwtR3RWZkV5M2F6eTktaTBlNDBGdVRCU2xOTUNXdmc2UW92Q19xcE9BNEQtSGtkMzlRcG9RRHZEcVJkZEFpTkMzdnh0c2FKZw?oc=5",
+    "published": "Wed, 08 Apr 2026 09:30:55 GMT",
+    "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -348,7 +357,7 @@
     "published": "Wed, 08 Apr 2026 09:17:12 GMT",
     "sector": "Technology",
     "entity_centrality": "mentioned",
-    "mention_count": 1
+    "mention_count": 2
   },
   {
     "title": "European bonds surge as traders trim bets on interest rate rises - Financial Times",
@@ -360,11 +369,11 @@
     "mention_count": 1
   },
   {
-    "title": "Arm Steps Deeper into Silicon: Implications for the Semiconductor Value Chain - Omdia",
-    "source": "Omdia",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkdRTTdUdHN1RUlzb1p6Wl9haS1yZnF5MXlSZzJmZjU1Vm1VN3hLZ3ZqRlQwbWVmSHByemNCUnp3Q3hKUEZPOE9vdFVmOEZncXFFdG5CZ2ZHejV0WXZkSHpqUDdfRzlqc1B6ZDd4UmNzcDNZU3o5Q1FaZDNhdzd4aTdKRFFGSlowNVdfejVjS2JpcXNPNWNya2liVzhpdW9NdWNCY0lnVjlPQ3BwRGtmR1AwZGtsYUl6YkZlSV91bw?oc=5",
-    "published": "Wed, 08 Apr 2026 08:57:45 GMT",
-    "sector": "Technology",
+    "title": "1 Healthcare Stock with Solid Fundamentals and 2 We Brush Off - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWRZaWFSWjdrQmRNaHpiZmFfWXJMRDE1ZUxwUXExWlFBYUtOblRyMVN2clVMREs1Q3llWS1jVGlEWlFMcl9LY2JBYjZZbTBUUHQwUXZEeUJ6NkxHV1hXdzFfS3laTmI4VTdLaWNOUnFiOXIxQVdEWF9jUE1NVGM4bjlId0xsSXFEeGMyekRkZnRFQmlrNW1XV2lRcmNaUndJMXhwM0tZWWQ4Zw?oc=5",
+    "published": "Wed, 08 Apr 2026 09:01:33 GMT",
+    "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -378,56 +387,11 @@
     "mention_count": 1
   },
   {
-    "title": "Pharmaceutical Robot Market - Global Forecast 2026-2032: - GlobeNewswire",
-    "source": "GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQQ1hJSUZFb3pBQVRtbFZZdFctZVNQOG9vYWpwY2dIdFJlRUhnXzFSU2xEQjNac2sxNEs2aThMOGVubHpSUE9waWdGd09xQTVkaEx4V2x4a0F3Z284cWw5bUJvdHBEQ2huY0hEOHNoWWJtaWxHYU8yZ29BNUhkUXAtVkl1dDhfc01kZFFsRG9mNktLeWMzQXQySEI5YVk5S3FPYkJOcWNiY1JjQjNXa3pkVjl0amk3VmQwczVfeklxdE9ObVoxSGFZWDdPdTlQaXNodVJLNGxRRGJqd2dtV1hWd0FRM1YxNU02eE04aHUyUC04Tmpib0tmeGt0Y05jcUJTa3V4QkxEaEJmdDJzUTk1WnNnWnVwYVEwSW9YNWpTSXJqcy1lMG1sb2xsZE9zeFFSWG1KbkhXTXJpMGZIZ1dKNDRXV19hd0FVUzlDMDlYUEhFeGxjNjAtcEpuaEZuZmIyM0sxQlEwNnVGSUlt?oc=5",
-    "published": "Wed, 08 Apr 2026 08:53:42 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "What the market is pricing for Fed and global central-bank interest rates after the cease-fire - MarketWatch",
-    "source": "MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGc4ZFYySjJ6UnJuS19OTjZkWU9TalBCcGJ4cVVDUk5WMTdnUW5BYVdQZHlNVjNfVFh1eFdjcExlNm90Z1c0ZDl0dkR3TVdFWFFBZVQ0Uk9nUWh6cFlnZ294QXYtX2ozOHJlSnFiTzlJZjhiRzJEY2RNN0dHTGdIWlJoVktZbE5CaHREUkdoU3B5dU1DSkQ3TmJnanBDMW4tS0JKendfZFZoVGs5NUUyNkQ0VFlQSVZING1hNldyLUtVcVg0alNqQ002Z0dWcGxRYW1pdWJrT1I?oc=5",
-    "published": "Wed, 08 Apr 2026 08:53:00 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Indian e-commerce sector projected to hit $250 billion by 2030: New report by Google and Deloitte - t2ONLINE",
-    "source": "t2ONLINE",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTmRuenBKeV9QbDRBeVlBajVUU1JaSDlYWFVaVERnVXgwTlNMWjZzSmNJZEhLZ2ZMWWJ6aTB3ZmRWTGRoeTRhNENNSWFvVkZ5Y2J4bFBBZzBCeXNISFJZaVA1ZlR1Smo0WWhROVZxd1M2V2g0RktyejZuT2tBclJkUGdUNzFXbGUtdlRVeVZxU0txQ2tnWnZxb3dsWDVQaGEwekpCZlcxaHVoRUFsalIzODFrX2NiY1YwSm1odUFESWZ0UjB3VmgtVF82UzJUZ1o0ZlRRV0h0NA?oc=5",
-    "published": "Wed, 08 Apr 2026 08:45:00 GMT",
-    "sector": "Consumer Discretionary",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "China's Xi Calls for Demand-Fueled Growth and Tech Boost in Services Industry - StockInvest.us",
-    "source": "StockInvest.us",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUh1UGxXbGUzRGxnZHVGS0llNThEVlVfTy1YWGZZbXJseGE4ZEg0aWw3QmUxTklaYjJwV0dDM0pnMmFxXy1JVU1PUW50YXZrdmZPWVdEalRXTEhrclZxMG1kWVpud1V6TTRXTWYzaTVsbWlGbWRzY3EtT2U0UmtmWGJYblU1UWFJcHFXSDhiaDhmemxZUXBnSmdZRXZpa2w1X0dFVGRCVGJsZw?oc=5",
-    "published": "Wed, 08 Apr 2026 08:31:54 GMT",
+    "title": "Has Dell Technologies (DELL) Outpaced Other Computer and Technology Stocks This Year? - qz.com",
+    "source": "qz.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSkVxZHdGeGlVajB4dTZrZFdTeV9JQWh4dENUOFhjZ0kxZ0QzaTBNNDRRZG11SmNpNjVrU0dXSEVxQkd4OXFubDljSXh0dC04RVRkbjNFZmlIeDVQcE1WakFScTdSaEMxdFhSUW1wODBZeG9rTVR5dkY0MWRSQkpZTkVNbE5VZi1hSjR1YmhWUzVkcnZuLTZkSU1iVFdRdw?oc=5",
+    "published": "Wed, 08 Apr 2026 08:40:02 GMT",
     "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Beijing Urges Use of Innovative Medical Tech in New Industry Guidance Document - Yicai Global",
-    "source": "Yicai Global",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkRDSGQzSTh3RnFQeXdWRktuT3Q2VG02YU1XakVXLXRPd25TcVcwNUFVcEF4SzhUNWpaZ29ySzFMX3I0VVhKX1N5WDI4Y2NwUG9CN3M5NWdESG01SzFzdE9IM0w4blpjUXYyQjYwbGxkcV9FbTA5UjdIbjlfc2VHZVYtSWRkTHhpdnZrT0RBR2pLbV9Sd0tfdlU2Q0hjQ19iTGxBQnpaR1N3Y1FfYXZNTA?oc=5",
-    "published": "Wed, 08 Apr 2026 08:18:21 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "CD Rates Today: April 8, 2026 \u2013 Take Home Up To 4.94% - Forbes",
-    "source": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wMlhvNWt3dm1YZkJPam1PTVdhMGVDbEZhSTVMLTdNTWMyazkzZ3FCUm5NV25UcVcyVXJhWG5KX2F4LVBfVzJTa2NibWV2U1VzM0ZRVnVsaGMzX2xZeE5MSmQ3ZmhUWGtYeGJ0VHdOT2FPV25QOWc?oc=5",
-    "published": "Wed, 08 Apr 2026 08:02:47 GMT",
-    "sector": "Financials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -441,38 +405,11 @@
     "mention_count": 1
   },
   {
-    "title": "Trending Industry Today: MEITUAN-W Leads Gains In Star Tech Companies Stocks - Moomoo",
-    "source": "Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGU0TFRQdm5GbnVuOXZjZUhnVVBYSkI0d1dBaURkXzhlWnlqMGRpaVJ1QVNFS2ozRTBVLWlZbC15TlFlRHVkTUZRd1BYZHRodmFDcFZjTFEtWnJWTmJ6b20tT05qdGU5ZFdlQTh4a2R1elJ1LWxEVnNNQU5SS2tEdER5TDNvLUlGTlpKalJFeU1IYlY2eVJQRThZeG12MGJhd1E?oc=5",
-    "published": "Wed, 08 Apr 2026 07:52:50 GMT",
+    "title": "Samsung, SK hynix Secure Long-Term U.S. Helium Supply Deals - thelec.net",
+    "source": "thelec.net",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SVhXYWU3eUtBM1k4bkpHLTE3RWtnNVNzQ3dER2hxd1lUZUNTSmlJbHBKWEs2RTF3RWNrcndFTUF5QjRsSlpSVWplcDNOTkJkVktuWTdZV1g4V2RoczRuZ3R3VnA0UQ?oc=5",
+    "published": "Wed, 08 Apr 2026 07:40:56 GMT",
     "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Money Market Interest Rates Today: April 8, 2026 \u2013 Rates At 4.22% - Forbes",
-    "source": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXp0ajlLYzZtN3JSUnlpb0FERTlwMmlJNEJwQmlQbV9Ra1RyTHNkaVVpU3VHYjB0YzBqOXo1YUVEdTAyUk4tUkRzX01sMEMzdW5qQ2prZzU4eWxSaGFKTlF5RzVidlhnTEdEOVpyQmpHZk95bEtZS05fNnJ5dnIxYkstYVhkWW5HR3JraDZUcGNsTUpibTBydFFB?oc=5",
-    "published": "Wed, 08 Apr 2026 07:48:18 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "China's Zhipu increases premium AI access prices following industry trend (KWEB:NYSEARCA) - Seeking Alpha",
-    "source": "Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1kxdGpUdTBRVEd2NTVQTWt5QkxXYmhhZl9nbkNxYUdTaVNGUkxrVTBYcm4ydm01TXVGamNwdnY0dXJrR01jU0QtcUNGSHluVHFjZ2dvZG5ROE5UV1k2QWQ1UDJYeEJId2JpOEtFU0VBS3hqUXpWdDN5cVhJa3FkM09aM1l0THptT0Q1MVZKdTcxMTRkUC1mWm1WSHVwTzJFalByWTZZUW9rMmJ2cVdz?oc=5",
-    "published": "Wed, 08 Apr 2026 07:21:30 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "India\u2019s e-commerce market likely to grow over 150 pc by 2030: Report - Social News XYZ",
-    "source": "Social News XYZ",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnZWeUUtWkltb1l0NkJfdmFfT21mcnpXdG5tZ2NtT1VMQ0YtUDRxR2NKSTUwTGJiVXJHSFNCQ2c3aHE5UG1jVWFjRmQ5WmdpT0lnQXpHRUNjeHdRZVdXWnRHTC1GN1hNTVhaMUYweU9TWGNWNlEzem9FRVU5Sm1pSi1xVE5nVWN2ZDZqQUtZY0JsLW9NelUwSXYtQlFFR2FXbV9DZERQcUXSAagBQVVfeXFMTzJ2VnlFLVpJbW9ZdDZCX3ZhX09tZnJ6V3RubWdjbU9VTENGLVA0cUdjSkk1MExiYlVyR0hTQkNnN2hxOVBtY1VhY0ZkOVpnaU9JZ0F6R0VDY3h3UWVXV1p0R0wtRjdYTU1YWjFGMHlPU1hjVjZRM3pvRUVVOUptaUotcVROZ1VjdmQ2akFLWWNCbC1vTXpVMEl2LUJRRUdhV21fQ2REUHFF?oc=5",
-    "published": "Wed, 08 Apr 2026 07:18:05 GMT",
-    "sector": "Consumer Discretionary",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -486,28 +423,10 @@
     "mention_count": 1
   },
   {
-    "title": "From Global Pharmacy to Global Innovator: India\u2019s Patient-Centric R&D Evolution - ET Pharma",
-    "source": "ET Pharma",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONTlhMUt5Uk5WUXozV3NwSEU4clZfYkdwbW8xNC13d0M2cnQ1b2hoZDA0ZGR2bmJsWGZLNXFBd083WS1PU2hEanROMi1xd3B6WFJRZHBHUFBTamotb2FNVnkwR2d0eWF6bXRhY2VMMXRsVkluWGg0dFNnLWhMQUJCUUctSExLTm1hYUVBcWhDcFk5b1Fkd1lTRkFnYURHeWNjZkdUbnRmaVhxc3d1Y0kteTNPdldyNDNfeHZJb0dEVEJjc3NqTFU2R1V2cEpxR3AxN0VkNEdxMkk5cTJQSllwUVM4dnBhZEM3OWFJ0gHwAUFVX3lxTFBZdDBEaGZ5dHdIR0ZockdFeExYSDVuMUU2blBQcmZhVlFUSFNFLUEyUVRhOF9nZUNZT1BFSERJTjNXbGd0MDNhaTdEWnh3UWhLZmVhR2x6YzZCX1lxMkpmUUsxREU3MzJWN1owQWg2dGVlSnREQVoxY3pWRXN6c1V0TkJqUnVLUjZkVkdPM2FNRGFTWTZ2ZjBIWVdfQWF0QU1nMlAxZm1oNFJPM1hKU193NmY5bVY5SVJSUVBDLU1IY0pURnlLWlk0YWdLdm1YSWJldXRiZjQ4dW1CZ2FWQkMyTFVaeHQzeUVwVlNxZVdaMA?oc=5",
-    "published": "Wed, 08 Apr 2026 07:10:29 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Orano Announces the Appointment of Frederic Desdouits as CEO of Orano Med - Business Wire",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMGJCOHJfYk9LWFBHY0p1X0JWeFNHOHBWaHdPQVZVS3BtTjJWeGZhUDY0SmlKZlJDM1ZPNDNqbFFpbWVlc3RlMzdhSS1FeG9BM2lJbjdXWEcyelh1WXIwU3VYeEt1TmRfNk9vN2J6SDJYNnl2b2htaFU1RzFUVHlVdURFZHlBUGpVRXE4ODhSN01rN0twUXBvcDdDOTlCWDVCYnZ0SFR3cDBaVl9UTDVoSnZMSW5hM2JZVndSb1c3a1NrcndzQXF3Qzl3?oc=5",
-    "published": "Wed, 08 Apr 2026 06:45:00 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Lupin Announces FDA Approval for Dapagliflozin Tablets - National Today",
-    "source": "National Today",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNlkyZUN0QmFXUWNxTlZ1RFBBTjRVS2pPZ3pnVXg3SXMybWF0LTdlSTlsTllXMDVPZ3JvMkoxMU1jN0NXZzhtSkZLR2VaZDZ0U21aTjFVX05kak1zRENhWXY5WEVMRHBVVzk2dmhlZVNyZ2hVSkhyRnAwUHoyM3ZTOTdJVXBZMFktNjBsMDFWVW01ZUNNNTlYdDVweVlidF9OR0ZVZ0U1Z2dlcENXU0M4?oc=5",
-    "published": "Wed, 08 Apr 2026 06:34:22 GMT",
+    "title": "Stocks Showing Improving Market Leadership: Alignment Healthcare Earns 83 RS Rating - Investor's Business Daily",
+    "source": "Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmdqZldVN3JaVVFtcmgzOTJ5TndGbF9nOUluSmRuMWFKLURxSjhwRndMWGdVVEREbk1tLUtha2g0ZUttNHlYaEhHSmF0OVU2SzdWbWVRQWZBMGtYM2hGNEwzdDdiRXZSNzVFZUNGNjBLbXdMVUtMZ25KTjhiUUZLTDUwLW0xcGhzczFpWXNXMXJEaTNvZGZMQ1RGNlJPcnlJQTFrNzJCWVAwUnB1dVRQMmF0VXFYSlMwNWRPWHl3ak12d0F4?oc=5",
+    "published": "Wed, 08 Apr 2026 07:00:00 GMT",
     "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
@@ -522,119 +441,11 @@
     "mention_count": 1
   },
   {
-    "title": "India\u2019s e-commerce market may reach $250 bn by 2030: Google & Deloitte report - afaqs!",
-    "source": "afaqs!",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnNBV3E0aXpyRVRPMzlWU3ZrUGU5NEdFUHVIenRKS0hUTzVORU1tMXRUcVpyaDRQVEsxZUVoY0ZjcGMxSzdRdFEwb3ZUQ1gtcHY3c0QxQUcxdmZ5MklTYVhseDlCQmZieEFrM2l6UDJvem5CazdpN2ZDLUYzeWJ4N05RdWstY0Z6UXlaamp6REwwVmFvWndOTklXcVhRR2xPQkpKUkpWbkRUUUZtM3JHTFBYdw?oc=5",
-    "published": "Wed, 08 Apr 2026 06:14:51 GMT",
-    "sector": "Consumer Discretionary",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "China\u2019s Wasting Too Much Renewable Power as Curtailments Rise - Energy Connects",
-    "source": "Energy Connects",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeFFWQWszUzNQdkc2TWk1dzB5cmM3YWFsd0MwZnNHTi1UdHZ2ZkhaaTdrLV9fam1uUG16eEhfRXJqREl4MnpnRjlHNzB1amJNQVZTVldRS2ZFUmxUdDE1dUZmLUlIaFVfZ1N2WVhVYkpOWHI2MG1lVGNCS0pEa1g4VE1FbDVkX2JLV21wOC1LOExtWUtwcEpCUzVScW5MLWRnNFY1UEN0ZWg2LWJVOW82MUc4U1l6N0lkbGF1UA?oc=5",
-    "published": "Wed, 08 Apr 2026 05:58:03 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "These energy stocks are especially cheap when you consider how expensive oil has become - MSN",
-    "source": "MSN",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTmJxWURuWVNOWXlxWERhVFYxSjdfTmdmRFk2amJrSlFWclJoN0hpRFhwZHQxZVpfRHh5SERvaVhSR1ZJQTV5Rlg3d1YwUWloSlJiSjIycVFFTFZudDdmWXdrYkdackFmdTkxTVl0dURkMlJkQTJVZ2g2X1dVN191bE9fbTY5T3dHblk0RHktUFRPUDFZYXlLTXRqWmFGSThYU1JyeTRzV0VmdFJoRGRoRDVfVXpLYWwtUWE4Vmt6WlhZc3pqaUE5aE1SRjJOVEZ6UWNGWUpiSURiSUkzaExtdURTMkJwdFljVHQ5Tzl0Qmh5VS00b1hGZQ?oc=5",
-    "published": "Wed, 08 Apr 2026 05:54:51 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Coinbase Receives Financial Services License in Australia, Eyes Expansion - marketscreener.com",
-    "source": "marketscreener.com",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVlWRDR0ajFLY2lHbVd1ajJRNS1WTkZQbnpZa21KWlpoVWpfaW00Z2gxdS1QOTRReVVDbGUyNEQxNDRKemZDUDY4Tkp0eXZmTWhDb0N3cUZrWFpSeFpRWklBSzlzVFBlSncxdVRDcE1KVUpaLUdiZVlTT3RCcFFuOFVISEEtVW9BQU0yNlY1ZzI1NGZqQi1wZTZVSjF5LTJFLXNqc2p5eTFwaC1halF0X2luUnFscjFDTG5zSmRDLU9WNVU?oc=5",
-    "published": "Wed, 08 Apr 2026 05:24:21 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
     "title": "IIJA Expiration 2026: Infrastructure Funding Cliff Risks for Construction - Construction Owners Club",
     "source": "Construction Owners Club",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjZoUGNDZ1FJd21yS1BVNnJVeXBrSDUyNHRTTnZKdU55UlRkeUxCQ2xnSXluUXFCVW9VWmJuN1dxdWx0YmZIaU5ZOGpBek9sNks4LURsc3pHYm9iclFFaWQ0Vm54TS12cTJKLWNzc3ZmaVRBbjVJOTV5b0plYTNjYWxJVFNTbDFDbUtmSnZfbmVnQW15c2JqRWJVeFlVOFlucGkyZmM1R3hoOTRPTDFfZHB0clNGRExPMEJjVm9qRy0?oc=5",
     "published": "Wed, 08 Apr 2026 05:20:03 GMT",
     "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "US-Israel war on Iran to hit Irish construction sector and infrastructure projects - The Irish Times",
-    "source": "The Irish Times",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUW9LTjNyeE9SMVhVQ3EtZFctSGhHZERRU0g1cUcyY0g0cUpjSl84dzVMV1o0LTd1a2Nrb25zZjg3b1o0YzhEdDI3Tkc1WGYtTkYwT0NFZ2xzOEFUcTlzb3k3NERUb0ViRFlieE03cmkzRjRhc3l6MmRQWVpWWGxuRUx6YUlUOVZveUZKbE1zOHNHQVNXTTIzcEJIeUlCQXVJRTJQZlFTSmxQYkg5dlNuckJvV2NhME01TUl5VEdJcDdJUFVrWURnb0pR?oc=5",
-    "published": "Wed, 08 Apr 2026 05:02:28 GMT",
-    "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "FTI picks ex-McKinsey adviser to lead Middle East finance in Dubai - Stock Titan",
-    "source": "Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWktOMEpKNndIM2xVQzhzODRrZ0ptZGZ1ZGFoOThhamhWLU13T3VNVTFWVHNQRjMzMVZuRWxqc2ZReXhKVTZ0VEVUQ3MxMHlQVVJId1k0R1NZT251S0F1bnh0WEMtVWJaeDRnd1hWSkpRX2xGZUo2YVBnOVBPZ0xjQ3Q3RFBMdzZ3TnZJbVVwUTd1T2hkQnIwSVYxamF3SzdWU2M2NDVoeldabjBqQjEzS3NsZlB2RXlTNWJUNS1R?oc=5",
-    "published": "Wed, 08 Apr 2026 05:00:00 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "META_TITLE_SECTORS - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XajJqX2VhUGNUSnFtR0VJV2NJNnFJZC1TZnMwaThWZW01YlpBRGROZmt6eHdSaThnYV9VMDBxQ195aUhEX2x0TFZVMlROSjJUazd0MWJyUzkyZ2tzVm9PN2RmNXlkLWV0cmRWSw?oc=5",
-    "published": "Wed, 08 Apr 2026 04:52:52 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "SaurEnergy Explains: Geothermal - The Renewable Energy That Escaped Policy Pushback - Saur Energy",
-    "source": "Saur Energy",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa2twcmV3em10UEp1R2xERV9JTzE2bUctZ3YtMWlJQ0JzNXNHY3FjWF80cFZreG9sZG50UlFMeUJNNF9zYnJkSkVXeHp1dk9Zc19iRURCY1lWTWNTbmFyekZ5QzRUb0w4RTByYm5vXy1yTGFsMG1HNU81SmVGSnhmcnRxZjk3SFU0S3VPcExaaTFUZ1FaTGVjRzlUczQyRUlOOVo1V0E1WnlvMDU2Wk1wTzBldG9lRlN2WUxadDB4Y0JDY1VUUFlQWjRTdkMwM1E?oc=5",
-    "published": "Wed, 08 Apr 2026 04:46:32 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "The Best REITs to Buy - Morningstar",
-    "source": "Morningstar",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KMTFmVzh2Yk5WemxQdUZpck9haktvNnptRUQyVzVQQmtsRXNtOEtpUzBpZ2RWbFE1dE1vUVhUQU53RUJhOUJkYm5CaTRzanc1SC0xU3R6S0ExZ1RISXc?oc=5",
-    "published": "Wed, 08 Apr 2026 04:18:34 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 6
-  },
-  {
-    "title": "Aggreko's 15-Year Hybrid Power Deal for Eva Copper Mine | Renewable Mining Energy - News and Statistics - IndexBox",
-    "source": "IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGk4ZFdJTlBLMDRyakRqU0FtTTZibU9ZeXFBRTgtT1BRbExRT180UUUxVmFGQTM1Wk1ieWdOVWczTzQ2RlVwdkJNN0xpZlZSTWVfelQ1Z0xFUVVyeEZsaUJIUGQzVHZJYzhLYmdUNkkzZ3JqS3NSSENWbTZ4R0xsMkhhTHRSZlRVeDlyTkhFNXVXVEx0WW9fNkhPUVBoYVVHd3oxZ1FGMA?oc=5",
-    "published": "Wed, 08 Apr 2026 03:31:00 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Blue Line joins the bullish U.S. stock market camp: The technology sector has hit a 'golden buying opportunity,' with software stocks showing the most potential for excess returns. - \u5bcc\u9014\u725b\u725b",
-    "source": "\u5bcc\u9014\u725b\u725b",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUNaQl9BXy1vTUVvaVpOOHRNengwRm9FajFUY3BQZjZPdjJKWGVZUUR3YmN4Q0xvZzQzX0ZkeTNyS2Q0UGpFazM4QlN2Vm0yWmhyRXRVajdURHdHZVJnRmc5UGpjRUtkSGNRTmY1Ym1sdFRlSzNRaVlPMnhtb3hueGZhSTFlaW0zTW1iLWZmNzBvb3g2MndPVA?oc=5",
-    "published": "Wed, 08 Apr 2026 02:54:17 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Inside Taiwan\u2019s Semiconductor Supremacy - EE Times Asia",
-    "source": "EE Times Asia",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zbGNmSWNOV2g5bTBJX1VZalY5QW1IT2twLTRBeWc0bDFIMUh1T0VnZUJvY0kwWXJhMXRSem9PYnBoS3Y2ckhLQ1VwOVNOTW9lNVNFWUFPTGxWczUzdEg5NkJ0QWk2VVpTZjVkeWE5T20?oc=5",
-    "published": "Wed, 08 Apr 2026 02:23:06 GMT",
-    "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -657,19 +468,10 @@
     "mention_count": 1
   },
   {
-    "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
-    "source": "Anthropic",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5",
-    "published": "Wed, 08 Apr 2026 01:17:42 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "University of Utah\u2019s \u2018AI supercomputer\u2019 set to come online this summer - Utah News Dispatch",
-    "source": "Utah News Dispatch",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkxWTlZnZzE4bkVkUUhGdXNaNDNyVDBSendiQ0E2QjNEQy1RaFQ2eVVGcE9CbmFUdGctckx0R2pTNU9RSmM5dVRaTy1WMnhWN2RidlNHak14ejUyUlFLMGtDMkNPWGpHeHJQTGRGN21YWWZmTDVjUVRmdHNCa2Rla3B1R2o1MzU0OWVyRFRUSVhOYXVjQThmUERaaWtqOGFSa3VacF9nM0xKV2ZH?oc=5",
-    "published": "Wed, 08 Apr 2026 01:15:20 GMT",
+    "title": "[News] Potential Supply Disruptions of Tungsten Hexafluoride from Japan: Implications for the Semiconductor Industry - TrendForce",
+    "source": "TrendForce",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONndaTlE2MnhiTHl5Z09GVEJXVjhTU0lpejBydW0zcmU4UU90T2RuOGNUdV9OeW1hVVNPWkhRc28wMWJscmthckFkSnZHM09NZDJ4RmhLWG8zdThkc2I3Z2VlWEpvUTJRbWlNaXI0Uzh2WElLMnVUNEd5Ullvb2xfbDFjQnlLN2YtekdIUjZsSUozVks0TFNiaTRqVXFsczMyeDZaTTJ5aDFtSEhocU9xODN5ZmJJaUFjWDRJQ01PdWFpTzdhNWdPN3hncnZmQUloWVV6bTQzbktTQ1M2eDBxZ1g1NU9xVHZvSHI4dTBB?oc=5",
+    "published": "Wed, 08 Apr 2026 01:15:38 GMT",
     "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
@@ -684,67 +486,22 @@
     "mention_count": 1
   },
   {
-    "title": "Q1 2026 Clinical Recap: 7 FDA-Approved Treatments for Neurologists to Know - NeurologyLive",
-    "source": "NeurologyLive",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQU5GUThwV2tjQjdQV3hRbE94UU1tZXJIX3JDVy1mN3FvVmFFeWNMUG5jemZxamJZOHJJU05rYmdSMVZWX00wM0FKRVQzRmM0Sm5nMHJiX0hSOXFSYlNnT2wtVWh1YTZfVFM3Vzg5WU1tdDdnV2tuQ2tZcmdjdTdOd1ZOTXBZakplRGx1bG44QWlUeDJ6dG9OdE5pa3hkQjlNQ2cw?oc=5",
-    "published": "Wed, 08 Apr 2026 00:49:49 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "AnyMind Group\u2019s Arche Digital Recognized for AI Innovation at IA Tech Industry Awards 2026 - AnyMind Group",
-    "source": "AnyMind Group",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjaTVBd01iVjJIeDQ0Z19KTFJ3eW5sT3E5bXJMczNHckRtaTJMQ3NnaEEwVnFxUFA4aTQ1eWNNemVfRng1d19DTE5sWV84MWdZYmV1N2JHb00ydFFpU0xfdmZ5UWhNWDl3Mnp4NA?oc=5",
-    "published": "Wed, 08 Apr 2026 00:31:44 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 2
-  },
-  {
-    "title": "Industrials: Stocks Remain Fully Valued, but Selective Investment Opportunities Still Exist - Morningstar",
-    "source": "Morningstar",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaFdod0tVa1AyaXdodURqOGRsMFM2WjhyV2RWWEVWbTVUNEEyZFU3cS1OanlUMDhXQkdNX3dTMVNkVEtlczlGMllGcGctWUlyQ3JDbjc5M19Veng5REFpZWNIWV9qMXVuYUpxOWRMNElnQkVWMHRGUjJpSEZaaTliYmJ1MWt6UjhKR0IxOTRDb0l0OVhZSHVoZFFSeTdIWlBKRmtLZHdCVHpFRDNkb0dDa2VTdU91NF9wMUQ2WA?oc=5",
-    "published": "Wed, 01 Apr 2026 21:26:00 GMT",
-    "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "FDA grants speedy approval to Eli Lilly's weight-loss pill for obesity - PBS",
-    "source": "PBS",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSWozcWZMYWMxczZwM3A2cEpaYUdWaTRrTlM1VlNKNVpZaDZ3M2JSQkx2OXNVQzdodkxORHg1OU15MmQ2VHhONDdrNkpLdnhMTzBBS0p6N29kbTh6Y2lxeEhLN09qM3lMOHNzak55M0pSNVFLMUctdElWNm1PMkNLbzFsS3VpVElOZmNlQzFJZkt5bHE1SjkxRThuSlMxX2hjckxmS0dXdUE?oc=5",
-    "published": "Wed, 01 Apr 2026 19:34:17 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "UNC Research Contributes to FDA Approval of New Drug for Rare Genetic Disorder - UNC Health",
-    "source": "UNC Health",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ21taVZrcDdaYWgtaEVYR2ZRdGYwdTN1UlI4U3lvUU5DRkFEaVJDQm9qcEtHUDNLRDBINFdnNDZYR2thaWtLWWp6eWRBSTRDVzVGOVg5WC16dzdXTms3N1hWQXdiWDN1aGlwZmNETFdwd1FuTllpd3ducE5VTHJNR2djcEVQSllRbDdJcGJTMVFwRFhQNVNxWVpSUld4cG9pTmxLZWNKOEFmQjBRV2JSYU8yU2d3ZW02MHc?oc=5",
-    "published": "Wed, 01 Apr 2026 18:46:59 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Consumer Staples Have Been Abandoned. Colgate and 5 More Stocks Worth a Look. - Barron's",
-    "source": "Barron's",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVBvUXo4cDJRRmdQOGFzYzQtandfZ0lNbWpGem5yM1huNElQcTNLNWdxaDRDZF9DQWkyNnU1cHdhNEp2VGs2cnZnNGtsakc1b1JyenVTZW9EWWFGMkY5LTd1WVd2MmMxSzhKTldxelRpczd1SWppX19wV1B5djhUSnhHQm8wRXNNWVQ3Mw?oc=5",
-    "published": "Wed, 01 Apr 2026 18:10:00 GMT",
+    "title": "State of Food & Beverage: The choices CPG leaders can make to renew growth - McKinsey & Company",
+    "source": "McKinsey & Company",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXFvYnhNMzFrVTd6bzJZSjRwaWpfRVl1Vk1PbE5uRHkyLUN4NTlzRnVDTFZ5ZUswazJaSFh1ZWxlRS03NkhYUzgxazE3OVJ2eEh1MFl1SVdleVMzOWxqUExCd3p3OWhHUWVER2FsVGVucDd2eDhsYUJrUHh4M1pzWmpzSTREQjVVNXJ2ZF9wU0JyeHdfSTBNbGYyY3ZmRmVO?oc=5",
+    "published": "Wed, 08 Apr 2026 00:00:00 GMT",
     "sector": "Consumer Staples",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Best Healthcare Stocks to Buy Right Now for Long-Term Growth - The Motley Fool",
-    "source": "The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazVWWnR1MlRRSWhTWVdZc21peEJudEVTZ2NZS3AxNFFxamQySkpEbTFjRkdYUlNYdG9OUW1yeXRPcVNkeUdtTTdiMFV2YU01LV9UeHZ0Z1h6RXpocXQ1X3Y5bmItcnpuaDV3MThnOTh6RlhYZVh3cFB6ZDJhX3pZbWhTdGhzTWVRcXh6S0lwV3RJVFlycFNUbQ?oc=5",
-    "published": "Wed, 01 Apr 2026 17:00:00 GMT",
+    "title": "The Best Health Care Stocks to Buy - Kiplinger",
+    "source": "Kiplinger",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0EzQ2p1OHhuZXhQSGZ1QkQzUHJVUWJRRlpWU0hlVUVsQ2R1SUlDcEU1ZF8wUjNQclA0c1l6QVNJN0RvWGpScDctbC1LLTF2Mmd6YkFaNXI5eXZlUnB4R2dWN0g1YlZtTmpjOWdYellJUlZod2htQjhkc3h4dUdqQ01mWQ?oc=5",
+    "published": "Wed, 01 Apr 2026 21:05:27 GMT",
     "sector": "Healthcare",
     "entity_centrality": "mentioned",
-    "mention_count": 2
+    "mention_count": 7
   },
   {
     "title": "Utilities: With Stocks Up Year to Date, Sector Is Delivering on Growth - Morningstar",
@@ -756,40 +513,40 @@
     "mention_count": 1
   },
   {
-    "title": "Beauty shoppers turn to AI as online sales grow 6x faster than stores - Stock Titan",
-    "source": "Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXhWTl9YRExWMU45Ynh5b2xzUWpXQUk3MExjbTN3cGdUMVlnM29KQ1h5UnRCajduTDZ6NGUyR3RhSGFCeG1KQ1JEVWJPUnV0bm9oTXRPeDYzbm5JLWVERjFZSWZ0cDVwRzJ2UXp6S0tGdVN4Y1cxM21MOXRQWk5IaFg0SW03WVNDZzNVVjNnbFhiU2Znc3Nid01kUzhtRzVMYURuZlowSWhSMTJoVFFQQ0dxWjBzTlpXOU9oOUFR?oc=5",
-    "published": "Wed, 01 Apr 2026 01:03:47 GMT",
-    "sector": "Consumer Discretionary",
+    "title": "Best Healthcare Stocks to Buy Right Now for Long-Term Growth - The Motley Fool",
+    "source": "The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazVWWnR1MlRRSWhTWVdZc21peEJudEVTZ2NZS3AxNFFxamQySkpEbTFjRkdYUlNYdG9OUW1yeXRPcVNkeUdtTTdiMFV2YU01LV9UeHZ0Z1h6RXpocXQ1X3Y5bmItcnpuaDV3MThnOTh6RlhYZVh3cFB6ZDJhX3pZbWhTdGhzTWVRcXh6S0lwV3RJVFlycFNUbQ?oc=5",
+    "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+    "sector": "Healthcare",
     "entity_centrality": "mentioned",
-    "mention_count": 1
+    "mention_count": 2
   },
   {
-    "title": "US tech stocks struggle for safe haven appeal in Iran market fallout - Reuters",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3A3Z3NxbVg0bjM0ekJBVkZULWJfVDFnS0tUajhmZ1FNQnRtTEkwei1BYTliTjZYZWNBdS1hd0lKNlg4VlBTZ3dZNDVaaXpsQUhQX2xqQUJnckdSVnB3NFZrbFdGNGhBd1R4S0ZYanZpbUlWUFJQOUVJZFl0ZWI4Vl9lVHdWdDJuRkhFc1F1dHgySjZDWC1yRWktMmZXWlRMMWIzQ2lqbWNPWlM3dmpWaGVIMnBSN2I2elJuM0VPVQ?oc=5",
-    "published": "Tue, 31 Mar 2026 10:21:45 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Average Savings Account Interest Rate For April 2026 - Bankrate",
-    "source": "Bankrate",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MZ3JnTjlqTXlLRUlCWmRtdm1ZTVJ4bzRwRUVLR2wxZ0dPaWFlVE5zRTJVWDZ4dEpwamdRNGFuSEJnMWN4Zlp6dmVKZmZ2amRiNkt1N2M3bWZHZ0dwMzEzMGZJOGtBSVktb0l6Sm0xZlI5eTNHbnF0d3plSC0?oc=5",
+    "title": "Wall Street Overlooked This Industrial Stock. Down 14%, It's Now a Forever Buy. - The Motley Fool",
+    "source": "The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2ptSnN2N0VOcDkzejR1bExzeG9Kam4tX2xFbHAxQUlYbzUzVi1qUEpJb1hXRWV6bVVKRWNZUGlaMWhSWUVGY3VuU25MOWVZSi1oMXJKZDBOYjR2VFlzT25Zc3dkVDlmZFZPMy12MVRMVXNUYUltRVJocFNvdkxJS3o2alpJMXFuamZmWHVhVTNFUy1kZzZN?oc=5",
     "published": "Tue, 31 Mar 2026 07:00:00 GMT",
-    "sector": "Financials",
+    "sector": "Industrials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "\ud83d\udcc8 2026 Oil Shock: Prices Spike After Hormuz Disruption - Voronoi by Visual Capitalist",
-    "source": "Voronoi by Visual Capitalist",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODg4cElHWkk3cXdlUXZGU1BwSFYtak54cWhfSkhPYUZ4OEN2d2JDV1E4azJkblZyWU1iUkd1c2hIWkE4X0VOeERyMjZDaDJxSHJvMXl3X1pGMkpwYlJZVGJ1OVVuSlcwMW9WQVVZb3ZkVURsSFBhdkdfMG5kSHVxTDNvWmtkbmFaTEx6SVl5RGFXSnNnU3c?oc=5",
-    "published": "Tue, 07 Apr 2026 23:43:55 GMT",
-    "sector": "Energy",
+    "title": "Best Defense Stocks to Buy in 2026 and How to Invest in Them - The Motley Fool",
+    "source": "The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFRwZm5fRTRUMDJTeEVUMHJrd3U3bUJreWVIOWE1VjhSNW14UmgtMHJ5cmlleFVVZE94dkxqWHlZdV9GQlg5ZnhLLUNkQjlXVlJqTTdiWUtxb3JtczlQTUMwOTFMb0IwRDFQaXJ5bjJXa2JnMVhFQVdneS1veUFXb21IbndMQWZTNU5mRWVuVQ?oc=5",
+    "published": "Tue, 07 Apr 2026 23:51:00 GMT",
+    "sector": "Industrials",
     "entity_centrality": "mentioned",
-    "mention_count": 1
+    "mention_count": 3
+  },
+  {
+    "title": "The Largest Consumer Staples Companies by Market Cap in April 2026 - The Motley Fool",
+    "source": "The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WbGM0SjlwOW9HQk5iTEdjSm5sMHBKVlN5V2tNWW1HOFhWR3RqR2hIZWpCNjVvbFpHLXF5NWIzZEx1RjUxSEx4SEUxSTREZEFXN25JZmV5Y0J2dUM3MXdEMllPZU1mcGF6YVhuZl9mbGJrWHM?oc=5",
+    "published": "Tue, 07 Apr 2026 23:50:00 GMT",
+    "sector": "Consumer Staples",
+    "entity_centrality": "mentioned",
+    "mention_count": 4
   },
   {
     "title": "China Bank Stocks Emerge as Haven as Iran War Jolts Markets - Bloomberg.com",
@@ -801,56 +558,11 @@
     "mention_count": 1
   },
   {
-    "title": "Florida congressman calls for accountability from tech industry following FSU shooting lawsuit - wtsp.com",
-    "source": "wtsp.com",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd2VrX3Jld2IwWGFhc3d0WkJUTkNXSXRfcXhaUnhMMklzOWFiaV93T0RxUG9UMFVna1g1Nmt3b1dxX2lqSlhwcmdjZWdNbFB6YnBqMUhrY1M5dFBzSXdRTXJieXVMTk0wandrMXRvMWlGTk9lLWs3M0dQYm03MXY4QTg0X3V6eHZjNF83a3A4cXhBSTJWVWNxZFI1aEpEM0VpN01nNXloV0pqYThYUVJyanBIRXJfbHVXbzVRcTM4WHJrM0hXZ1N1cXowd20xdEpOdmEtVTBuSkN1QVVJRTVmLWpJWkE0TjcwbU5nanlKU2hKWFBxQ3ZRcVd3?oc=5",
-    "published": "Tue, 07 Apr 2026 22:11:00 GMT",
+    "title": "Europe needs to control AI for defense, top industry exec says - politico.eu",
+    "source": "politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSlhWTEd2Qk10aUs3TTFNS3dfcTd5bzk5ZlU4RmViTzFpaUlidDhGbEVMbzdnUXRnLTlTcUxlOUFaTTNEcUFVblZramlROVVmblAzU1hEbEFDVXo5dDBxYy10RDgzUm5VWHREVkpxU0tfLUFzNHJfemRGY3hCOEZNM21kam0wWjVjSkJ5NHNSeVREZV9kbFQxTUYwczNEOXZqQ1JuaWtiZzJSZ1ljWTJF?oc=5",
+    "published": "Tue, 07 Apr 2026 21:24:00 GMT",
     "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "AI Agents Optimize the Industrial Goods Supply Chain - Boston Consulting Group",
-    "source": "Boston Consulting Group",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONklIbHJyX05HUmNOdndFRm5KX2pBVk82OFB4NmNDZkV4bGtDT2Z2VmFPWGptVkRZV1RienJrTnJGOTdTUU5YNjNBdkxvV1lGbFBfYjNuQXc5aHM5QUQ3ajhUOXUyaUsyOG5iVlBjWE5fcklCQXhnTzREcThaVmY0NTU5MUwzSWxIeHdWRFFWeHBMcTg?oc=5",
-    "published": "Tue, 07 Apr 2026 22:08:25 GMT",
-    "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Opinion | The backward logic of pharmaceutical tariffs - The Washington Post",
-    "source": "The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3N1QnlGdzZfYmVkRmFUOUh2Q0JaT3d1dTRCb1I1QWpiVUx0bnJ6ZmJ2cml0TF9RQ2k4NTA1SXRESTkyOHg1N215R2JhZTV6OXBWT2ZqSzJ6QmlhUFJCamMyajZoeXA2dzVRdllKYzlwZmRzRjBsYmExMXlfaEt1UzRGUUdNWlVxRnhoVWhoSUIwVV8xSk1LVA?oc=5",
-    "published": "Tue, 07 Apr 2026 21:53:11 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Best Semiconductor Stock to Buy: Micron Stock or ASML Stock? - The Motley Fool",
-    "source": "The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUhxYnUzMWEzZ09aMnV4WWUxcFZNYUd3Ymo3aUdIam96c3F0cDZWZ2ZUaHZ2UG5maVExZW5uNG5MRnpWSmNOeEI0TG52Ty1rcXd0czJTQ2w4bHJFTUlPSkQ5dlZNeFBGYXU4Sk1WYnFhWlVkTERLOVdfZVJWVlJ3UXIweUpYYjR1U29ZelZXMUJXeFdjTXltOQ?oc=5",
-    "published": "Tue, 07 Apr 2026 21:28:00 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Kimia Raises $7M To Launch Its AI Knowledge Platform for the Chemical Industry - HPCwire",
-    "source": "HPCwire",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTZ6b2Y1ejZINC1STFVFWjAyQm9KbjBqX2lTVVlRdjZId2FIb0RZdWR5WXBJdXVFczAtU3J6TGxiQ0RsUUcxem9oWHN6WFppT2RfQ1pPZV9MR1o2czhhNUtsdFhWNFlvelg0ekN1MjBPUV9LVHlwOEJVZjFsQVNieHNzUF8tVmcwQnE5cEhxWWxCUVJ4ZWlSZDdUWDVTaXY3N0hkb3hka2hfVUNRM1JOWW1TdjI1TXlxWTBiMg?oc=5",
-    "published": "Tue, 07 Apr 2026 21:17:27 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "2 More Pharmaceutical Companies, Abbvie And Genentech, To Officially Launch On TrumpRx - Word & Brown General Agency",
-    "source": "Word & Brown General Agency",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDlWX0ZldWZtUjRiM0phUEQ1dGNYQzdUWmVETm5WREVZclphNi16eTdXSXctWE5vajBrenF1c2x4THhNQUowN0doU2ZsMGJDdDVwZTRpUjZuQ29LVi1qRUJ6ajFINUl2eFdqMWhzMVB4aWNCN2k3OV9VdGRtaFI1WW9zbDBvdHpaaEJ0VDVCRnZzYkthd3RiZ3pnWjRMUE9FaDlSMThCWHpncTNyNHpGTDVDZy13X1UyTDRURmlHQ3hwYnFHeXE0MzlR?oc=5",
-    "published": "Tue, 07 Apr 2026 20:49:36 GMT",
-    "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -860,69 +572,6 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPczFSWnI1YjZFSDdiU0hTREVwaVlvRExtTklCRkZpN2h4UnN2NndwX1luVGRXd01RYWRvODFHcE95RlI3dzg1OWMtSjJkMUVFVHo2Tzhfd2dWUTdZazVSbWpfRGZvWVdwR3Ric2lmMnlfUkhzdXFHNnNQZk04bHZvTC1qTFlfbDlMTkE?oc=5",
     "published": "Tue, 07 Apr 2026 20:39:50 GMT",
     "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Medical Supply Chains at Risk Over Escalating Conflicts in Iran: Report - Pharmaceutical Executive",
-    "source": "Pharmaceutical Executive",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTRmTU11X3I1bWJOa0JGZ0UzNFgxMnJCLTZjOUlWQWxnc2lMVV9tODZYMDJ1b3JiX3padzh6SjNCSmhuMExTdmVsY2NvUTdkM1NmaVlHM0xzTExzdzlOajNaVkgtZVhnbW5nMUU4U2RQWE85d183WGtzdDg5VzB2c3hTTC1zZmRYTWpub0ZPd3Y2RmlvV1d3cDNVOA?oc=5",
-    "published": "Tue, 07 Apr 2026 20:18:25 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Sector Update: Energy Stocks Rise Late Afternoon - Moomoo",
-    "source": "Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTFoOE1rUnZ2YlU4NDdWd0NWV1o1NkNNSjlJOUJKYWo3clRzT1BCbG5WWkdtU1FQVGczZUY1RFlOMHl6d2NDZjRMcUw4MDBSQnhzeElqaUQ4ZlZsUmx6YThlVWZBcFNxUGUyTWNibFZZZGNjaXk2dTlaSlhTTURzc016LXRTMVNJVU50aWJEZlllOEk?oc=5",
-    "published": "Tue, 07 Apr 2026 20:15:29 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Energy Stocks Surged 38% in Q1 While the Rest of the Market Fell - Crude Oil Prices Today | OilPrice.com",
-    "source": "Crude Oil Prices Today | OilPrice.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0NLaVBOT2hBNGliOXZYNnp4MzV2YTBvYnpCdEJaSkVnbm9ROEFEQkw0S1F6NkJCTmpvOGtud2xZcmdON3J4bXpDY2xEd2VYbnpFVU41cXRJMVV3SEUxdmV6RTBJcy1jRGhXaTgwQ2V5YlBKZm5Hdl9tVVBVYl9mM2YwWVdxVlpOOWdueF9SaU1pODlHYkk3UHZ0bWVVRTZzTXVnUWR1UHRHMGctcGdoaNIBtgFBVV95cUxPMnFYYVQyejhVaHlWYk0teXY0SVBMaGJkVEVVd283WlF5ZkpIUmhVT3d3YTJfVlA3UXJyNGZPeFpzcE1YNXZMNG1zVlJXeWNjc2FzZVRlUXZhQm00Wm9iUzIzeFlwTFRoOVJiRXJqd1hEZzFfLU9zWVhPSGpVQjlDcG1iTU1EaXlBWjg4Y2VZc2FLSDdhclN1QndUZzlKeXcySmZya0JhazZnZi1wSC10Q3d1WG9QZw?oc=5",
-    "published": "Tue, 07 Apr 2026 20:00:00 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Carney breaks down plans to spend $51B on local infrastructure over a decade - CBC",
-    "source": "CBC",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1hqT2hScGp5NXM5MHRnYldSQk5tbGJscXF3M2VSZDVCZ0YxRU42aTgwNjNWOFFzeFF3S292TENpUFROREhqejNqRjhpVjJnVnIxTy00Rzd4VmM5Q3JyeTZEZnF6WUZIdWVORGc0OEdLNldOZFZQWlVIdEVrNzVtcEphTQ?oc=5",
-    "published": "Tue, 07 Apr 2026 19:55:06 GMT",
-    "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Tech stocks today: Apple foldable iPhone on track for release later this year, Broadcom stock rises - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTzNDS3lvV1UzbUlMTXUtODBpWnMwd2ZkNnZXem1vVVZKSlctMHRMYVozMHExUHduVkY4WnFkZ1JoM1Z4ZXlxQUFicFU0aXNRQnA3RWFGX0xIWlVKeWhlMVRKSnlvMkZvbUs4QTltUkFLNkR3RUgxcEpiaGFtejJocmlDbzNNeXhzTzZzSUJuU19IOVEyUkFoWDZSNV9sWWVuNVlDWXZqU1ZpRDM2djBLQzlFXzVqWHlycWg3aG9WcVRDeUJWdXc3UVFDRmVtZ0x1ZVZLb0I5UzJtVEdJTllrRTlVbTFIZW9wQUJmc0F5MWxyY0V4WjNCenlIVDY?oc=5",
-    "published": "Tue, 07 Apr 2026 19:32:08 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Building AI infrastructure the Community-First way in Canada - The Official Microsoft Blog",
-    "source": "The Official Microsoft Blog",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEZHdlNROUNodDg3XzA4WEZSa2QyWHlEVzBUeVhrVDY5NWZwT2NDaWY2V2FmWGM3MmV2MWlJbkloREdvaWhyQUpjR2ZCcEhTOGlDWG8tYnJ6V1A3TUpaWkM4T3NobkFsWUJrbXZCdlVlVFNWMGJNOGhUNHlYOVlhMUo1ZTU1TFVKam9rekRuMmJFMVczd0k0dDZ4R0J1Wm9SV2d4dWJVVDczWGphN2tndGh3VEg?oc=5",
-    "published": "Tue, 07 Apr 2026 18:05:55 GMT",
-    "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "China Construction Market to Reach USD 6.01 Trillion by 2031, Supported by Urban Expansion and Infrastructure Investment - Barchart.com",
-    "source": "Barchart.com",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN29MX3BNYXgwUVFiZm9RRjRNWU1Zdkl4RzU3anNodHM1XzNjTmw2LV83SERzMmFjeExpWl9NMEtyVmY4SHY1WEk0VnlsSkNQZ3d2MldCcmRsdlJhU0hBTFZMMkFIQVQxMjhfbmpuZEZWWUhRZHR5YWlQaFdJRDFZaTExR0dUTWpOdGhFM3hldmhEakNQazJoZ0FINU9NYjFkRFpvbWFfendGMjN6dHM2cmtXMlhibTJSc0Q5YVRvZ3BkdVUyYl95YU1DZlhRTDN6Rk4zazRLVDBXWXRuU21LZXVGclBGdlJhTy1hNEtmRndDUVFz?oc=5",
-    "published": "Tue, 07 Apr 2026 17:48:22 GMT",
-    "sector": "Industrials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -954,46 +603,10 @@
     "mention_count": 1
   },
   {
-    "title": "Another war for oil? This is why we need renewable energy - The Invading Sea",
-    "source": "The Invading Sea",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWNzcDJGbzJzT0t1TGpEbG1Ca1h1RWlXZVQwSy1LcGltcF9Ga0tPNDF0aVZwZUU2VmlVdHppZjAtSm9sX1RJQ2dSOWJ5S0ZaR19VLVlQLVVCd09uc1lFajJEV2JnckpOU0F3aV9vZ3NRcXZ2TmhaX1p1cUgzMk9OR3dNemVWLWVpRHhNSURKZUJ5eTgtQ1dfU1JTM2VZVVZHQ2s0TUFOWDRSSWtybHNqTUhIZnlFTktMY2NGUTR3QjRHdlJkSW9CWQ?oc=5",
-    "published": "Tue, 07 Apr 2026 16:38:52 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Alignment Healthcare, Centene, CVS Health, Elevance Health, and Clover Health Stocks Trade Up, What You Need To Know - Barchart.com",
-    "source": "Barchart.com",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3I5cE1rUmpGNGZjaXNiNFBaWlRZcGVWUW1TZ252bUxESUlOU0U0bzNoMXJ5T2ZFcFowb1diOTJxMVJTV1BuRHk0Ymg1dElFeURMREhjbFdUMnFmcUdiQTE3Tzg5Z2RjYnI5a3lac0tHdjZHQTM3WDlteWNIUmtYS1YyaUN0aHJZZERnVXV3ZVRHcXAwUHE0YkFOVFZfOE5hNFZvdFRQaHZnNEswZms3QWtMZ0hXRHhsSUZGX2M4OC1oSnFWOWZKVVBUQl9CNVdobE9YeXlIQVNSQV8wV0E0Y2NXeEtYcVE0RlJF?oc=5",
-    "published": "Tue, 07 Apr 2026 16:30:45 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "High Growth, Lower Valuations: Why Goldman Sachs Now Sees 'Opportunity' in Tech Stocks - Investopedia",
-    "source": "Investopedia",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSm1mSlUzajBxVjRDVXVJdm1FdFJVSHFadF9TMlgySWg0VW5GRERBY0NpVHZwMzY5RlFYLVZMRy1sWVZ4LVN0amJnMWt6T3VXdldPZm5WbHBIbVV1VW05MHpGQmpCZjFuaDR6ZUt2bHNHYWUxZXFWbENZUjRpaG1uZG9ZTWFzeDdDcE02RnZrZXRObkxwT1NOejBzc281SDZuZ0xaWGkxUzVwT2JZTGUtQkhTSWdEbDdSVXpXcg?oc=5",
-    "published": "Tue, 07 Apr 2026 16:28:11 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Banks And Financial Stocks: Latest News And Analysis - Investor's Business Daily",
-    "source": "Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3Zid3lDUlRoeXNZWWU5cTBlUUtRTG1UbjBLWENDWGo0SC00cHB4NzVKZnhnd2lUYVBSWUdoZy11VFFfVXZrcmNIM3IzUm1nWm5sMTRUMmhXOUhobjJIZEFsX2dYeVN4ckZQNF9faUdmcnk4X2QzRGtxN2huaFhJS1pZbDlrWjM3MERBOXFkeElCdDV1WDZibFY4d2t0ZUJnbVNUTjg3OFZLTnlCcDJPa2JXOHQ?oc=5",
-    "published": "Tue, 07 Apr 2026 16:20:00 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 2
-  },
-  {
-    "title": "How Apple Has Shaped the Tech Industry for Over 50 Years - Business Chief",
-    "source": "Business Chief",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRUl4R3hkNE1rZnVjck9rVXBtZFA2bFpES3Rkbkt2SWlZNkhXY3llWWVaTlAxMHFKRUQyNk94VHhJZll3QUJ3YVA5MEdVOW9sVF9YVmNyY1M1YUk5NVJDR1hacHJLcHplX01NUVZoTDJxZkNocHVPUVhqbWlTV3FIQWMza2N3b3QzUFFDaVpKN0dfdw?oc=5",
-    "published": "Tue, 07 Apr 2026 15:59:45 GMT",
+    "title": "Intel joins Elon Musk's TeraFab project \u2014 'Intel is proud to join the Terafab project with SpaceX, xAI, and Tesla to help refactor silicon fab technology' - Tom's Hardware",
+    "source": "Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZERHdWlHSXhKWmtSd2RWN19KNzFSaUZ6SUNPbHJfOWIwb2VNLU9EWkVxdjNDX2tvRXNQeFlDRW9BRUkwM2JCbmd2VU1mLVpOeDVlUGllOEpTNGEwdTFZZTJTZFBlcVJvb2pYb0otc1M3RVZYN1lTQ29sR3dJaUVOeDE5RnVmSkRDMWRKeWcxV1JkalJraXhBaFdoYkV3TXpud2duR2xqT0ZWWnVCcTFheWFtSk8tNmxyOFFKNnoyLXZ2SXdtME1SY3FUNGEzYi1MbmVSTnp3N2NyeXlIbnJ3S0ZtZTBKYnZnQWllUlJ0eE1heUNkMTc5WFlHX1NMR2hCcTloUDFYNV9vR0FQMXdTTlpkS3hmY3BaSmJ3SEc3VkRacE1nbG9vS0xUVTB2UQ?oc=5",
+    "published": "Tue, 07 Apr 2026 15:34:11 GMT",
     "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
@@ -1008,19 +621,28 @@
     "mention_count": 1
   },
   {
-    "title": "Are industrial products stocks lagging Halma (HLMAF) this year? - MSN",
-    "source": "MSN",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcnJwcVNHa2M1aUNaU0Z1UWpKSFJ6a1Yzb0RUbTRjcUFkb2hhb01NQ1FPcTJHckR3Q2VqRDhNYUJNeHl4c1NUcXI2eEJrNWZrRFVQdi1fdGExTzZydWQxZHJnQnFQNG1hdHV6a1dvN0c3MVBVbVJQdXVfM1RYLXV5czJkdU1iTk9zQ0NuUjdqbDJSS3l6NmJ5R2VqaTI0Q2ZYT0FkVGFYZEd0MDMwbVJRajRvSHhwc1ZGTjNEQTB4azRfSTJYRU5kbHFpOWxjbjNBZHVZMTRqVmxjQWpDRER0NFZkTQ?oc=5",
-    "published": "Tue, 07 Apr 2026 15:19:54 GMT",
-    "sector": "Industrials",
+    "title": "The effects of AI on the video game industry. - BYU Daily Universe",
+    "source": "BYU Daily Universe",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1odWtMTWw5S1k4T0dEZUtHVkRCcDd3WTV0STktcHc4YkowcVhOaWtFS3ZaUlAzUklMeDVMMlJtTWZLeFh0czlKbzRGTmhzaC1iLTNocUZ0dUN2bHdqQzRUcHpsN3JmZi1GZnA0U2xlYmRsbWF0Y195RGZ3?oc=5",
+    "published": "Tue, 07 Apr 2026 15:19:57 GMT",
+    "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Green Stocks on the Rise: RENIXX Gains 10.7% in the First Quarter Against Market Trend - renewable-energy-industry.com",
-    "source": "renewable-energy-industry.com",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZHFqalMxWFdpUW1MZ21vX1dlS0lTUDdxVkljSl9ndWpFVDNfYTFCSUFvNXBUam1Ya09ZTVhKelJCdzNVUGlzUVpTM3lfMHgwVEUwWUlFQnlMeHdGNjJUN2I1Qnh5Z2FPRThwRFJWalJ5UnJpYTBFdmdJRzAzYXpiaFZGeVVadzd1UURUOFNWSlRvVFNVaUppMDVPVld4OHh4S01tc1VhT2p4RlhPNGl1RWpIR0xQN2E3Z05UaVFXWGFudHVqcjgza1U2ODdNaTduQnM0WkRoWjJjT3NvOW9SY21FRXpVZG4xUnc?oc=5",
-    "published": "Tue, 07 Apr 2026 15:07:52 GMT",
+    "title": "Quant snapshot of best and worst consumer staple stocks ahead of Q1 earnings - MSN",
+    "source": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQN0tMRExLQloyVkpTRTJldWVYcURZNHFJN1pocEF6TGVOVTM5MG9kQVFwanFORTNrbGhsZFFUNE1odmFpdF92Nm9ZWFBYcUdSa2lhV2xNZ29jUWRqb29jYkU2Y29RUTJrbWYzUmtFTTJBclA3eE93ajdyZk5WRjI5R2diYjM5cGl6OUNJTExRT19BcjhuU1Rub3VVa2pSZTRNUkVQWG51VGZlWmxacFZWLUJlbUprajQwWXJXTFJzNWx0dzNNNW1GMnRfRDZpNEY3bUFLN1N2cTdRSWppU0tKVFgxNEZOWFBTWkU5QTBqQldBYXFDMWszNW1ucjMwcVk5eDJNZ3ZqWmVlTWtEQ2ZibkhvRjRfZlB4LWNsMFIzN1Zoek5BVVFUQzJFVUJIbGZtXzByRllHZk5keXN5Y2kydE1ENjZsZ2dVVUdLQkJaakdZUGprOFhkNHFLT3JtTkU?oc=5",
+    "published": "Tue, 07 Apr 2026 15:10:43 GMT",
+    "sector": "Consumer Staples",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "These energy stocks are especially cheap when you consider how expensive oil has become - MarketWatch",
+    "source": "MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXF2TWVfWG5DWmhwb1JlVHUxaTlXQWVKNWxoNExtZTYxeDd0YnJiLXpJZzFVVjJkaFpxOTVHWlllYTB6M1h3R01yRlF1NjRyUThtZXdsWTdXRVl4azc4ZEpzY3pqczZwNmx3RjN0aG1wY2xlRDA3dExGUFlEUmF3YXhMbUZTcmhHUEVROUdaNi04UWtXR1FOR0VXU2wwbTBTeDdDUXNNSUJLbjRfdTdMaUlRSFp4a0xxbW5aQWZBTl8xczFnZW1QYWV3?oc=5",
+    "published": "Tue, 07 Apr 2026 15:08:00 GMT",
     "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 1
@@ -1040,15 +662,6 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTEycDFZVDVWY0lJZEtXWjBiSHMwblphd3hHZncxbWxWN0NyUlVucGFURGNkSWZZMUQtVE1xN0Z2eEEwQ0NRTDVIT2liOUQ4eldMN3VEcUFBckNWN18zOEktMjdLOUNTWTF4UWxpVjRZR3NYRW05WlJlQk9aMlloSnZfUkpPYnpQeEc1OTFBVFYyVUxvT3Q2ZXUzdFNGOEJnSFFjWXNsbE5JY0c4NnRwbEFHa1hnX0pQbGM0?oc=5",
     "published": "Tue, 07 Apr 2026 15:04:40 GMT",
     "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "PAAS Outperforms Industry in 3 Months: Should You Buy the Stock Now? - Zacks Investment Research",
-    "source": "Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1kycWtJTFZDUDFjR0ZpNUd6X08xdFl6Q3VrS0ZHSlUzTzN6Z0E1bVVrSDlrZjhoT29vRThiUFUwLWN6SmFWam5IaDVQbHBPUUlmNHhORjJjY0JjcnhJa2x6LTdpaXppNkVocGt3RnlUeWk5UXlRSFhMSHdFZTFscEltVWJ6VFRIb00yS09FVmZqSVhsZ3d3emZWc29iRVNjUWtHaHlGdFpEUFk?oc=5",
-    "published": "Tue, 07 Apr 2026 15:01:17 GMT",
-    "sector": "Industrials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -1080,56 +693,11 @@
     "mention_count": 1
   },
   {
-    "title": "Quest Global acquires BITSILICA to expand semiconductor capabilities - ET Manufacturing",
-    "source": "ET Manufacturing",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUpUeVZqQ2h3TV8waEJNZHBrU0NpN2N5YUI4dWpWdkZodVB2R3gtSVlZZVVlQUdKZjlWdUpMQ3ZGU2NLTDhCMTZlaFMxOVdDOTlucmE4Y19DbFlBU2VDaTFBeHhLYUN5XzFGUE9BWVhrc05yb0JZdnFzZlU1bm1oMExLSlBmVkdMSFpnWFJYOVlPWXBteE1yWGFZZXRMM3VVMjhpdDRsdjhHVG1fZ094OE14SUl6XzRRcGFucVUtQ3FGb0g0cDUtc3UybUgzTEEyMlJGekhSMWFjZ9IB3wFBVV95cUxPV1ZVcVNOay1kN2lUVloxQ0VPZUZGZnZnOWxTMjc3UksxVlNhQzhfaEJBcWhic29rRlBGYkJJdktwMWh1N245TF9nbGRsMnhYdFh6SER3SFZZX3ZOZVVtOGUxc2JjdTFBRHJJamVJQ084UlNXUlBOZ243b1c2LUhxWDdUSkxwemZFUDdrV08zcmc4WkJuZ1lNXzRBd2dyT3pzMHFUb0RfSGs2SW9VYzdGOW5KR1RqdkpQb1NoaERMQ01YV0c3MmhXUFVkNVNBZENRdktnZ3hhd3NVczdPeXhJ?oc=5",
-    "published": "Tue, 07 Apr 2026 14:23:21 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Lexaria Applauds Eli Lilly's Foundayo Drug Approval - Investing News Network",
-    "source": "Investing News Network",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWptYm0tWTlKeVI3dlJGLTdCeUlCZmpJVzk4d3cxdTByVzQycFRSVk5jQjJUc055UWZTSV94bjV2LUdVR1ZDZ2pLSHBvRERZNFJybW14alB3b0tiT2M4WUs3Y0huNkNGUGNaaGJGcWhrZ0pEcHhVakd4RmRpcTFRb0JKb1M?oc=5",
-    "published": "Tue, 07 Apr 2026 13:55:43 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Morgan Stanley Upgraded to Buy by UBS With 18% Upside as Bank Stocks Sell Off - 24/7 Wall St.",
-    "source": "24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGRSRW9Lam4xbkE5c0VsYTRBMjRLMllGZUpBRTYzaGp6eWVxcExKZWlBeVFjdHlYXzhuSDJ4TkZpX3dkUURELTFCUVVNUkhFTmFCanVCVkVkbFpIS0t2cHJwaG1DbEFjUElOcktjQXlpZlNCZEx4TFNPN2lYY1ZiSy1xVmQ5T3VrZDU1VF9zY3U2c0NZTGZlQ3pRMkxNOGJmampXVXlnM1RtVTFHNDRWNm56NnEyMWFKN2pDNA?oc=5",
-    "published": "Tue, 07 Apr 2026 13:35:32 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Energy Stocks: Winners And Losers At The Beginning Of Q2 2026 - Seeking Alpha",
-    "source": "Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFFNNEtScmJxYlVTbjdOdUFCNldlVGJvSnhBQjJwLTdISnEzeEVkdFdOTWN4MFBxRXJOSHA4N2p5UmNRSUVfMXcxYkNweDA3RnFNTzR5UWNUME5EcVRaRkxvclVMUnVEbF9GOWtlOG56U19JS2N0ZGJqTjhOY1BzbTlHaVhSdGxUbmlpMXBXcWlhemJFeVVSdW9ybjR1VzRMUTg4?oc=5",
-    "published": "Tue, 07 Apr 2026 13:34:38 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
     "title": "Enverus ONE\u00ae is Live \u2013 The Governed AI Platform Built for the Energy Industry - Enverus",
     "source": "Enverus",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGdCLW51N2hKc2NpYWhPelRzZ0k3MkhYZkZPQmZZWnNYR3o4QkxBRlRPQlJrUWk3dlBhVEZIOEtpRGZKZldTQnhrVFFYRTFOMW1HTDFncjlCSG44MTZEd29hdmpvMGNyRjktSlFQQ1FVZHVqcWJMZUdYM2xwbEpMV2hIVFV3aDBWN3JCMkRkZDhzWEVxZ0ptNkdadlE2UHQ1VXNhd3UxX05rYTJw?oc=5",
     "published": "Tue, 07 Apr 2026 13:31:28 GMT",
     "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Regional Banks Q4 2025 Earnings: Revenue Beat, Stock Pressure - News and Statistics - IndexBox",
-    "source": "IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUFwVmNhSXVuZktaaEV3N1Y4cjg3SXd5Mkk4YnN3eEZzYTBFd2RJMVhaZzVWSXpFLU5NYjF5aVNQT2tDNFprd0xGYmVPdjVCOHRFM2xLaHlRRWxTRmozSm52QjVKMktzNU9tU1FiNjRrQWtjeWg0RE9sQUpWTGhGTDBoN1VDLS1mZndsX05FRTd6dw?oc=5",
-    "published": "Tue, 07 Apr 2026 13:27:00 GMT",
-    "sector": "Financials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -1140,7 +708,7 @@
     "published": "Tue, 07 Apr 2026 13:26:38 GMT",
     "sector": "Technology",
     "entity_centrality": "mentioned",
-    "mention_count": 2
+    "mention_count": 1
   },
   {
     "title": "4 Retail Shares to Strengthen Your Portfolio Amid Rising Sales - Bitget",
@@ -1152,47 +720,11 @@
     "mention_count": 1
   },
   {
-    "title": "A third oral GLP-1 wins FDA approval, and Lexaria sees an opening - Stock Titan",
-    "source": "Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN01sb01YZV9zU2Ytc3U4MlpwLXJ0Ul9zRDRtcWNJNjlpNFFGOE1BVmI4YlBfNXhuQWRIbGZhcm9KRGlQUGFsQVRldS1ZXzRQbksyQUpjWXRMNi1majBmcnp2cVh5Q1dBeTZPUWZvcjBhVG9ZaU96SUV6U2k0VmwwejJxSHdkblpTWEw5NVZRdk5LQkcxREFCN040X2pxZkNieUE?oc=5",
-    "published": "Tue, 07 Apr 2026 13:10:00 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
     "title": "These healthcare stocks offer value and rapid profit growth - MarketWatch",
     "source": "MarketWatch",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMmxjMXNpTGY2eFZoNm5UWGwxeTRWclJ4QkpPdl9PSUF6ME9kUWhXdDJQdjRDaG1pZndwcno1S1FxbVNFTXo3cmM4M1FGR3A5Sy1QTVc5Q2Z0eGI3NGxMdE5vWm1zSjctcmhqc2dPS3pxN21rX0dJckM4c2Zub3NjOUI3VHZvTWZ1bS05MG9oYV9wSFJOaThBT3lQb2R6TmQwYWJyRjVzQm51REJzSFdIU1BXTHEtSVJoTkE?oc=5",
     "published": "Tue, 07 Apr 2026 12:57:00 GMT",
     "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "In the face of tariffs, FDA-approved drug manufacturing deals are shifting to Europe - Pharmaceutical Technology",
-    "source": "Pharmaceutical Technology",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTNQMms1d0dVZkJGamt1OW83SmtsMURoY1Zra1lHbVdrWnJfZnFuQjRBdm9CSDJ3VDZIeHB2UWxPZC1aNE01bkJ0NVllS2x4MkhHVjhkdFloeTk0eVlLQWVqNkcxREFQYlFrcnpGcXZZbUtscXh2cDhKbk1EVVNiOUJ2T1I1MzZObmk3NTk2cTZYcWUzNHpLVE00MWtndFZoVHVlcjliaDV2OVJacE8tcVhn?oc=5",
-    "published": "Tue, 07 Apr 2026 12:44:52 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 2
-  },
-  {
-    "title": "JP Morgan Chase head warns of unexpected global interest rate shocks as a result of Iran war - Yahoo Finance UK",
-    "source": "Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnBMM3d5c1RtMWxHZnlxbXR0OG5TNlRYdGNRQnEtTk05V2VySzNhVVVnZThkOWRsc1dMeXlBdkxJdWQ4YkZVcWM3bmpFUk9ULTlrZkZ6S1phdFBSMFJGNFVkYmtnSWVjWk90VDFmLXpybTJDem9tR1lQWDlJbEpHeg?oc=5",
-    "published": "Tue, 07 Apr 2026 12:41:46 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Netherlands E-Commerce Market to Reach USD 2,987.95 Billion - openPR.com",
-    "source": "openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTg2X0FCeTN5Q0pRRklxM0x4VmU3NjFqem9KYW1vMUxPVTF2YWJySlh4aVdSVjgyVHYzMXhIbUdYZlI1YlJ3VWpyMkFCOFgyd0U1YXhBbkFSYi1yNmR4a2oxRU92R3d3RDZJRHRHZV9fWW4zVHlfeWwwN09xQTIySkdXNzdNYnRtNldqc0h0clBfdDQ1emJsQnlwVQ?oc=5",
-    "published": "Tue, 07 Apr 2026 12:35:04 GMT",
-    "sector": "Consumer Discretionary",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -1215,27 +747,27 @@
     "mention_count": 1
   },
   {
-    "title": "Federal permitting obstructs clean energy deployment, survey finds - E&E News by POLITICO",
-    "source": "E&E News by POLITICO",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlZTWW5kcEhKM2tCLWJ1QlpEQjNCNDUwMEFBQW1HRXBMYnozMldvbnhJUDFQNHZtRHh6ZVVzUVczY2dsdUMxbmJhejhIWmtTNU1TZnU1dUVoN2plMjEzR3d2YlVBcVd0b2dUNmtISGUySDFuajlzanNudXRMOE9yUFM2aWNQWEgydWxzZFN2Q3lnaUhFbkZHQVRlNWYxM00?oc=5",
-    "published": "Tue, 07 Apr 2026 10:45:00 GMT",
-    "sector": "Energy",
+    "title": "FDA backs proposals to entice pharma companies to test, make drugs domestically - statnews.com",
+    "source": "statnews.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcUhFZ0NKaGF4bFJjODR4VEZPN0JJS3Q4a0pYVmc0M29sUlgtbTFWckNySG5McXRCSUZMZ2dPcHhmOEFZai12S2ZhLVFLUEEtMFNMRC1OckRTb3NxbTlpaEFnVWdGQXUyazZnWm1pT3BlODRRM0plY1RyeWFQdmtaRmRpRzRzelZ0eUhhT1F4a0dicDRyUVJwVzZSUQ?oc=5",
+    "published": "Tue, 07 Apr 2026 11:11:25 GMT",
+    "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Fifth Third analysts lower view of bank\u2019s stock price, earnings outlook - The Business Journals",
-    "source": "The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGQtUGpYVFh5MzlHM1hfZGs2ODRWX2kzOTVYYUdvcmhBY2wzcFl0TjAwbHpNTDhPTGd1LUF3WEtCdkhPbFBDTnN3Rlo4TjdGWjRLUUVIaDhnN3JOSjVSMlBlUnBOVXA0dGdZcWx4U3M4Nk1oeGFKV0R3Vk9hUkcycGk1S0JuSlMwczVtUmFEVTVDdmVyNG9ZazNpYlZ1bUt3em95V2hB?oc=5",
-    "published": "Tue, 07 Apr 2026 10:33:00 GMT",
-    "sector": "Financials",
+    "title": "ASML shares fall after proposed U.S. export curbs target an already fragile China market - CNBC",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXgtX3g2Qjgzb3M2NlZ6NTRxTjlXXzVfSE1iS2YzWTFleW5zakgtZ0tMbmpuZVAydWMyYzZnS1JpWlZEa2RLeldvMVZaZU8yak1iZ2FTOUk2WEZvbndoc1pFZEdBOGthOVhpalBOUzFENmxQeXY3MUxob2tNOGlwVHU4VFlQVXU00gGOAUFVX3lxTE5CR25aOTYtQndhaFhwV0xUWXp4RjBnQlU2THFKc2RjbmNTS08zVzg0UzRsbFJXTVNkTlllcDR0cUZSM2lhZzZETVVzNW96VTVsNUxlSW5xR0VXcERTcEF5MXZzNlItYzE3aC1rZDRxazNoQ3ZuOXhaS05nZXFYUTJFdHRidzJzOTFSUWhWYUE?oc=5",
+    "published": "Tue, 07 Apr 2026 10:26:22 GMT",
+    "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Goldman\u2019s Oppenheimer Says Tech Stock Valuations Are Attractive - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXdlVE54RmlmdUtKVjdZYTI0ZlYwZkNtZGkwVldrT1NNSHRQeVlnRUpkNWVPVGZVMzNlbjZJUzZ0bUp0NmV4RzR6UUVJZlduc3Z5TVk3ODd6QVNUTGxkUWI4R3B5NlVRZUJETFRZMGlaVG0yVWFvV1Q1X0o3VFRWWnhuVFRJX2prcG1fMFdZazB3MkNIMkdJYldfY2FQcmZZVzF2M2ZTZw?oc=5",
+    "title": "Goldman\u2019s Oppenheimer Says Tech Stock Valuations Are Attractive - Bloomberg.com",
+    "source": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmQxUjZwNGhDVzVWNFpHaGx2OFZPamtNZHB3RDNLUXNFN3YxNFZxWHdqbGtBM05zMm5kVUNaUHBsR19RSlhqOWl1N29IRmh2a3pQTEwtR0RnMktfa1FhbVhoQjF3UEM1aGZtWkRPcVlsR0RxMmdrV1J4M0Y2THhSRzhPeVFzcjB0ZHhaNWZpMkphcVg0Nnh5djF1S0R2TF9NM1pYNWxycUtZTkRzQmNkZHpQZEo?oc=5",
     "published": "Tue, 07 Apr 2026 10:14:14 GMT",
     "sector": "Technology",
     "entity_centrality": "mentioned",
@@ -1251,31 +783,13 @@
     "mention_count": 1
   },
   {
-    "title": "Will Meta and YouTube\u2019s youth harm verdict be \u2018tobacco industry moment\u2019 for Big Tech? - OSV News",
-    "source": "OSV News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMURLLUpTbGhwc25JRFZNWUZveTNWSzhnVWhHbDZWMGk2eDJrbEVsM3I2clNyNVhSWnc5V2N1TkRKR2VrNFVaSDFndjMyLUg0S2VLT2Z1NzVQUjMxUzV1R0dSSU53NFZBQlRRZ1hmMlFLLWV1TTRiVHRTdmtMMV9ENnhiQmdUdU5qNnY5dnM0MHZlMG5HSFRhZjlJb1dhQXVJS1pDMDV5Y0tiQQ?oc=5",
+    "title": "Best high-yield savings interest rates today, April 7, 2026 (Earn up to 4% APY) - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOekpXUnZGSC01ckswcUZ4Y2JWLVNDY2xHc1NEb3Z2VWc3dlNFM3dSSjU1eVlmSENrS3N5Y2ZxM1R3ODYyWjZKQW1mODFWb0FnYVM2bEhYUXFKbEhfQWJlNzNoRjRqNjl6SkZFb18xeG1HTWhiYTVxNlcwZlJXUmlLaDZMVlFsRHpLWk1NNEROdlE1N3pvY2sxRTBKTEtDTnIydWxWbWhUbENWeFR2MGl5NFM3ZG5kQVFadEg3YUtfUGtUdklvOVRKeFlUOUdMVzFKWkpsRUN3?oc=5",
     "published": "Tue, 07 Apr 2026 10:00:00 GMT",
-    "sector": "Technology",
+    "sector": "Financials",
     "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Durham biotech triples workforce as FDA decision looms - The Business Journals",
-    "source": "The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNkh4c3ZHTTZZTFNJanF0MjNFcnJjaEgzaG1RR1d0WTJhWjFNcGUzQ3ZraS1yekd4UEM0Mm9RczIxbFNfOEg4SXpfWlE0Rmd0ZkwyVFEzb2pNRFBuTHdDZnozSHB0TUFZU2hWell5UkdialJ6ZldnWEY0eGFNa2xQWHFtSE92ZVBDRDZlUjkzVGVUTnB3S0dfTzFnQ2tBT3RwUDBfajlR?oc=5",
-    "published": "Tue, 07 Apr 2026 10:00:00 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Armenia Consumer Goods Market 2026 Trends: Expected to Grow at a CAGR of 4.7% by 2019-2026, Claims AMR - openPR.com",
-    "source": "openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazB6bnJMeXFVUjhpaGdXc2cxd0RuNThHTXdqWHF5MGxKY3JkeUdsN1BHNjFHczY0SGhaUTZWVm1HYnFOUGpQV3JHb2hDMEVfdUV6c3Q3OW1JdFRoUmFXV0pEZElLVFJ3a2YwQjE0Z3hkOXdlaHE0eUNjU0tKQzY1ZUVycmY4QU5raHVwWHhMaDd4dk5td216eG1JTFVwdw?oc=5",
-    "published": "Tue, 07 Apr 2026 09:45:34 GMT",
-    "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
+    "mention_count": 2
   },
   {
     "title": "Energy Stocks Are Having a Moment That Could Last - WSJ",
@@ -1296,37 +810,10 @@
     "mention_count": 1
   },
   {
-    "title": "CBI - Financial services saw improved activity in Q1 2026 \u2013 CBI Financial Services Survey - Wired-Gov",
-    "source": "Wired-Gov",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObHBYWjE3VGN5TEFwazVnWUh4TlNtRVp2VVpEMEZyNndHa2NJeHU3MTNrQVFCVUhqSDBtTVFuOWJxVlhKS09DcEl2Ynd1SGRuNjF2bTVtT1ppNU9yNERqU0V2WU5pSFNVd21uTFhqVHZsTVBjNU9lU0NVSTg4N0ROOWFTR2RPYW50M3FaSGR6dFJ3YVF0bUpQNm5oZm9hN1hGTjhkYURxLWV6c0I3WEZRY3lDTlYtVnVqdnlTWTJKcnFSckM2Yy1DV2lfLU1kbmNVQzdvSVBlRVNwa2JOdGNFR3NaMUJKMGlL?oc=5",
-    "published": "Tue, 07 Apr 2026 09:10:07 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Is Marathon Petroleum (MPC) Outperforming Other Oils-Energy Stocks This Year? - qz.com",
-    "source": "qz.com",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUZaeGdqN0lLdDA0anRsYnFVYjJhZWxyRmVKc21JUTVxNGszYUlrb3FSakJzcThnYlFmUDk4REl0MW5NSUJ4RkxpTWt3OS1kZl9kZHVza2xIM3NuRlh6OXFqazI5cVUtWkE0UFo1NlpIUDlmaW5hTVo4NGdkNzRPdXFYNWwtY01FZEpCU1NqLUkxbVU?oc=5",
-    "published": "Tue, 07 Apr 2026 09:00:04 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "ArcelorMittal has completed a $1.1 billion investment in Brazil\u2019s green energy sector - GMK Center",
-    "source": "GMK Center",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzZMQmN5WjZKSV9VMk43RGVmVm9qRTJhR1FWLU1Ma3JoUTBFazFIRmU1ZVRHeDdzSExpUlZqWlRua192bGNIcFI3UmpnbkE0VjltMzR2OUtvbmthUjE1MEQ5dUNUMDlVYXBCSndjVGpUOE1KeVNSaVFmMUYxbWFHY0NySUx3SmdoSnMzeVBlV3k3anMtTU9relRjMjF6dF9hQ0JXcFFDbzNOcEJVU3J2ZEF30gG3AUFVX3lxTE1jamVDRVVJR1UzZFphNXJsaVEwQ29uVmJha3F3UGh2eUdJVEFuYXd3ZkpzSlRwaV95YThEaDM1UHBEU1JjZ0tZVmxVbXlVdllOeWZ2b1c4RmduQ2ZjS2JIZ2ZFUGNGdmNaVlJRcXJpaGt4VmtwNi1RN2FiRjkzdFZSSUE2X1R3Z3RISk05bEkxU2RocUVYc1lMY2p3clJZM2EyaDVyQmZaMG5Cc1p2YnZaRE9lRkZvcw?oc=5",
-    "published": "Tue, 07 Apr 2026 08:16:39 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "China seeks break from Nvidia CUDA grip in AI chips - digitimes",
-    "source": "digitimes",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONDRJcS01S1dTVDZpVU9ZRnpoZFFNYWhSWkpwMlh5TXF5WnhQUmZ3aTdDQ1N6azZyVEdaclVUM012WXA4dWJoZFo5U3I4eXlDLXV5YUZJSUREN0lSa055Y0VPcklBN3ctYzgzb3M2N21uUmFvMnFadHpNR2lYdE9HT2VoZFF0Uy1v?oc=5",
-    "published": "Tue, 07 Apr 2026 08:08:17 GMT",
+    "title": "Depressed tech valuations could offer entry point for investors, Goldman Sachs says - Reuters",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOODFXQ0RPbE9jdVJqRnpFMUM3ZHI4MENvcXhBbFNhMk1SQzdpWXpXS3RzSGJEX3lwa3JNSW9JRmtNaVlza2NOeVRuZTlhVDJLY21oajNEQmdvN1dHMDNra09mY0E3WkJTdXltUS1LQlYxdDJTMkd5NFpENmdWVEJGZkRhZ09uSHNBd2w5M0hMazRNUzU3bXFicndTVlVxMmYxeGJQMTR6ekxGbGlIbjE0N0EwUHhCT2Fra1RITnVIZGZhOEpLTTZHT2QtTQ?oc=5",
+    "published": "Tue, 07 Apr 2026 09:07:43 GMT",
     "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
@@ -1341,74 +828,20 @@
     "mention_count": 1
   },
   {
+    "title": "2025 U.S. ecommerce sales mark fourth straight year of single-digit growth - Digital Commerce 360",
+    "source": "Digital Commerce 360",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81UXZfQ0F5QlIxZ0VhOVhQYnAtbDhlamdUZ3N4ZWxydEhQSkxQdUFUTkNPaElBMXRqN2xGcXdOc0UxU2NVWF8tNUpCUy01dERaSDhIZWdEYlJPaTVsWXJYa28xbkE1dXhCWEMwQ1paRdIBdEFVX3lxTE8wcVJrTkR3ZWtBVVk3WWs5UHJkT1hsRlNGV1lyaXhrLUxpMGdVMmp2WTNNWFlkUFZRNkRHYVQ0eUt3UVRhMF9pV3U4NWJnS3AyM3VKbTFJY0FqWTBEb1pwZGxpazZ3aUNLcTRtZmk3ZFMxSnFi?oc=5",
+    "published": "Tue, 07 Apr 2026 07:00:00 GMT",
+    "sector": "Consumer Discretionary",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
     "title": "U.S. Tech Industry Sees Significant Job Decline Over Two Years - Binance",
     "source": "Binance",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HdmdYZEpRbkRzZm12TWdudlgzYmFVSlJvRW0zTV9kekplb2RFejN1ZXdkYTY1c21uTmhISVczdkJJY01Rdk9EMnBfNThGRmlPZW9DcUhXU2ZyT0x3Q0UyR1RGd1k?oc=5",
     "published": "Tue, 07 Apr 2026 06:53:42 GMT",
     "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "UK City firms report fastest turnaround in fortunes in 30 years - The Guardian",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTVYMUxlT3hlTFhhb2lBVnE1bXlxUlQ0S2JJR253ajRFbXEtNTZLUUQ0b3FnQTl4ZVA2RzVpSWxrTnMwaWd1NkRaeTJ2YUhBLVNTZ3VNcm9rdzJrWmFNRlJNdlJwdTJuX3N3WVJOdmdKZ2dRWWtPZlpiQnpfR2hpZ0dTbWtMRHctMzlqcW9UTXNGQUxFVjdscWhvRzNSZw?oc=5",
-    "published": "Tue, 07 Apr 2026 06:00:00 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Financing the energy transition: A credit perspective on India's power sector - Institute for Energy Economics and Financial Analysis (IEEFA)",
-    "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnBkNV95YVRTaVJUcnJ3ZUh0eW1MOFh0M0xHNWJuQUJFSGF4aUVNbnBOS0pINGo3QzdYaEthc2dlTUQ0SlRjWUdBeTlHRi1RaVM3aFVNYWxETHlCekoyc3NkSjh4cTNuZ2M0NTBlNjUwbkJKQkNndWRDLVRyMjdKS0s3VWwxQjdXR0F3dzc4Q1hjYkRkMTlJYkh3?oc=5",
-    "published": "Tue, 07 Apr 2026 05:07:06 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Surging Oil Prices to Keep Romania\u2019s Interest Rates Unchanged - Bloomberg.com",
-    "source": "Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFgzemxwRlkwbU8zN3RNemVNNnQ2YWRWWWR1STZVZ2Y1UXU5TnJnakJYWExqN1AyQy04Uk9YOFNKaDRKME4tc0hDYlAtV0dWalA3WS1INGZHaWpvZEtWRFVXRXk2U2V5c2pYZWV0N1A1dWVaME9IUDVUdGlaNnJja3pOM2J5aUZyS3NKYzFTZDJBNVhQWjlTalJfOGpXTUpHcVBENUc1WkpiZW5FeGxzU3NB?oc=5",
-    "published": "Tue, 07 Apr 2026 04:00:00 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Digital Supply Chain Market Size, Share | CAGR of 15.1% - Market.us",
-    "source": "Market.us",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWHlHRnFTR09xZ19Nd1RtNkFSdjUyOFhRcWlzbUFiYTBjak9aY3ZPLW9EUmFmR3psNkx0T1hwZW9sNTZ6OHhFN2lSWk5xMGxzOVNNQVJhdElwdkdfMHJBUWtGQQ?oc=5",
-    "published": "Tue, 07 Apr 2026 03:31:46 GMT",
-    "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "'It's saving his life': FDA approves new drug for rare disease, helping Overland Park family - KSHB 41 Kansas City",
-    "source": "KSHB 41 Kansas City",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE1jcDBBTkhxdmVyWUUyUjNKQURjZ1VlRmpKZEhqM1hKMzNjSDZxUGlULW5wTlR3c3lQYUNWb25qMEVLVThBOHJxM2ZGLVROZFZuSTVFWEtNY1pFVklZRk5lckY2UVR5T3pJYTM3bExwVlJlRl92WGxMdEJrZVA2WXJOMmMzbzFSVGhuY2hjbmczcUQ3TkY1b3VvUEM4Zk1Ub1FhbWNEa1lQU2FaSzdzSFFuSjM2ZmhaZHNfWnNZa0xIZURHQTJ2Z29QdGlfR05JOURUUGNza1NUM1dSSGlN?oc=5",
-    "published": "Tue, 07 Apr 2026 03:21:30 GMT",
-    "sector": "Healthcare",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Samsung Electronics Posts Record 57.2 Trillion Won Quarterly Profit - \uc870\uc120\uc77c\ubcf4",
-    "source": "\uc870\uc120\uc77c\ubcf4",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2REUW5EbUEyNThyelBIMUpwSmJLLXF6amRVYkFnV3ZmQ3RScTRrNjJvdFpjbmFKT0diYUZ1UDBqWXdZOWE3bExNa0dUWlAwWE5MeElZemJaN0ZLZUNnNUxhYkt6cDZUNXJlOVR2NTY3S1E2V1lYWEh4eW1wcUhXc1VVVUhaR0hx?oc=5",
-    "published": "Tue, 07 Apr 2026 01:23:52 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Morgan County Courthouse reopens following infrastructure upgrades as construction continues - rocketcitynow.com",
-    "source": "rocketcitynow.com",
-    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZzdBUUZfSVh3RHl6UEIwR2tRT010WWZyMzJNdzlJWXE5Ti1ZaXFRRkNNSG5ndHNzbWNhN2lfSlphZ01mdWpZcEFuZ0tEX2JpSkFWQUNQXzNpUEVVeDFLTGFLQnVlWGI5ZXJQX1AwLUFIMU04N2ZkREszQTJpbDNpVGZwS0lUREtYelFha1gzcWsyVHdTVV9BRzdHUXRMRHAtZ3FMU1BaaWJ3SWtiTS05cTVXLTVBN3Rpc1IzWmlzS2dfRTY2R0YyWGdzRGFNWE9EWDFMOUxhNWMwa05WUkE2NG5YcDBldERNWHhhd0RxdERRclBkSEFQOWJINnpVdnJGNERfS2xjUko0a2hUQV9MQWZwVkQyejFPYVE?oc=5",
-    "published": "Tue, 07 Apr 2026 01:19:00 GMT",
-    "sector": "Industrials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -1422,15 +855,6 @@
     "mention_count": 1
   },
   {
-    "title": "Is Valero Energy One of the Best Oil Stocks to Buy Right Now? - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0VvaW8zZzRpUWtKTXZkYURIaHBBMVh0Wm85Z3hqRU1wbXJBZkF0b1RFM2pTSWlxUDViSXJ1ZE9jbTViV3NQSkhsbTF0N0NTdFN4U3N2RUtKWkxUU3FiTXpaYi1XQ0tzWEQyS0FjUlMtS3lnbjR3ZlNWVHFIMHdnOXRLT0hocVBIblJ0RFgwc2t3MHB4REE?oc=5",
-    "published": "Tue, 07 Apr 2026 00:35:00 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
     "title": "Sheinbaum pledges 350 billion pesos for school construction by 2030 - Mexico News Daily",
     "source": "Mexico News Daily",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15Tm9nR3M5T3M1WDEydElsZks0UzhjX2ZPRkdJUnE0aldaaXd0UWpuaXp2eV9BaGFuUTlEX2hfaXhUcVc0R1htOEF2MEE0T2UwQ0t1OGhxekhhNXN3SWdFZERBSGpmQ0JGdlJhNHZSVnBweldZX2Yw?oc=5",
@@ -1440,47 +864,812 @@
     "mention_count": 1
   },
   {
-    "title": "Accelerating Rare disease Cures (ARC) Program - fda.gov",
-    "source": "fda.gov",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORGpFTUctajRlZVM0OUE0T1BQakxXYVh2Q2N3ZHZhLUt4Z2F5Q3lPc1lvUi1RU3VoNGd4YTN0bVhMRG5TdXowSWh1dUxBUXE5aEhOdW5oVld2TU1ZN29ndW1VWnBuV2Z5bDZBVE8tRFNaMDduVUtGcnRfWThYQ2duX2Y0X3JQeG91VGFxaUZ1NFR0NmtNZnJ3b2loRFN3UUUtdC13XzBmQzBNS0lRUHNteVhtTl8?oc=5",
-    "published": "Thu, 26 Mar 2026 07:00:00 GMT",
-    "sector": "Healthcare",
+    "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+    "source": "Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5",
+    "published": "Thu, 09 Apr 2026 16:23:02 GMT",
+    "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "The Best Consumer Discretionary Stocks to Buy - Kiplinger",
-    "source": "Kiplinger",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1hGUnd6QlRWdmdIOTBHeDdRblItQ0Q4aVV5T0M2cGx0dXhJaTh2akRReC0zbjlRajF4RUM2WlhaQTRNMUk5WHloSGl1aEx6dVFTYW9tdmtMTW9mNXBVS0JOdDVBeHVlZHBYYmxVQS15bmR1T2FmTzJGYThiQzRFbXUtVDVhQmo1enlTbQ?oc=5",
-    "published": "Thu, 02 Apr 2026 21:51:42 GMT",
-    "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Renewable Energy Production and Use by State in 2026 - The Motley Fool",
-    "source": "The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CRlRSVG4zbUs3SGRFbW1lMTdPZW1ScHlSOG80ZWNlam9PRmtCZjhtUHI3N3ZhOGdSNmFwa2pxeGR4dEdyWjlnWUVMSzZPbmN3dFJBU0JBYW9vM2cySzN1dUlBZUpGR0k?oc=5",
-    "published": "Thu, 02 Apr 2026 21:28:00 GMT",
+    "title": "The Growing Demand For Geothermal Energy - Energ\u00edas Renovables, el periodismo de las energ\u00edas limpias.",
+    "source": "Energ\u00edas Renovables, el periodismo de las energ\u00edas limpias.",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGpnX1p6aTVPQUJpOHk0V3FWUmJQQVV5NmcxY2laQjJfWVR0d180d1NLbk5mV2pEbzhDYmJqYWJaRGp1dmotcThLYzRfS21NY21ZajBWd0tsTVJpUHQ2Nms1ODNVZG92ZWVlMktUVU1yTVBhblFOMUwyRC1fZFlFOXN6RGhYcGZnTWw2dGVxRFpFM204LTRXNnpFWENSYlNzY2JSZHhOd3RpazJOeHBtcVNR?oc=5",
+    "published": "Thu, 09 Apr 2026 16:21:52 GMT",
     "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Retail Sales Were Up 0.6% In February, But Ripple Effects from the Iran War Could Reverse That Trend. Here Are 2 Consumer Staples Stocks That Can Withstand Them. - The Motley Fool",
-    "source": "The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVlFWYUl1QXRXcW0tVXc5TXZia0l4Y2dXX01rdkxnaVl1SGp5UmZiQnBTV0Q4MXNnWTVaMWMzMDV2NXdrS3FBbmlyN2RRU1l1OXRlb3dlbVBPNVpzd25NNUdEZ05mWEl3T2pKaWZxRk5GR3BRY3YxWUNZd2dJRzdtU2FDRER0RFo5VE50VDZINW1ETE84NS1LLQ?oc=5",
-    "published": "Thu, 02 Apr 2026 20:13:00 GMT",
+    "title": "Beacon Financial Corp stock hits 52-week high at 32.03 USD - Investing.com",
+    "source": "Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOENsbF9ETFBnRTdIdVhCcnFpSGM4V3JXU1dYWlRFTFRRQjZzTFV4cHMyR25JVmN0LXZoZjVpYXVxWjZ5Y1gwVkZ6VG1CZXdZRHN5UWJfVU9VSlJvUXJoMUtrN055Y3ZkbUM0bkRxa1lmdEtEcG15bXdPMXBTaVFJdXE4NFFTWUpBalZqZlo5OXpoSU14T2RRSzVBeTV0NTFFVUM2dGdkZnQ1b21FSXdFcEw2NA?oc=5",
+    "published": "Thu, 09 Apr 2026 16:15:12 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Financial FOMO is quietly straining relationships - InsuranceNewsNet",
+    "source": "InsuranceNewsNet",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFR3YndzM2tOOGZIRnRkX21LdVF1RUhyWEZ1STlDSjVCYTNWQkFTU3F3MXRJb2xXQWJ4QmhSbHhzb3NyY2FUVDUtZi1vc1A5Qjh6TlRVQ3RsNUxWTkhocVhPOWRTa1duOVF1bTdiRXBhdHVkOTNxZ090c2VsLXdidzZmWkZTOTJNb3VIeTlGNk5zSVE?oc=5",
+    "published": "Thu, 09 Apr 2026 16:02:24 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Today\u2019s podcast episode: DIDMCA Opt-Outs Resurface: Oregon Legislation and the Colorado Case Could Alter the Landscape for Interstate Lending by State Banks - Consumer Finance Monitor",
+    "source": "Consumer Finance Monitor",
+    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQd3RQMW1mMFZ2RmtEMmdRMzktUFZIMTdzd1daUlVlMl9QQ05CQWlwdkVLS0RtVGdPZmVwQzhPWVhsLVkxNS1WZjhvOTl3MmVPaHJSd2RkZnNjYXRHdVBzZkxYbTVkSms0aDY1QlMzUmV1YTFGRkY0VER4NmNMMGU3UlNtSldkdl9VNFViNnBBcU5mQUpTN19qNzg2R3Bvd1lBYldrOU81aEZKUTJueDA2ZWgxUlQyRkprYmstUlF5ZUdPOG9KR3RJUmFoendCQ3pUWDVxT3h6RFlBMnFuZ0NCTDlxRlpjUUJSMS1WRFBWQUdTZHFjNXVfdkYwbjdYaFBVa1Y0bWExcE1HQ3czYVVNb1JZbVFCcHRVR3g0bFZBVHFvclhHUzNqWGw2aEM?oc=5",
+    "published": "Thu, 09 Apr 2026 15:46:35 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "One Canadian Energy Stock That Could Be Positioned to Grow in 2026 - Yahoo! Finance Canada",
+    "source": "Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeWM5TmdDSW9UZzAxTFNpZVRXb2FCUXBpYm83MlUtUnVaZDdBQXZvUEJfd3VvUzVnSFU2T0tPel9ybVB5Q3haVmtMYWp2bG5MSUxtbEpEWWItRkdXcWVPMllGTzZYRTBQRTd0Mjk1c19sQVhBR3BLcThPVEZiaG41RlI0SWtzMkU?oc=5",
+    "published": "Thu, 09 Apr 2026 15:45:00 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Vanda Pharmaceuticals (VNDA) Criticizes FDA Review Process Changes - GuruFocus",
+    "source": "GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnhzREp3SzhLMF8wMElqczJ3ZzhPSDRkLWo2WnZCMUxvQ01zWTY1SEU0SGM1MXR3cm5ETkxuNTVxUVd6THpYUDljeVduZnc0d0lPZHVnR2ltSEJoek0zM19mYWZPRWdhNnFpcWZ0RTJseTNlR0JvTHdzWTFoUDN0WlJOWkRIYzhOalZhXzFXUldaX2E1THJoVWhHNWt0NGxkc3hvNjF3?oc=5",
+    "published": "Thu, 09 Apr 2026 15:40:17 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Renewables Industry Leader To Open Research Conference In Oban - Ocean News & Technology",
+    "source": "Ocean News & Technology",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVVhMDRnU0RnT1pkWjBwUnZ2eFRxNjlqT0dZUHhEc2tXdU83cnF2eHNWQkN6aU5scUtVX1J5UkpUYWpkdlNYak5TWUV0czI4NV9kTGtVbFA0cFEtQ2hWN2RkWlhjNFJvWV9pcHI3UVBoN3V1MXJBUjBkSGF0TGV1X05SeC1pNlhHR1hrNm5BOGZyMWRXTGQ1bTBQbU9DUQ?oc=5",
+    "published": "Thu, 09 Apr 2026 15:39:54 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Industrial Fork Lifts Global Industry Report 2026: Market - GlobeNewswire",
+    "source": "GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOTzNNczU5eG0tZzhEWlMyTUVZWEJMaHVzTW50dTRkMlNTTHVzU1ZHUHpHLUhEWno0Q2pCdzFnVC1WcW54SGhHWTNiamlja0dQdkh4YUtHS1FQMmI0VjFhMzBic0ZYTTl2azhCM3poV3YwSldPZnBaa0FNaVZ6QXAwWk5VcUxzVVo1OHZqTWxVZU9hbm8wSV9FVldIM2VvQnd6ck1lZGxTYjJUdHJUNzdYSVRBc3JpOTc5SDYtS3lHTHA4ckw2aHQ5UUFxUV9ra2VaM05SWFNRR1Z1OVZEbkJUOVBXbXM2V2xvXzR3RHNUc0JwOEhWMmYxY3N5ZXhRV3V5R0haR2JiOU5zX0RmYmUwLXhkdm9JRFBMY3c0dFVXanVHb0pJR3N4VjkxeTFpT1FUVVZHd09PV0lBRmJhVmFkREhJY283VTg?oc=5",
+    "published": "Thu, 09 Apr 2026 15:33:54 GMT",
+    "sector": "Consumer Discretionary",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "3 Business Services Stocks to Consider Amid Industry Woes - Zacks Investment Research",
+    "source": "Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnVSekhWalZIRUNFNTg4TEZJamlNdUZrV2J0NmpEdXM0UTdCYlF0MHdMaElJcUZ1SEYxNW5ocndvZ19PcVNUaWg4SVl5YTN3X0YwRzUzbmVBbmpFWGhhel9ZSmd6b0JhWGlIVklJVGRtOWtsZEJtbXJWeWVpQUFZbW15QU9SZlVuNjdxSG5yZzZLbjhMS2xsRTR4QmlVaGM?oc=5",
+    "published": "Thu, 09 Apr 2026 15:30:20 GMT",
+    "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Nvidia at Center of Massive AI Investment Wave Across Tech Industry - Meyka",
+    "source": "Meyka",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXNTYVM1azFwLXdIRGhBQUF4SURLejAxZ3N4X0ViaUVTMlQ5cHM0S3VWMHF5bmZGVHB4d0NCcThyajZYN0ZFYVJFY1FVRUdOZkhoRE1YNzZEbGxNNHlTbUdSRm4yQ0dXeHNEd3B5YjcyVW85WHk4TGpqeGNqV3l2bEozMUFidk80S3lfX1JIREM0OXE2QXc?oc=5",
+    "published": "Thu, 09 Apr 2026 15:07:21 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Labour, complexity and foreign entrants: the hidden risks in Canada\u2019s infrastructure wave - Insurance Business",
+    "source": "Insurance Business",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcnRJQjdvX2VrZ3h0X2V0Z0p6a29jOTVoTUZCX3VQV285Yk9OdnFLWnZ6MTgtaGg0b2s4dzhaY2JYSXEtSFdEajRPNmxEYnlUWC16aWtZQzVsNldNVnpNeVM0ZTBlaG8yQmNSUTJiSU96aGUzX2NXUGVqZVdmX2xhbko4TVQ5elhsc0NwV1Jsb0xxdVBWSWtxV0N1bldZeE1aYVJpNXh0cWFlRDUtbjNoUS1WOWVJNGNaMktvX08tN3FwOVc0M0JTamd2bEZFUmhFZDdkTnhYSzFkbmJCTS1QbW5GYlFKTmRUd3VnbA?oc=5",
+    "published": "Thu, 09 Apr 2026 15:05:59 GMT",
+    "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "A 180-day drug review rule could stretch to 10-12 months under FDA plan - Stock Titan",
+    "source": "Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVBDT3F1S05yZzBFMTJnZ2UyeVJFZ25PYkxMZUhFUDlUWmxWV2RzV0kyanlMTlpGMXpfaExUYXpPS2JlYy1Rai1kd1RQeGM3aWx6QVRjYmU5OHlOaS1oTUNZYXJ1WDdzN1FReFlyYk1DX1UtZnJzR1N4WnpHZkdIUS1iTGw2Nkdhdi1tOThQM19zdk45OF90UXIxUG02d1RXT0o3U2o2cmJTNDBpa2pueGNVNWJDUTdvdktidDVDODU?oc=5",
+    "published": "Thu, 09 Apr 2026 15:02:00 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "CWCC Statement on Massive Cuts to Water Infrastructure Funding in FY2027 EPA Budget Request - Insider NJ",
+    "source": "Insider NJ",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWnI4al9XdXNJdl9UYnZPeENXM2Vpd1ZMLXpkYlp2NEpsWE1FRXgxb1p3cnlVTnU3ckJPcXBPaHVwQkZUY1Jud2t3RFpHM2E2UWZBWmphWmxkMl9IelJRbWIxanpZT1BjUVF1c1JSNFZGZ08zeHVtNjgwZ1dRdS03TEZobTdCMmpwNWl0eTRPQ0VObzM0R3VUaWUtdXhZRjhacVFyUzVFamI1OVVhSFp4anEtZnV2TVRnSld6S3daZEpHeVpDQ0tRa3pFLTM?oc=5",
+    "published": "Thu, 09 Apr 2026 14:55:00 GMT",
+    "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Tech struggles, energy surges: Analyzing today's market shifts - investingLive",
+    "source": "investingLive",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGJrMWZmSTNEMHVIUms5alhzV2ZoOVVZemJ3NlN3Z28zUElvdWtVZ0ZsNlZuTXhwaldBNmM3amowSUYzakdtUUh0ZGdqOGhUVGg5YkgtaTcwempHUldMSUZnenFwbUxQaGtQMHhwQW54ZUk3YWUxMWNPbmVrVjlCWHNDeGg0Y0ZINXU5MTJjb000MTlmcXBzTGEyNGJRQUVYRDJCVU5LYWltbjNoZ0tMaWpvN0RaUdIBuwFBVV95cUxOckNuR3NUZl9FTzJaZmxPc0ZzcFZnb3JXVVJJZUNTMmhiSDNDdXZUZDF6emR2ckJVOUhSY3dIWE9vYXlEVzlVYUJ0Z1FYVkhFVG9VZ1Qta1dDMU5HRWpHbTh1clFYSVYzekJJSkJBZ3FzSWZzdDUySnB1T0V2N3lsN0JBRmwzcXBBbElwTUg5dTRMRXNPWUZValh1M3hITEQ3ekJ1QmdNbGRidlh0SEhtbkhWemZTWUdOR2tV?oc=5",
+    "published": "Thu, 09 Apr 2026 14:46:11 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Hydrogen Investment in South Yorkshire to Create 400 Jobs and Boost Industry - Fuel Cells Works",
+    "source": "Fuel Cells Works",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2plUGNPSkNqc19wdGpnZTE4RmNycnNtdEhERlAyd0lPLWFHckJfTEk1OTZETV80YllrUzdGTnFPT3ExRjQ5YTNxYVNscHVkUkJHSVVZVXRrRGpIanNRd043Zjd6UWNxT1Z1Y0RDQkNVUnJBZmJHRUItbm8xaDBsWFZ4Q2E1Vm5SMjQ3Y1cwLU1ydVczZDlRTHlGVndiRlpiYlJsaFdSMlJ5b2thaFlEZlJqOFpyWGtlZEZlNk9FRVE?oc=5",
+    "published": "Thu, 09 Apr 2026 14:42:00 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "People & Profit - Iran war: Catalyst for a renewable energy push? - France 24",
+    "source": "France 24",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2tVLUhyTEpuV3VZRm9yNkRYQjhhWUFKNS1ORjhFTWFHUG5PUW1jLUFyVWYwb0g3RHNVeUlCTkVQZ0ZPX1pBTHNoNWx2SUNoclRZSU10MXBoMGdDZ2hhcGtoYlIxbEd4eEZyUDhfTUxqNURZdjRDNFlSTjJOTUg4RWthclBSWm5rd0JCdDRPUWtmaFg3WGxjM183c2lYckctRThQSUVTLUw?oc=5",
+    "published": "Thu, 09 Apr 2026 14:34:38 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Renewable Energy Certificate Market Size to Reach USD 112.70 - openPR.com",
+    "source": "openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1d0QWNZVUFxWEVFellRdk9VUk5Pc1NieFZGNkxjZkt2MFVHX3R6d3U2N3lJMTJ2aElQVXhveDlpT0dUMWt5LUtsenZXLW8wWWxwclpNU2VIZi1PcjdGNGstUUF4R2ZJSE1fMTM3SXNSdnBoejhDczdNMlRRWkFiTFBoQ05VMUdhQi0zcFR2Y012S05TaEFIZkVHNEE?oc=5",
+    "published": "Thu, 09 Apr 2026 14:20:24 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Doru Avramescu, CEO of Roserv Green Energy: RAFO Onesti Reconversion into a Biofuels Producer and a Regional Energy Hub - Energy Industry Review",
+    "source": "Energy Industry Review",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQnY1T25nNjZsUFJYRzUybUF2YlVLdG45eVQ5cFJXZm5iUU5kUzJkOC1vV1BCZ054eG1aQWNoMWdndVp5a3Frdkx4WHZVV3dkYWR0V0stV0NjYXNCdzVRelZxUWY5SUxxQnNTcDBnZ2hIcndtSnhpenhhcGI3NmZ5ck9JUG1PbkpXZlNtMHhiWWliUm5kalY2bGVZcnBpY19vWGhMYnhIY0FkOU54S0IwSmxDYmVKX0toSlNXSEVpcEktXzRRRGEyVXF0TzhkOU5wOVFoVXZBMlZvUkZvc0haWE03cDJhVGIzQXAxcy1IYzVaUjA?oc=5",
+    "published": "Thu, 09 Apr 2026 14:14:50 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Oracle Brings New AI Agent-Driven Capabilities to its Industry-Leading Financial Crime and Compliance Portfolio - Investing News Network",
+    "source": "Investing News Network",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN1pHQ1UzT2Q0amVqNUpuNTY3aE8ycmZGTzk0RmpHVkswYmRVbjgzVDVuZDRlbXZkd3VQT0tXcGFrWlRmR2h3X0Zac1JhN3RFM2tQMzk1czFzZVc1YVNMYWFlVGtDV2pwVVVxOFIyOFFSaE1BVHhhb3hLakFLazhJa3N1cVdlTDNFMC1kaTh2czlwN3k2RHQ0bmV2dXgxTFlGLVcxOUJ4T2REU1N4Z0VHYVh6cHJXRkhjUWdxbTJhMTRJWm9NS3Z3eHJCQXhUNWZzeWFkU1lEX1dIdjE1UkoyVTY5MA?oc=5",
+    "published": "Thu, 09 Apr 2026 14:13:33 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "RWE renews long-term U.S. wind energy supply deal with semiconductor industry partner - Energies Media",
+    "source": "Energies Media",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HOHcwNXp4cVc2bzY3LWJHQmYyS3dXWk1YU1Y2TE5QNWJ0NDU0bUtQd2xuZUxvV3pJN1VSR3dScVR2bWhiemk5TUJmdXljU2NBaXQ2UkVueE4xa3J6WW53NkJKUnR4bkRHY1dYTzZFTElTcmtVeXVfSnRxZERDQQ?oc=5",
+    "published": "Thu, 09 Apr 2026 14:08:22 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 2
+  },
+  {
+    "title": "The AI industry\u2019s make-or-break moment is here - The Verge",
+    "source": "The Verge",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2dCdDNRY3RyT2JlWU12MDZ2VUdPVzJVWm9KaXl5SDZad28wbDNlUk9SOGlZVGxEX2t6dXJ2RTBSVGhvY3YtRTRtYWQ5Qm1oQThERzZ6VmxFRC1DTUZkWEtmWkxEVzlEbm5GeGk1QUR5Sk9UYVhuSHFiQ2o5RTJIOS10RUpseVYyNXU2Q2Nhcm5LbnZmQi1jNHd6MmRjQ01NZFYweEtJa081WVJjMUlJYw?oc=5",
+    "published": "Thu, 09 Apr 2026 14:00:00 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Are Industrial Products Stocks Lagging Fastenal (FAST) This Year? - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2psNDZYWWxIU2w2VHVPeE9sM3lvMlRmYnU0YW9ic2VGdzJQVk4zSUZ2UVI2anpoV0RPZ1pQR2xXSGFid0x5OWdFWm5yVXE2TDF1S19nZTllZ0lOalVOQi1CZndKRWtGdXFWbXBtUlg0emcybkZUdDh3aC1YMDhDcHpOa3J0dGYxSUhBSUdLUXNpTFR0X05wN3J2WFB1RVVjZHhqSHdRd05WWDRf?oc=5",
+    "published": "Thu, 09 Apr 2026 13:40:03 GMT",
+    "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Has MYR Group (MYRG) Outpaced Other Utilities Stocks This Year? - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanZCQlFWX3h1TW5lX3NGOXFZOGlJWk5hbVNoTFhzM1RDVC1rZmJGeGx2SU1wN2RFeUR5Yjg5d3ZUVHFZNGFScGNpOGNIMFU5NG5ZRzR5LWgzWENNWFQ1eFFxc3dCaXdabFR6SXdzVHFsMEwzN0xrX3Z2VXBQVWlCN0VudGZLOG9VajVMc0M2OHhnblFvRzdMY0p3?oc=5",
+    "published": "Thu, 09 Apr 2026 13:40:03 GMT",
+    "sector": "Utilities",
+    "entity_centrality": "mentioned",
+    "mention_count": 2
+  },
+  {
+    "title": "Are Oils-Energy Stocks Lagging Repsol (REPYY) This Year? - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVNOTGxsc1NFU3UyRTVfZk1wS1VIZ0Q5V3JRWUJvc2RFYXlMdmJaMW9Nc1RmeUFKbXNpVUJyT2ZLX1dmRGtOdV9Uc1JrM1JOMmZiZUNvdTJKQjR6alNHck11LWZoTHIyR3F3bmdMcnU5OUhyZ1Q4MnQ1UTU0N0tFLTB0dG1aTlZWeENwUEtSckdETzFTa2gtTnhlTDlHRkk?oc=5",
+    "published": "Thu, 09 Apr 2026 13:40:02 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Is Public Infrastructure Demand Driving Construction Partners' Growth? - TradingView",
+    "source": "TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYW9wTV9PQXd5RnoyOHpqLTJNSjdVY2FUNWZtUW15a0pEMGNyM29pVzR3X0doYlFiWWhBUk1TdjZweVAxXzRNQklVLUdyQl92cXlMR1lyMzRfSG9KRWF2aVl4UXZDN1k2VUt4S1hCb0VTQ1JwMHhTMGZ6ZnRUZmRFS0NJcXVaQkk1R01KS2xFNlAyemlEbFdFTzBrOEhwcFZfWXk5a1h5LVZoVzBjZjhRcW5iUnBzUi1keHgzWVJQLTgtQQ?oc=5",
+    "published": "Thu, 09 Apr 2026 13:33:00 GMT",
+    "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "3 Industrial Stocks to Buy as Manufacturing Strength Lifts Sector - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODcyQnZLNmdtT2FSaVcxVHZWbXJRZDA3ZEZzRlVweEE1WXJzV3RsNmt6UnJGNEJhTkpmV0wxbXdDUkJDcmJQTFQtQVpZSGRfellodE5KbWoxUkFoemMwdk1yWFNRTEhxck9xMXU5VDJ0SHhYWENMa3VvOG45US04b254amFhUkJSSTdwblVXb2dIYUdzSllHbVJldi1vaEFwYWhTXw?oc=5",
+    "published": "Thu, 09 Apr 2026 13:25:00 GMT",
+    "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Tech Stocks Are Experiencing Historic 50-Year Weakness. Should You Buy the Dip in This 1 ETF? - Barchart",
+    "source": "Barchart",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUEk0WmxFeGp4Vk9VeFdqLTAwem9vaDg3VDZVb1pJbFdicDNKLXNoRmVyblNoaFdwLU95eFMzMnFHVzNfanFfWk00dmtaenRUVzhULWp5TGVhRzAxa1lyYk1RMTFPM3VfX0ZmWTZsWGFGbmhxYU1Sdml1bmI1RkZTbUpJYXNYZVVkZFFScmo5VGxRX2djTVJUSWFwNk1UcVc0VXp0ZjBoamR4RWlGVU9COW1vVS1Mc2FUdW1jTF9zelpsY2lJd3lPTGJPemVNYTlB?oc=5",
+    "published": "Thu, 09 Apr 2026 13:15:01 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "India's e-retail market hits $66 billion as growth reaccelerates - Business Standard",
+    "source": "Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGdrYzVPZ205cWd0dzJoMTdrWHJFQmZGTVhKTXV3YjUzWllYcEcyMVlSemxyXzhucFlkcEs0MXJlQ3JFeGRUMVRTbmtacllxRFA2dm9xSEdaaWo0LVRmWFdqay1heXIyQUxrU2stVUEzcHNIcjNuWS1yLXlkM2liYkh1RVNYeW5BU283VjRhb3JnWmVKeUkxOFl3YkRiTXZkZzBtMTJkWk9ySDF4MklRQlhGN0JXbS1vcEltZ25vSWFGUXA0OFpqdUxNZ9IB0AFBVV95cUxPLWFKMThIcmhaUnZ6X0hzNWozREJhMVFjSWpydzhvN2FzOFdxaHduOTU3Y2d2a2tCQU1UMGRvYTF6eG1icTYtYUN5eHR3anZwWGtyWE4wNWhBQU0yV2hFc0JES1VYZzhlNnAtNWZxTFlPSzctdEZpYWZMREIxakRMemp0aWctbnV1ZEU4eDQwbTNNeDhsaURtZE0zbWxtZWlMVnZ3bEk3M1M3VTBtRGJTY3VZeWJvaGdUNWc3TkhySGw2NVFEQm1PTDdSZTcyZnlJ?oc=5",
+    "published": "Thu, 09 Apr 2026 13:08:22 GMT",
+    "sector": "Consumer Discretionary",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "SoFi Technologies, Inc. (SOFI) - SoFi Brings Financial Education to College Students with Future Wealth Summit - SoFi",
+    "source": "SoFi",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZF90ekRfVER4cWF5b1lkLURJMlc0UExHVlVhb0dmWjl5dXIwVS01Q0NQOFloX3BOWGRhRHM1Z0VTMlJEeGpyalBBTmsxTG14V25iZVVpSWRybDlodnQ2cTJBdmU4SUtjTk9zUmluR29OS1kwY3dzM1RCbi11MDFqQWRUWnMyZHY1dTdwNmFwbEZhdGt5T0Rxa01mY0lpc1VIVVJMb2JxbEhMWFJ0QV9UbGxMbHNQdkRjb1FXdjJ3Y3NMV2NOYmh2bVpCUEVrV0hiZi15NDVjSQ?oc=5",
+    "published": "Thu, 09 Apr 2026 13:03:40 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "bioM\u00e9rieux Unveils its BIOFIRE\u00ae SPOTFIRE\u00ae Molecular Testing Solution for the Pharmaceutical Industry, Redefining Rapid Mycoplasma Testing - Yahoo Finance UK",
+    "source": "Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEFzS0ltc3dPM3lXQUtLVGVnTjU3TG8xc1JqTGM1RDZnMElLcVZpbFBNVVJlVkhvYmFyVVR5Z1ZuZ0RoRlZRaC1wd3VteFI2WWVCbTU4NFhBTi1ibWZBTXlYSkExcFpaWHFxbFpYd2ZYMEFvdk51ZVNDekhtRmtxaFp2R1phTVVxM0dYVA?oc=5",
+    "published": "Thu, 09 Apr 2026 13:03:00 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "AI Actors Platform Twinnin Divides Opinion In Film & TV Industry - Deadline",
+    "source": "Deadline",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWVzZHNOYUVKbkJvZDBvSHpRZThJamxCdzJIdDJudVNFLXl5b3NzemdhRnA3RzRjSU1wZkpJQ3A3RTUyVGhYdVZ6RHZfd3VIVW0zN0hnSGMzaDR0WVk1QTF0dHRfdERzZnJYNVVhRzN3NkZBaWJZVURiZkk2OHYxWmVoRVlnaHlPMmVjQXI5ek9vUWlLNHNqTHpvdG5fYlR3c0E?oc=5",
+    "published": "Thu, 09 Apr 2026 13:00:00 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Mortgage Rates Today, April 9, 2026: 30-Year Rates Drop to 6.44% - WSJ",
+    "source": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTk1RVmVKcklnaXd0WU5URXhTUzFaV1VOYXBaUm0wbjluWG5HcTBXRHVHcXZvSVJqbXp5ajhTTXE5SExBSFBLZWwtU29acDRqaDRhM1g4MnZFQ21PeGd3Yl9mZFZvS1lsM0xlQzBxU3B4RTAzQVU5UzZ1X25zVmFSRmNiZ0lsZ2RGQ1g4?oc=5",
+    "published": "Thu, 09 Apr 2026 12:56:52 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Volatility is the 'new norm' for government bonds as interest rate uncertainty sees yields whipsaw - CNBC",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjlkNGY0bU50WlEybU9QR3hZSUs5b2VMYThSWXZEcWdic0VpT0Q3TG9XUXV2MXlnTTJ0S3pNTERpOGpJVUItR0ZpcGZlTkJCN1FNRGhEcVpOaFdvX3FRRlRWQ0dkandJcVhEMVkxQ0NsbzdtRUlaZjkxZnkzbnBkcktDYnVsYlE3T0JKNHA3MXhia29jZTlJTlB3bVBMdFQ0eUhXeGVZQ3RUaWVHaHVCeWltVVE5cTIzSEdSWExRNkNBVVpFT0YtTEV6Y1VHZ1RC?oc=5",
+    "published": "Thu, 09 Apr 2026 12:55:51 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Top CD rates from major banks April 9, 2026: Chase CDs, Bank of America CDs, Citibank CDs, and more - Fortune",
+    "source": "Fortune",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rVThIajdUS0EzaUdLZkxOdExhdVNTZnhCWl85VXlEdmdCQTFJY1RBWl93ak1POUQydnl4MEJzNlFrU1ZjZVYzMTdHVWY3RTVhdWtwUndFNHZybldSSDFzaDAxUTVmNF85WF9J?oc=5",
+    "published": "Thu, 09 Apr 2026 12:51:00 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Data centers are destroying states\u2019 clean energy dreams - Fortune",
+    "source": "Fortune",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkdiaGxzRVlHX3ZhdTVONjg1ejJtLUFkV0MxVTAwNS1DTGR2ZnByaGlITHBGZmkzbHNLcHE2Tl9DanlhcGNVZ0Z2bHRYTE11QlJBbldZN0J2WmpNTTNJX0ZoTWFPQk5lVGNTaTBLY1ZlazhXNnYyN1VMcmJuTFoya3MySWhuRW9fQUJXcVB5NA?oc=5",
+    "published": "Thu, 09 Apr 2026 12:51:00 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Top 2 Utilities Stocks That May Keep You Up At Night In Q2 - Benzinga",
+    "source": "Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHBKRS1KSVM2YnFQWjc4cWNmVXRFYkpjbEw0cWdfQ29uUEtaUGlJeEtsUWRSZmJLWXAtcU5SaUJZd0t4QjNfbE9XaWJRT0RIVlI1aDZUSTZBV0l3NDBnbER5ZUVvS0hQR2k2U3ZfcDJaNDdKMnpETWI1N3NPV0Q5M2tzekxUU01TNF9IaDJEeUhZY3EtZ1VHbVRCMHBibVlkdE9wTk5HOC1RYUoybU0tU2pzNHdDZ1ZnblhDUEt6Ym9yQQ?oc=5",
+    "published": "Thu, 09 Apr 2026 12:42:07 GMT",
+    "sector": "Utilities",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "The incentives for drug manufacturing in Africa aren\u2019t working - Devex",
+    "source": "Devex",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOHNOZUtHY2RVYzhEVC1Qa2JPYzRtdHcyV0xlYmlRRmNxb0F4SG8teVNfVW45NTZfMml4cGEtV3hyb2FnRnh1LWdwUDUtU3ZPeVU2a3NKRG44YlpNMVdDLTJRNERoV3l2a2FOYlJzaXVEdGxaQjdPeWdOMkVJbGMzY3dQT1V6cnppTkhFZ1F2U0hhR2t5UGZkM1FIR0g?oc=5",
+    "published": "Thu, 09 Apr 2026 12:38:49 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Huawei unveils new digital energy solutions in Argentina - Strategic Energy Europe",
+    "source": "Strategic Energy Europe",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVE5SS1DdWVkTWZZcDVPLTZvTVZlRF9GeTBsaHFCeWJYSEdJOXd6REJpQ3RaN1BhZVFrYjVVNVVVZ2RpXzRERngxcnVFNTQ2OUN3SzdlQS1yYnJ1V2tEVFJhTE95dW9kbFBCa1hqdXlobG5xRlNzYVNvUXRFM2stVmxKYW9CTEF4em9Rdg?oc=5",
+    "published": "Thu, 09 Apr 2026 12:37:03 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Implied Volatility Surging for Enterprise Financial Services Stock Options - TradingView",
+    "source": "TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXNhUmZPaUdQV1hzX1pkbndQNnByZDI3dnlKb1d3bFRCSHYySEMyaWhxV19tSzNydE9PdnA3T1ByUVhSSU1OSzAxdXF2S2NvUFFyWEFQUE5sWEdnZDlNVzJzeEMxSEF4ai00U3lwdGxFWTBjbHlHUFNPSzRWVGo2Vlg3ZVpFOHdQd0VLWDdWYnRMZmlDYTBnMXpFUVRfYUtkUzdqcFlfU296cV9OMElvbmFRb1dIb1hFbm81ejJRYU9kOGJVaFlzUTJ3?oc=5",
+    "published": "Thu, 09 Apr 2026 12:36:00 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Brazil Banks Weigh Shifts to Insurance Fund After Banco Master - Bloomberg.com",
+    "source": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHliWUpGVWdsaGVEYVR4dlQ5cDk4b1A5Q3FjbVoyM3RNQlJxNWktVVc2UUxPcktldExPVzBDNklJYXZKNHhvVjlLT2FwM2dYLTNDUkRaOHc2bkc5eHdGSVl2Y0dCX0E4OUtBUFRCTmJqZHItTXBhZUZsemFtVVZYQ2ZzbkhrNGcyMkY4Uk9iVHJLTHdhdjRVdjIwQlBKdlN6ZU9za24xcmVRcm53NWk2NXZuYw?oc=5",
+    "published": "Thu, 09 Apr 2026 12:36:00 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Tech stocks today: Chip stocks lead tech higher, AI industry seeks to allay fears - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY3F0MzAxdUtXYXVJbGhBdXJOb1F6c0NKY1FxclhKUVJzMm5iWU10ek9XT3JmVzVFSmpISjZheG9jRHJtTGcycDdBTUlhcVNyVlNZTDUyTFZGdGJtRUlZamRRVnB2SVJyamR2THlDMzFmdkR6NDJ2TEtOblVIRC1XVEhRdWlOcG5rMzVNRHh3bEtVMXA3Ylp5NnowYWRJU2FVcVI2NlY1eDFETFYzektJUTg1MHZaS0dpWVRwMlBSMGp4QjR3Y3hyMGcwVzc2YjVrVVZ5VjdlQkNMYUZCWEJlXw?oc=5",
+    "published": "Thu, 09 Apr 2026 12:32:55 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Northwest Bank to open fourth Columbus area financial center near The Ohio State University - PR Newswire",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeGNVMlZpd3VqUnJ4SHM0S1VVYmNfcS1pXzQ2SHpSOHlmWG01b3ZpVWdQeEs4N3I0aUVScTdLaDZ2eDNyaW5odFJvSVE5VGVDeklYTGppS3MtZHRHbWlBLW94Y1RVUi16SGFwN0I5U29HVGN4RmF6empGRGlheTVHRkE0cXVHd0tHd1dkV0xTNU5VZDJibDgxY2N0VF8yenhTc3UyUHZwTW9HZExoWjhVS05RV3B5UlE4XzNSa3RUYUhzME02TGdWMkZWb1VEUUZSTGtCb05DTFEyM002a2Eweg?oc=5",
+    "published": "Thu, 09 Apr 2026 12:30:00 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Why the Energy Sector\u2019s April Pullback Could Be a Major Buying Opportunity - Investing.com",
+    "source": "Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDlRVnB3TE5fNmNqMGR0Nm9Bdy12WjlRS3pLMTUwbXE3ay1XUGRFdGtSQXczYk03M2Y2bXdYVE1QMFA1N1VaMjltOUZwQjI0c0ZHeVE2ZTl2cTd0RHhWakxrVVplcDkyM3I4SEdDOTl4MmtWMFE5eXV4S3g2ai03QWdONXNoRnhnUkZ6X3JtVFpGd01oWFJYWERoUjZqMHoxUkgzV3VkUVA0TTl2UUF1dy1xejZVT2s2NWc?oc=5",
+    "published": "Thu, 09 Apr 2026 12:24:02 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Banking Sector Remain Healthiest Amid Market Volatility: Wright Research's Sonam Srivastava - NDTV Profit",
+    "source": "NDTV Profit",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWVA4Q1ZyZW82QUxCRVliLWQyaHkzQVlkamtTdVI1aTNHckFKUndadFFTMXFrTnFhREkxcWRWNkZGdEhXNDczYnZlZXhPVFYwZGhzSjFzVnhJNDJva3Zhb29aWGMyQ2oxNzNOVkhNYWR1UWp3bGlDdDBWUzdCUlBnVVQydDJhNHExbHNkWkFwaTZXazRUWk1URUhhRkZMbVhNSXh3T284RjZlOUw2ZUttR2Q2eEpCMzQ1NWY4TXRqaGdTNTR3aEc2V01PaWhpYXJXeW1aTkIxQ3ZWU3ItZUo3c1NSONIB6wFBVV95cUxQaDNWYU9mVkUxVFJtZ25mWUNKdkdDb0dnTkJ2Y2NETmd4UGhIY2FEdVJDaHZMaDJJMkZWbXF3cHh1YUt4MFV1QW5ob0xXZmNCQ2EwS2lwZVZVU05DRzgtTzhiYXNfRWJTd1Z2UEQ5eE1YUkJnR2ZteUtrZmlTMlkxNFNBZldmUXAtVDlQc1djamhtellhOEM0LWZXUU10eGtuN2IwdEdDTkdnbEUzOTJVMFNKN08wRndQQ1Z6LVJXZ1Q2QU8zYWx1bzZFSmYtWk1qcExLSTFFYlVhaVNmWkNJaWU5WXZuZVdGSmdn?oc=5",
+    "published": "Thu, 09 Apr 2026 12:21:36 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "iA Financial urges caution on unsolicited share tender offer - Insurance Business",
+    "source": "Insurance Business",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLW1UaElzZDR6MmE1YzlfenhNOGx2aHBoX0xFa09hUHFxc3VqZWprY2FyM1JYdVpWbGh4MFp5OW51WGdGeTd4VFFSdUdpR1RoZy14VEF5M0FvSXFSNW5LYXNJVGdJTmVqVFI1dGh6c1VWdUhnMEttdVpsVS1fRTlOV0xXSjA1NUlHVGx1cFl2QXFDeG9MUm1OMmtEN1N0SnQtM1FpWEpLMEZSYWg2VVJvSmd0cDVrcWpDdzAzbjBKTW0zMFhLajFWUUM5TQ?oc=5",
+    "published": "Thu, 09 Apr 2026 12:16:00 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "JPMorgan upgrades a key financial stock that has gotten hit in 2026 - CNBC",
+    "source": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFNJdmJ0RWppLUZ6engtVFZwYTk5dHFTdm5FWG4wRmtFLXF5eGNrTV95WHQ4LTd3RkJkc09xb1Y3bmt2QVNJZFlwS0d5U2U5VGNzVnI5bE53M2V0eGFCek1VNnJ0VmRUaHdDdFlPNFB5aUVXWWFTRnFQQzZ6TFRBTTBQR3MtdGZDTHVFYVh2dXBpVDd5SjNZSHlWMEFNVkpBQ3o0VjAxVQ?oc=5",
+    "published": "Thu, 09 Apr 2026 12:12:55 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Why the Energy Sector is Embracing Digital Twins in 2026 - Energy Digital Magazine",
+    "source": "Energy Digital Magazine",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdU5HbFhzNkl5el9BTTI5SXB0UVh4WnpLbzJlSXhSSmRjRXlnMzNPR3I1UzhkQk5PRjhZYTBlQWw4YW9VVVRSTmgxRS14SUw3eFNTUmdzZkxmU0hGUkF4S0NCWXhNNnN3ZXpQcnE4SzlrZTRoa0d3SnJmNFBZclpXTnlkUzdoVnVPSGlDd09BVjM?oc=5",
+    "published": "Thu, 09 Apr 2026 12:06:48 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Investors are looking at the wrong tech stocks: Chart of the Day - AOL.com",
+    "source": "AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFgzSGl1X2NGQ2ZlQVVWdVI5cWRCM1l2b1hpTlByZWNGZUhPbnBpX3BsUjZJMFhoOFJWeG15X1FyZV9LSGpHVlFaWk55UWM3bm9rYUNaWWhqdnpPVFd2eGQyU2Q1Q2x5Yi1sYWhpTXNqbi1FUUZxSk00RDZTSU0tcVBBZnNjUQ?oc=5",
+    "published": "Thu, 09 Apr 2026 11:52:39 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "European Union Supports Accredited Solar Training to Accelerate Clean Energy Transition - EEAS",
+    "source": "EEAS",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbzVrVDlaQmJtajNKa3E0M2ZWaUpucUJybVloaGVMampaZHhWaDQ3RF82Y1Z1ZkZlajlONEpoay1BbEFSQmJwTjlRckJkSWdXZDF1dFd6a1R0Z1h5US1VYjBWSUlFSU1Jcmo3RlNrUVlyazFoa0UwSW9XaEIyRjZEeXVLcUh1SGp6MDNucmtpcHpIR2hNVGlNckFEMXBjWDJ1eVJraGQ3WG5Hbnd0Tk5SX0FqRm5XVnJQSDZuZ1poUFRkOVMwaW1QNXhacUlXLWh3X1E?oc=5",
+    "published": "Thu, 09 Apr 2026 11:44:22 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "As Trump throws lifeline to coal plants, critics warn of higher costs and health risks - Dayton Daily News",
+    "source": "Dayton Daily News",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVHpNaksybU1KWnc4MWwxWHNwTElHaWEyVWJGN0pHU3BfNTBWQzBEZXJkM1EyRHVadHF1QzdWTWJBcElmOERWV2JPV18xNW9pSjdNaENIa2NtUzJ6VFpYeG5CZmFoVXdXd2hLd3RZWDNsaWlEa3M5WEYtTUdUcHZyVjRvZjVscDNMTFRqd2NvcVE4eUsza0xDdFJTZ09lR1ZLUGVmZ3hlYUZSdWV0c0dtZjFWXzhvVHlrQXpTYkY2eHQwbkxSMWNGcDJxNlAzMlNnMk5kY3dSTXlKclprMnk5NkZqbWhKa2tXWEROMzdaQlJxRk1GWDRGcmV6YlQ3bk9UYWc1dmhad25UNzBG?oc=5",
+    "published": "Thu, 09 Apr 2026 11:43:15 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Analysts Are Bullish on These Healthcare Stocks: GE Healthcare Technologies Inc (GEHC), Nuvation Bio (NUVB) - The Globe and Mail",
+    "source": "The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbHdRc3hNdHo0RTVrVlZTQUotelBkWHRMQm1Md1d6bmRxLVZyNlBEMTVuVjI4bDRtajRFT3lzUDVYWmwya29pSThhX0c3VklLYXAzUWFpNDMtclZOT01TYk9aMmxhck95T2ZzRmd4Z0lvbWEyUXVOSXo2dHNpajd6SkwtNlR2dFlnZzJicy1GYzcwRk1NN0owaDdnVEhRZG9TT190RHBSU014VXNXUGp3NWd0RWtaV3lfSVJHYnFucTVOd1A4X0QyR2pOMW9YTFFhMWRqR1lpdWktSWRYR3A3VVFXRXJsNFJxeDg5c3V1UVpSNHg4cFdPTUxVRTVZNURGdXRLUzRTd0s2R1hUMS16enVYRDA?oc=5",
+    "published": "Thu, 09 Apr 2026 11:43:09 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Provident Living Financial Services Invests in Citigroup - National Today",
+    "source": "National Today",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3VaSU5iSjJNZy1OMXJqWjVycmI0RkNoN01fRWF4TWZFOUJ3MHRhTF9UQ19KNzhpYjFITm5vUUdnOTFNanA1MmZLelJYb3dTMGgzWjczOTNpdXM3Q0IyYlFTeUZHWG5YUkZNeTBIcDR0ZWY0cnVCOUNjOXY3UGpPTC1qS1h5X2FBMy13eElGeDI5WHl1TU1lbTczQ1B5a1NDbGFOR214cFJ5MUFhLWgybV8wZmQ?oc=5",
+    "published": "Thu, 09 Apr 2026 11:37:45 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Electra puts C$7.8M into Ontario cobalt refinery build work - Stock Titan",
+    "source": "Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWHZDWkx5MVNndWlpN0x1aU9YcUxuU3B0ck4ySW82RW1KV2xrYjlJVVZLbnYwTkFzT1RNR2pkQVZyRFZZNGlXUUF5LWdsSVpLWTBSRVAxUFRTU1NvcnZVZFpSODd1b3dRcERlUU9waVU0QzJ3aUxMVDZ1MmlwRGkyeTAzakxrT21JWHNJV3o2Z1o5bmVqLXNqd2xoZXI3T3dlTFE4ZW8tUHVTM0MwU3lUSTJpZnFGdXBTNFQwZQ?oc=5",
+    "published": "Thu, 09 Apr 2026 11:30:00 GMT",
+    "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Tech Industry Sees Massive AI-Driven Job Cuts - Let's Data Science",
+    "source": "Let's Data Science",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDZYbnhRc3VBRTZEZlVwd3dGa0lteE1MaWVrVXIzNy0yQ0ZidFBqQ1hnZXlOOThMWUE2VU9sZTdKN21Ualp6aVZuam1NZGRHOThhZVpaeTh3NFU1c00xbUdTdVNxYzc2YUR0SW53RWYyZ2trRWVHWUYwZTRFU1RzQnh4bERUWTVMaUdaSkRmdVE?oc=5",
+    "published": "Thu, 09 Apr 2026 11:20:29 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Can AI kiosks replace dealership salespeople? Epikar tests U.S. market amid industry skepticism - Automotive News",
+    "source": "Automotive News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRjUyaHhGZms5QnFicnhaNXRkRzdyMVBqcVJad0RjOWx4LTdKS0xHd3c3YVRPQk80OEtOT1dDaTRNTEhyS2IxRHppbENQaGxTVHludjdQdkVNdW1BaWo2Q2xiaDFxYXFCakdNYmE2YWx6VjFDMnNQRFdkbmhYRk91WQ?oc=5",
+    "published": "Thu, 09 Apr 2026 11:00:00 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "PhRMA chief quits amid mounting US policy pressure - The Pharma Letter",
+    "source": "The Pharma Letter",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMktILXd2Rk5ycFRBX1h3VllORXFmU3RSek9wZVd0OFlEOHJHa18yQ3BPdThKLXFNWFlOdDdtdEZBLVZTZDFjM0RtNWZfWDFybVVJbkhkUGI4YmZHRGJWS3ZmaWlJZTJzdE1GS0otVTg3X1J5UW02b2o5T3hsdWNrWlRJX0RQdU1ZUXNiQnpMdmw1VklDTXdsdFlB?oc=5",
+    "published": "Thu, 09 Apr 2026 10:52:30 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "NET Power and Energy Vault: Comparing Small-Cap Energy Stocks - National Today",
+    "source": "National Today",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXpjY29lSWxuQkJYMGpHOHh0bWFOSzl3bno1SUh5Y3g5WElHWG1ZYl8tVkROYU8ydlNJaDEyOFBsME5GVVZOcDBBNFJDSjBiNGsxVkNQOUZ0UDlPMUswMWtWVU9Ud3dDQzMwSFlwVm12YXVCSWVsUHVKV0ZselJpOEFfejNYUDk3Sm4tQ25aMHdONkROVnlCajNIWTBQek03MlRIWE5aTkFVQ013VEV5WE1yNzE2Skk?oc=5",
+    "published": "Thu, 09 Apr 2026 10:36:48 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Active customers in Serbia: What the new role brings to the national energy market - Renewables Now",
+    "source": "Renewables Now",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdEdzMUt6WUJZS0taRWlWV1dncUtoUG9mdm5Xak5xbVkwR2d5ZGRrX3oxSVMtNmhROG90RmM2Qmg3QWM3NnBpcWRDMHRBOUlWWmUzVVZIZFk1VndIeGpXd0lsc1VMbVgwNUV0UFBGSHlSYWg1WTJKY2pCRlkwMWNuV0FsNzFXT0Ixek9sX1hFUktwYWZmeGhPb0toVFpsYzF1c1k0MUlqMkV0SUs4b1BrU19CYjZ4cFRaSFk1Yk9B?oc=5",
+    "published": "Thu, 09 Apr 2026 10:32:23 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Semiconductor equipment billings reached $135B in 2025 - Evertiq",
+    "source": "Evertiq",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3kwRjBPeVpRMzhiQzVGRHZIcWZ4SGRNaDNkN2huMVFLeVFudXlneVVSbmFvQzhRVkZHSTRQRUJ2U3J2bWJaVjVsOXVGQ1hPb2tYOWVjVzFvTVd6dHlFNDdjZVE4RF92Qm1tQUprSTM1SkFVUU5VV0lOVTkwZzR2dkVLczFiNWdlbDRzcEJMdDZPNEE?oc=5",
+    "published": "Thu, 09 Apr 2026 10:28:01 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "South Korea\u2019s AI industrial policy meets the energy shock - The Economist",
+    "source": "The Economist",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2NiS3R6Q0dVRmQtMDFEN1d0ZW5QSWdzZEpkZ20xNkdTaURMWjdwSUhKWVZZM0c3YUNUWUl3Ym9qNjFpOGIyUmlHcHY2eWVtUHc1dnA5YVNEREFvTDJfSFlqY3JncFRKN0QxeHFabUhGeG90MGx5Q2E2MXNYOF9DX0RvV0tLUTZjbGdWRDVRanFKYnRkaDZ0SG03ZFNJUi1fQ1RVVXBKU21ZMnVEcjh2VlVqUzdtdw?oc=5",
+    "published": "Thu, 09 Apr 2026 10:03:13 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Dialogue with Sylvia Fu, Global AI Transformation Leader at Edgewell: Activate the World with \"Chinese Speed\" and Remodel Consumer Goods Giant's Future with AI - 36 Kr",
+    "source": "36 Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11WjhIZzhHaDhxQkkzM0lVR2xYblJjSFJ3bnhIT0lJV2R6QThoT3dCTW9BSUdIdWM5TWRVQzQ0Sk9EUHpjeEEwTUZrRmYzdG1MbVJr?oc=5",
+    "published": "Thu, 09 Apr 2026 09:53:07 GMT",
     "sector": "Consumer Staples",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "News - Military planners in Rome finalize tech industry\u2019s debut at ALFS 2026 - DVIDS",
-    "source": "DVIDS",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2JlU25Cc1dhZkphenExTlo4dEY1aGdjNUktN01CREdOU29DanBRWjVDVjRMX0JPRXhhR1BLd21ONmh0VWNXalo2SEp5VEg4QXVmN1U5Rno0VWd1NGtsZ2RVYXF5MEZrOUhIOVJEWTRjeWRCR2hGaTNsQk5lTThOVkZzX3hnR2E0YWVMSmp5Zkxma21aQTNKLUhWZUJfalNi?oc=5",
-    "published": "Thu, 02 Apr 2026 12:31:00 GMT",
+    "title": "Pharma Pulse: Tariffs, a Ceasefire, and Patient Access - Pharmaceutical Commerce",
+    "source": "Pharmaceutical Commerce",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVEQzWnlLSjlESEJDUDBnNm8zSVo0WXBEVGhUcHczWjBya3pOQ1o1ajFGU0dTaWFWdTAwQXhwSzc4ZllDWFZQOXh0b0JfbnBOYlF6ZmlCdjF3UWExYmZzdDdqMTRadlpTNURCRTU4YnI4ckJPdVRSWGtfVGl5cktXTkMtaVo1QXc2NnhrRWxlV25uVmd6VmJJLWhBdzBiZ3BWMDRmV01OeUc3UU53cGxtY01uWFlNdC1KUnFv?oc=5",
+    "published": "Thu, 09 Apr 2026 09:43:41 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Global Live E-commerce Market Size, Industry Trends, Demand Forecast, and CAGR of XX% (2026-2033) - openPR.com",
+    "source": "openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjJxTEMwYzRoYnRyS0JUYWR2OF9fbXVVMmRJYjNqU3NiTFg2RkFGTjJPUmVvNi1kaWMyRUdROU50eFpmOTlwQ0xCdENfNlVEcG0wdnZKVlc1NjBsS001cmV1cHFDRGJQZTdQVHNNVml3dmxaYWpqc2ZCYk94VDBUT0dYanJZaHlZUDlua1p0dnJWeWxEZTF5Nw?oc=5",
+    "published": "Thu, 09 Apr 2026 09:25:35 GMT",
+    "sector": "Consumer Discretionary",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "I cofounded Anthropic. AI companies need you to shape what we build. - USA Today",
+    "source": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamMzNHBEMWRjMGpwek44VDZiVEt1V1lhVE5YMGF4Um9KM1VVSUVXblB4WDFYWlpGNk1fbWljYTZLb2tOU3BPRzlRUUQ3enl3N2pVZTZLMjV4Mm91Y0NPNGhNMUJxTl9CR1daQ3o0RnV5N3o0eHg3XzNVcmUwRXRZemVBS2hMcmU3dWxlbTN5Rk0zejF5ZklCM2lNcnlETVJ1c3VEQmVjRnpGa3gtMGwzUzVFYlY?oc=5",
+    "published": "Thu, 09 Apr 2026 09:07:00 GMT",
     "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Buffalo's unique advantages for clean-tech success - The Business Journals",
+    "source": "The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ21ZaEFuQ3Z1Qi1lWXNDeWdUeFlXd181VUtGc0hmbjM1OEk1UHhadG1OMUk4MmVaX0E1aGdPNG1TZFVKMzF5ZmxSSDZLMGFqRWlkSHdMc1pyYi10bVpCc243Mko5NFNwTEZnZXhKTE9vVTd5N0d5b0psbTBXM2cxTDFWZkZWYkM5ek5yNWVsRTZYaXpHckxxc3FsODhja0VhZGdudXcxSTkxNFU?oc=5",
+    "published": "Thu, 09 Apr 2026 09:00:00 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Jeito Capital secures over $1.2bn for new biopharma investments - Pharmaceutical Technology",
+    "source": "Pharmaceutical Technology",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDVMWW5jRVp6NXVhUjltb1RiNUV2azc3R3gweC03VXU3TF9ZR0JkUFlyclVYd1NqMUFaRE8waFAwU0dpRC1MbDBhdWw2UktXUHhDU1FUS2ljMFhFbXpjS2xsdE9fVDByUkNBSVBrdUhVSEpXdTNwT2ltR1R0VmM3T3Vfa3doMW9yM0N3VHBoRTA?oc=5",
+    "published": "Thu, 09 Apr 2026 08:56:33 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "3 Reasons AVGO Has Explosive Upside Potential - StockStory",
+    "source": "StockStory",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWlJYTkwOGg1dDRBaDRDcDVGX2I0WGt0Nnp4ZXRManZKeTZFLWJST3pqX0FtZXZhbHNfN1ZSVDNhRThobWdudWNhNDgzcUpqQS1vRWZHYk1Ta09KR0E1ZmIzcmdVdFNSSG9BQ3lseF9YVzJmdk5PaEprYUxuZGZJY29kLUwyT2tiMVZxNUhLUjViSDNZV3lWQ3g5SDVndmRjeV9hdE04ZHRHTkE?oc=5",
+    "published": "Thu, 09 Apr 2026 08:53:06 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Global Consumer Packaged Goods (CPG) Market Size, Digital - openPR.com",
+    "source": "openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDdxYS1TS29sZnlycnF0VEJXSGg5ekQ4c0RITUxuem1NSGUyLXdqUjNmMkIzcnMxUzV2T3hoVTg4YU02MGRkX2JDZS1QUXB1Rk5tQ01jQjdKcGd1VVFaSkRjMUc3RldZT2tPaU43cGJlVmhqd0RWTC1WMV92dlBUT2RJRUNIbXlRMXlFa2NWNE5PR1Y2?oc=5",
+    "published": "Thu, 09 Apr 2026 08:37:09 GMT",
+    "sector": "Consumer Staples",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Biotech VCs, used to a winning formula in drug development, face disruption - statnews.com",
+    "source": "statnews.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Na2FGTFpPVkkzbFpiakQxdVI3WFVITVFoUTdzMDFuQ1Z4SUxkWWMzV3UzR3V5QmxXNkhUMmJtOEtrSjdOcWxOQnl5czhDaEZXcHFNdllsa1BBd0UwZWZGa2wtaVYwQ3didE1sYWFRX1pjSzJ5ak1xLXZYWQ?oc=5",
+    "published": "Thu, 09 Apr 2026 08:35:27 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Saudi Arabia Construction Equipment Rental Market: Infrastructure Boom, Cost Efficiency & Growth Outlook - vocal.media",
+    "source": "vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWE9RVHJzTlZaRGZ3a18wNXZISExDcUpQNHNGYWJnVjBZcm1oN2UwdmN0V3R0VlcwNHNvUUttdU1rOG1OalNncnpwS09SZm4wZ2w0OWtYUTlla1AxeXBTOXR6VUhnWjh2cVhfaFpfM1o0TnBqdFRjbVlnTVM5NzVFTHEyQ252VnlOanF2N2N4SjFodFFYUGhJRUdfdWsxTUE2MW9fc1hvNzlRWldNdUFlMHM4enpSQzh0dWhfeXVuVG5FQ1R0dlR4U1lySWFzUQ?oc=5",
+    "published": "Thu, 09 Apr 2026 08:32:47 GMT",
+    "sector": "Industrials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Is the tech industry\u2019s rental model out of control? - TechInformed",
+    "source": "TechInformed",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnB4TThUT1gwM1piTWhzZnhsN2c3eHU0ZDY4MlRqa2RoR1Qxb1BjbVFwWFlaTlczWk5RVkVfX210ejNLdkU1XzV2VGhVNEd3eFNhVV9ERFJWeUd5MlhFOFVqdG1ZRHl2RXlnZ0M1MTd1MmF0RTA1MU9NUktfdU1FTg?oc=5",
+    "published": "Thu, 09 Apr 2026 08:30:28 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Tech-industry Integration Propels Manufacturing Upgrade in Kaifeng - \u4e2d\u56fd\u79d1\u6280\u7f51",
+    "source": "\u4e2d\u56fd\u79d1\u6280\u7f51",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zMkZna21CUEJjUThYQ3ZMOGM3dDZBbGZBTWRrcC03Nm0zd2dCT0lfMjVqZ0pLU3ExX2lYelYwTldaT0VpNkhianVRZUkweTR3cVQ5emRjeGJHZC1WdFpDTmVZSUlvb0ZaaE5FR2lkei13QUJy?oc=5",
+    "published": "Thu, 09 Apr 2026 07:56:43 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Industry awaits DeepSeek's new model seen as test of China's AI | Daily Sabah - Daily Sabah",
+    "source": "Daily Sabah",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeTM3eXJsY0lmQ1BDaTlOUE8wd3AwLUVMV0l6SDVtY01ad3ZOMmJqaXFWdEltaFU0MGVaMTE0YVhJdXprUjltVWJMV3hxaUdjV1A5X3FqN0d5MF9KajJPeDBFUGNWMXZvYWp3SG50NE1MeU5XRnlUUjhzNERZX0JiOEJIdnZPRHZlUFFScm5QUkFod0JmLTJJb3ZJSUZMUTVydmt3cNIBqgFBVV95cUxNT0EyYUhLRzhkMUFZM1JRMTRqVG5xSjhvZEp2S2ZET0lpalNTeUU4d25yVUtEck1CU2ZpVFUzZ0ZDemM3ZTVVXy1DSWtSa08tbW9NMWxHOEx6UTk0djJLRTl2MjE4aGFWRF9qcC1UNEpkSzI3Ym9BNHY1MkhrSWVXQnhKbW5FVWNXUVV1N0hDMHhVaFExX3doVXFwa056Q1l5bGljY0xCZDVUQQ?oc=5",
+    "published": "Thu, 09 Apr 2026 07:39:00 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Agriplace rebrands as Simvia as compliance data requirements grow - Fruitnet",
+    "source": "Fruitnet",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNalJrOTA2dWlSVkxhcVpRd3RxQ05fSk9LVV9vSl9hZEhSSE9TM2F5RUpwcDJJZGs0U1lfeGtrYUhFdHNhbUtvVlA5d2JTSVY4SVprMW1qa1RNVmJFeURWdVNBT0tkaUc1akR0ZHlpcWlGQjBNSHAyUm1HRTBGSjRzVHlxT2h4eHVZYzdQT3B4REFNNEVBYkhRNEc0VEVJSnJqWjNZUU8weEhsS3RvbnV4Q3RKYzVCQQ?oc=5",
+    "published": "Thu, 09 Apr 2026 07:08:01 GMT",
+    "sector": "Consumer Staples",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Goldman Sachs Joins Wall Street's Bullish Camp: Seven Reasons to Buy the Dip in U.S. Tech Stocks - Moomoo",
+    "source": "Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDRJY2tSMEY5YVpMbVRUUXZSOF9HOWJkOV9GYWJDRi1qOE4zLTU5QUlsbmF3MzNYSFZuZnZKcm9jMlFPUDdNVGRocE9MZFYzYV8tLTZaeGFmTjFubXE2OWdKVUZZRmRmMmg1X0xjV20wcVRNTi03MHRZbmNLTHdzZ1dGOUkzZzUyU2pPbnp4UllFamJ0RUVWYzhWUjMzYmdMcGFwNg?oc=5",
+    "published": "Thu, 09 Apr 2026 07:05:50 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "GTCR Completes Acquisition of Zentiva, a Leading European Generics Pharmaceutical Company - Morningstar",
+    "source": "Morningstar",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNejcyblR6S0E4SFh1b25rUzNYNGM5ZExjdXlNc3pfUnU4QzVZVjRuaml3b1hkdF9Ud0MyWVRsRHZad2NCWXYySHFfLWFPU3dMY0VfUkVBaGY1NVpBNkExVGZNc05rb0NGd0Q1TmxoOF9vdG01LWlUeFNsbmxHenBUUjRGdmRUZmpKd250MmU1eXVvRDlXNHYzbTF1Z2xGVFRiRFhZU0cwN3RoVnJoNFNxSnJ2bGEwYlozanRPamRCcHlvT19yOHBUVWVReVQ2aXhESk02R202bnVwdTVNWXZxSktDVQ?oc=5",
+    "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 2
+  },
+  {
+    "title": "Defining \u201cMass\u201d in AM: Can 3D printer farms deliver consumer-scale production? - 3d adept media",
+    "source": "3d adept media",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNODJneHBVb0VCWDlNeHRSTDhUTnVZdnZnTjh4MlNzdkpmVnZWQTVxSEpweHNKVUVMN194VHUyYTU3TEV1dFVfRWRCSVg0bG45X0tfRjZmVlBBZzBWdld1eGdMRndPZHM5VHJNempZeHlkR2lReEVCem1aTGd4X1hnTDhQRlk4N0ZxYi11MWdpeDFJV3ZtWWhSVm1HTQ?oc=5",
+    "published": "Thu, 09 Apr 2026 06:16:46 GMT",
+    "sector": "Consumer Staples",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Yiwu market owner eyes Hong Kong IPO to support overseas expansion - South China Morning Post",
+    "source": "South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMmZiUVhRbXpYeTdvQy0xaVNrM25mVERHNDdkVS14OHVRVGt4MTJiUlQwZ05pS09vc0NxYzJJNFdUMG5BYXNTWGNJMVBQVVFLXzNEM0xYd2Y5amktNDllNlZXMFZEaTRUMVBqdlpKdDIxLUVBbjVGZk5LWm9qQlBWY3kwaWhGaEpJbHZvY2tpSW5nSkpKMThfa09vRW80NkdjRmVidHduaTZGSmJPcTlQX0Y1elJacGFwSHBUYy1EVWpSdEJGQmthYTVPQTd0TDZSM25HWDQzakPSAdgBQVVfeXFMTTRyMFBzSWN0OWpZRVhWY0JWcmtKbXk3TnVGd0xMSkhUZU0tNm9HYnk1SUxTZmFWck00d1puTWxvNGgzTVlwTV85a0lMdWQxSzZtRVRObko2U3pfbzRURU9QMjgtcjNVVTl3M1dQeHYxOVBucl9maXNUVFdad0c4bmJVd0phbk5oaGh5by14dE1rTjV6RlVES3Bpa3pfak9TSWdfN3BadGNBSXctb05RMzlzNUhNODJsYWxfY1djYmpRY25pbDZKV2F6U1cyWGJxZ0FRUURJU2dy?oc=5",
+    "published": "Thu, 09 Apr 2026 06:03:52 GMT",
+    "sector": "Consumer Staples",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "BNP Paribas has been accelerating its support to the defence sector in 2025, with an additional \u20ac6.5 billion in investments and \u20ac2 billion in financing - group.bnpparibas",
+    "source": "group.bnpparibas",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNM3VZcVViQWk4Y1VqZXZHSHdSMDRCNFhiS2p6VlloY09na3JqMUlQQzJScm5KT1RUSlhxdmVvNUNHRkktc3p6Uk5YUFZ6aG1PLXZXX28zWXBVYlRxa1dQN1BpQW5XZUN5U1B3TTBNX2xxdXkwa0NTMzlQa3FxS2hRQS1sM0pQM2JjeGx6cTdpLTBhNEQxTmRtUmdkVkpvVG81aGZqUHpFUWVFTUxfRjY4Q0M2RlhXRnJ5emRPQnRWTk1fREt3UkV6Qk0tUlRkS2xGX1pYSnVxRjVRU2E2a0VVdHFyeHRENWdJSEdqdGhHVGJLUmdlWE4tN2FRbXo1ZjJwWW9nc08xN0swOVZHSnUtNXJjOEx2QQ?oc=5",
+    "published": "Thu, 09 Apr 2026 05:36:44 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Confirming the Potential to Treat Dementia with FDA-Approved Drugs DGIST Discovers Treatment Mechanism to Calm Brain Immune Cells - Asia Research News |",
+    "source": "Asia Research News |",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdDEwd1d4THRaSU10R1VCcVd4VFFrclhYVThtZVNhNWpSZngtdUJHVWZuQndvQXl2d3pGYnJJaXZJVDg3VVhOTjRqdE42LTZIMWtxeFJ3dVRNdmtTQ2p4SGllUDlWMWNpZEk3SEVMcHNyVDJLbXFWblhiSEQzTE5kelFMdUJEdENKbWJGdW1KSklNaTVybkhZamxMaGJORVZUU2VxVUV3eWlCMmwtQXVUM2FNVnJxekw4LS1oZ0ZUUmh1SmpiTERkNnVHUQ?oc=5",
+    "published": "Thu, 09 Apr 2026 05:33:33 GMT",
+    "sector": "Healthcare",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Cross-border e-commerce potential remains largely untapped in Vietnam - Asia News Network",
+    "source": "Asia News Network",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRE0zNDdPTEI4bHZyNWlIeTRIRmR6a0J6Ym1NTjV2dHZwSHVaT1k2djZXTjZZNW00aGxlcmpFX3dZVnBGanoyOHd3cHlrRllEVERJc0t6UnhxWkZVNExtQ2R6SHgtMG5BUzdRNzJiZFg4YUFXRzZralB5bVFtN3BSbG5oVHFnaDRqQ2FhajJaOGJjZkFkcmdYeTBTVQ?oc=5",
+    "published": "Thu, 09 Apr 2026 05:01:37 GMT",
+    "sector": "Consumer Discretionary",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Tech industry cuts 80,000 jobs in Q1 2026, with half of the layoffs attributed to AI - TweakTown",
+    "source": "TweakTown",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2xBSVk2ZlZoNHoySVNvY1JGa05LZXJ6eU1lRjdaYTdEdGs2RTFLV1BZaU1PRC1IaFJkMnJYZElKTDVFN2NYdFUwOExxdFR3cm9DWi14X3pWM0owYmVuOFVrM1FJZ3JRd1NodGFUZEFaTzRRNzhtbDVwYkxwaUVuNmZ6NGkyRDdVWXVUaC1CcUphbTVrV1d2U1JWT2VuTzk1VTlJbUFfcE9ZcHZSVzJnc2J4a3ZjMG1wMVQ5X0l1YmhXWVp6WGRqU2tJbw?oc=5",
+    "published": "Thu, 09 Apr 2026 04:31:03 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "White-collar industries bet on a secret weapon against AI: trust - Financial Times",
+    "source": "Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdm9zNy1uNjVNTlhxRXhkczhIeTRnWFh1THFOOGdDSVFqOHdBeUd2YnZnaUwxY2RLR1dHT3dpYmE2Yll5ckpjd1FzSmhhMFhMVVBzSzJKVHN4MGhfdTYyaVdQekZFUWx6LUhCOVR5TmZ1aFZOS1ZQdUx2eURjbzRteWxCWXY?oc=5",
+    "published": "Thu, 09 Apr 2026 04:01:15 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Legal industry leaders explore earning and maintaining trust in an AI-driven world - Wolters Kluwer",
+    "source": "Wolters Kluwer",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWEFST3k0MkdTdHhnMlh2UW5pUExKRDZOY2hpQmtuVk0yM2MwNVg2WHZEZVYtZ2hSSm5nUEh6SUYtSGxyR3RldHhsLV9VdUIzS2lyc2pwcUZLeDNGTlc1QzRJTWJHRk5MQWZWYnEyWmVNTHg5b1RZeUJ5amVWVlhEMVlYYWNmTS1RbFI2SWNOSGJIdjAtNGlJQ05aYi11a19ES1V1aTM4VlgtTjNrNjYwdnI1dnYzX2p2UjViZlpWZXJ4SG9MQWI0?oc=5",
+    "published": "Thu, 09 Apr 2026 03:38:53 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Seoul Semiconductor Granted \"High-Tech Enterprise\" Certification in Vietnam - EE Times Asia",
+    "source": "EE Times Asia",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVFHYzA5T01tSkVKT25WODcxWjMxN1gwZFVuYTBPZmR6dTJpZDdQWnEtdkFoWEF5cFYxbHN0eHpEbGUtNGdfNDF6SFo2SkNVQzJyMEQwQm1MYUtQV1dKUG0wZ3VNbmJldHo4WU9GR1J5bkg0UmpCcEZxV0VqWmFFTnEwOTRoNWYtWno0NGlfR1J4RERnRXhsQTNaTjZrWXc?oc=5",
+    "published": "Thu, 09 Apr 2026 03:36:38 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "BofA sees upside in bank stocks, cautious on IT sector outlook - BusinessLine",
+    "source": "BusinessLine",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2NQbkdxSWhSVC1fMEN1R0Vxb3k2Tms4Vl9sY1M2a21IV2FnR3R1d1VWS29LQ19DUTZ6aVN1MklkZ25XaUlpMUpjRXppTmJ4OVZFUGlYUF9XajBsNGdRbGZUdmdYNmYtQUxmalBvb1ZhMTZyVlpmdU9mb0xmOGwxZ3lJS3U1UEh1LUJSRGdRTE5XeHdCbENCSlRtalBmbUxMT20yOEQtTDRtN25EQ01seVdhVVNUNFRCR251VUZTQ0NsVHdy0gHLAUFVX3lxTE1rcTdJTE9FVk5xT0NTTXZaMnJVNG4xdy1zR2dvU01Zdk5hTHBvcDhkLTU2WkZtRDR6NXpURzRsb0VzdFVLYTczZXQtazRlZHJwdGlweVNjOXh4RkZ2N1BJNXRkQzhfUi0yVS1Ec2tSQmVZdkNQRDRsVTlya04zdkdhVnhZQ1VRaTdVck10c3BUTktlRjZCUEZaX0lHZVY5ajVuUmhqVWlrZjZjM2llOVdpX3FaQUtvMnVjSmMwVmxXREpmMDBvYnhzMEJJ?oc=5",
+    "published": "Thu, 09 Apr 2026 03:33:08 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Why global chipmakers want to join TSMC's certified supply chain - digitimes",
+    "source": "digitimes",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZl9hR2JmdGNDN1dLTlM1UElPMjNyVGZtcVlNci1SQ01wY3dXVmV6QlhBLW13d19Ia3pHcWlNRlJaWTFnaXBZd3h0UGRCSU1UMDVaMzFDLXJ6ZHE2M0pJUWppM1drMzV5YnFGbVo4NmlyR2dXTnFnVDBIRkViT1VCTWdFXzFLNzNHbDNpZ2N0dmE?oc=5",
+    "published": "Thu, 09 Apr 2026 03:27:01 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Helium and tungsten shortages threaten South Korea's semiconductor industry - digitimes",
+    "source": "digitimes",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZGZxRTNYT3ZrUDRZVnphSnJRNFBLdTk4THlwWGd6X01PTjlmRktLUlFHbUF3N2RSMWJoNUhvMG1mc0huRFJSVVBIX2twTDFzNy1GbWhOWXRYaFhZSnctRDBFMDF0ZlZwbkVrNXNCeHRtY3hzU094TmI2eU9lbVl2VnR6ZFhjOWI3WmM5d3hMZw?oc=5",
+    "published": "Thu, 09 Apr 2026 02:16:52 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Health care sector: Investing in stocks that help keep you well - Britannica",
+    "source": "Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11M1A4UEFab09BaEk0VWNhWUo5elFBTzdaZFR0eTRjOVNjOHJaNDE0Y2xUaFlRcVpxOXFEcE5nNFlWaTlBQm95Ry1XN2RRMkRrcV9uVXJoVFc0OFFiSkpiYw?oc=5",
+    "published": "Thu, 02 Apr 2026 21:12:00 GMT",
+    "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -1494,44 +1683,8 @@
     "mention_count": 1
   },
   {
-    "title": "Are Consumer Staples Stocks Lagging Mama's Creations, Inc. (MAMA) This Year? - qz.com",
-    "source": "qz.com",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVnJJQWFhOE9VVEktOGlTMEVRNHpMUVFzY0pKdGhqZE0xZm9LVG9TVG9XcGdxcHBqdFB6SVI2OTFQcVI2QnJhUGVNQUM4X25Pcm1xRE1qNFZ4bkdhSWtYUm1qa3BOWlE1OWJOZHk1a3FULXBwTEh0elpZYmRKd05aZmxONzJBR3FMbDFZcGhSbw?oc=5",
-    "published": "Thu, 02 Apr 2026 07:09:36 GMT",
-    "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Interest rates for bank accounts are rising \u2014 here\u2019s how you can take advantage - CNBC",
-    "source": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcG9Qa0VmRGRSblVOcVFVbTU0RjJCM0t0dkZCUmdXNGt1ckxGZmhoQnI0enhoSjZwZFRzaHppdmNQU25yUmVBYkItdEZrUUxWTkM0VWZPVUVHTXlzMlN3aHhFOWdNMC1aT2g5WWxmXy1iY2dZUEdCZE9uMEsxbTk3bDdZdWNtOEI5N0FXc25ZdE9zQ0pFQ1dMUkFwaw?oc=5",
-    "published": "Thu, 02 Apr 2026 07:00:00 GMT",
-    "sector": "Financials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "OPEC agrees on another oil production boost as Strait remains blocked - upi.com",
-    "source": "upi.com",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDdHMG5ZUFo4a29jc092WWNpUFI2ejl0UzNHWEhQdnpmRnBfMGdibXluZklVNzdHR1p5aloyc2doRDV5dDB3MHA4dDFPbUJVTE1ZMUw0allQZDhJbEdYaVh1ZzZNQXlqSTdHNnJnajkwOGlKOU5hNUVGeHROemdOTDlzU2F4ZlVTc1FXemkwTHhYcUFRVEpTck9uOTBQN2VKR2JTVWZsSkxvNVpXUzcwSGhWaUg5Zmk5eHl6Y1ZzU2dkY0Z2ZjFvWFRMQ2IyOFA50gHWAUFVX3lxTE1XemtnYktFa3FmdDNEM2dHd3N0Q1hSR2RZSDI4bHFaVmZxNXdzNmdYQlJJNURuSGUxYWFqVTRGSDhkNnRWTVJMMnBIa3FaUVpfZEV3RFA1T0F1R1ZZeVhfZE5RU1N6a09OU3Y3WUM3VjJnd3VqdklJeWVlLTlPRnl6bTRrcmtrMUZIOFJURHo2N2hPOVFBOFVHbUFhTTllTlNDWGtqUThVSHFXUlJFT1hRcHBLSFZvMk9pUWVDbkNncU8xZHI0aFkwRlYwbVdpSWhJcklmYmc?oc=5",
-    "published": "Sun, 05 Apr 2026 21:04:50 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Consumer goods cos upbeat as GST tailwinds lift volumes in March quarter - The Economic Times",
-    "source": "The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU0NBb0hYdXNLQ3Y3ak0zVmc1V2ZGOVJBTFFtdE14Q3Q5RXJfbGRVNTZwVWdROTIwU3VwTmd3YkFqOUs0UlBnakc1XzJFZzhPUEhVVGE2TDNxaTc2Z0E5THl5WXp2NGM0aVlZRlZxUXdULXZzNlExSlFBZ0lYYjlLWWNRMXFWTW5wNVJETHNiZEl0Nk50WmVFMGUtZThrdTlkbHhkZGtpTFpEb2FteVQ1elNhU050el9ndEs0VVpocTQyX2gwV3JYc3JuTG5pbnpJS0FpSy0zX1VoYktOeVlLSG1OT2pvak56eVHSAe8BQVVfeXFMTl9LQ1dkeDJ1dEdYdDU1Vl9XZXdrU3p2WjJFem53TXJnMUZBZGdZQ3YtZTRPdVZmaFRDYmZYSGF5SDJXTEtPV3lON1JOMkVPSkt0MmN4bDlEeXZZRWF3Ul9kZncyQ05VQW55QzA4aXBmalFXRHZYMUU0WHdzM2FuRlQ0Y1dnc1F2eUV5WkRLWmtEWmtnRlkzUU1YR0J3Y3pFNEVLYjRPTnVNSjVqQURlWjlZMlNOOWJXRHF6QXJzTFo1RHVqYkJOUWdxSGgxUGhiR2tHWUl6TWlZQ3Q1OFV0ZEdVbnBsVWh0c1ZsR2ZLYkE?oc=5",
-    "published": "Sun, 05 Apr 2026 19:33:45 GMT",
-    "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks - aljazeera.com",
-    "source": "aljazeera.com",
+    "title": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks - Al Jazeera",
+    "source": "Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUI0X1VxZm1pM1VIeGQ5UDcyMDR2SkZHemV0T1RrOXhqTU1MUGZCWGdpWlFsTGg1WHVWUkl4NTdXYTlTQlNhbEFrYUIwN2tHN3FmZHdqY0pIVUhINWxuMUN5QVZZQngxSUhUbWRxTXZvOUFTMG15Y2xGVFdhZndzZlM0aWhpOW9Oa2FyYVpzQmJZSHFiTGtySngwWlpFMzZQR2phZFZhYWJQZEHSAbABQVVfeXFMTnk4NmRVZ1JBTGdPMUE3QlZwY1lqUHVKUFlWWjNISFAzY1p4TmdCZEZQNk5XQ3hoXzhRR2hHZkZ5THNxYTNxSm91bnpiZ2QzVnZlWVd4YjFaM2M2WllxOGFXRjctM0lYMXdrbHFfRWNMclFRa1hpVzFXUDFtaWxrQlZpZF9MRmlINl9vSUxaa204N1lMUUhGT3IxXy1oU1RVNUVQNEVNc1BPUGtBV1BzVF8?oc=5",
     "published": "Sun, 05 Apr 2026 17:34:55 GMT",
     "sector": "Energy",
@@ -1548,22 +1701,22 @@
     "mention_count": 1
   },
   {
-    "title": "3 Utility Stocks With Strong Dividends and Room to Run Higher - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2lHclczbi1zTV9rVjFJZTZ5SzhJSHdqQjhpUFdzTGRQTHlWeHBzQ0Rkb3RHZ3B6cXdWcU1meW5ja1F6dHF2cXhYZWU4bW9sNmdIRXFzU21Sd1FTYkx1VDlCalpmQmQ4VVRQcWV0YW1naG5nRF9Cb1JLeUN2QW4tcmlrRzFqbnVmR0JZMVhaM2RLWnpWNll2bHNXVlF1VzA?oc=5",
-    "published": "Sun, 05 Apr 2026 13:24:00 GMT",
-    "sector": "Utilities",
+    "title": "OPEC Plus Warns of Slow Recovery After War in Iran - The New York Times",
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3E4X0ZQTHNLbU9MVE0taUhiUzBwMzlYaXlyT2w0eUt6Y1p0N0IwM0U3TGFzMXpEYXZTY3FyYWVDRm5FZnpvOE1iTTNMRTVjM1FKRlo3RFI1cUo3LVd2MHNTWDhyb0FFUF9JQ3dHZlJlQktSNjcwMG5MRWdtdXBUVHpJcy0?oc=5",
+    "published": "Sun, 05 Apr 2026 16:01:08 GMT",
+    "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems - CNBC",
-    "source": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGtUVUNJTXlpYUYxYU15cGJlLXlWVHdUMHBHVmRON1NORmFPeWgzNFRYeWZmM1dZLVZhazFkSlAyYUNsZkMxYl9BNXgyQ3R0OTJ4SV96amlWaU04RENoNC13bk1BSmtJLVdvODhzTGE4YnNXang3aHZJLWF0eVJaX0VUSEYzNHhsejNhQ9IBkgFBVV95cUxNYjd5VE85RlFWQTFqbnNHS0xuRERxMlVNdmxkd21jMWg5ampRX2I3ZEIwOXJmNlBHa3JmVlQ3NHVhUF9kZ1lkTU1xNzh0ekFqM0ZQRzBYX1JJZzVsNDZMY3ViVlRoTkJMc3NaTXJFN0dwUEo4WTY3V2ZDUlJUSm9nbnFWOEJlNFhEUVFHOUNoS1ptZw?oc=5",
-    "published": "Sun, 05 Apr 2026 12:37:57 GMT",
-    "sector": "Technology",
+    "title": "3 Utility Stocks With Strong Dividends and Room to Run Higher - MarketBeat",
+    "source": "MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3lvRjQ3ak1md3BXOHYxTW4yUHBONDFZMTBKYm9ETVhoSEtScmxSZl9XMXBCbTBkMDlnWnhQQ1hlSlVLd2tLRDlnakczVDlEemVybjkzUFJGTUVsZDRVdXFfeERsYktDdFhCd3BVS3NSaTVhd0VFV1dGX1VvSXlvYjN0bVBpSkt6WWxYT0FYOE5lRjFBNi1USXJDb2hBRVVE?oc=5",
+    "published": "Sun, 05 Apr 2026 13:24:50 GMT",
+    "sector": "Utilities",
     "entity_centrality": "mentioned",
-    "mention_count": 1
+    "mention_count": 2
   },
   {
     "title": "OPEC+ agrees to boost oil output when Strait of Hormuz reopens - Reuters",
@@ -1573,15 +1726,6 @@
     "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 2
-  },
-  {
-    "title": "The Market Is a Mess. Still, These 2 Industrial Stocks Are Worth Buying in April. - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajhUaDRwdlNkT19IT3NYaXp5bk9sWkRLT2JpeDRuV2dTU1lNOG93M3JvY2puMHV4NlhSc0NpS0lDWHFpbkdpNTRtcmtHX0hsa3d5UEEteUN1UE1pSHUxQmE0dTd1NWMxTG4wWU1oaTg1UFlWdGVHYnVXbUFhcDN0TmFFeThTSl9mQk56RTJvTG00a3VnSUFWQUJkRQ?oc=5",
-    "published": "Sun, 05 Apr 2026 08:15:00 GMT",
-    "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
   },
   {
     "title": "Members adopt a pathway to bring E\u2011Commerce Agreement into force via interim arrangements - World Trade Organization",
@@ -1602,13 +1746,22 @@
     "mention_count": 1
   },
   {
-    "title": "The Largest Financial Companies by Market Cap in April 2026 - The Motley Fool",
-    "source": "The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Kc2hVakR0S1VHNU9UT2YzVmZ2TkJ3bkU5Q1l6V0xvcDFuSnVvSFhHajVabE8tYVJDMW95VUNta3NFeTA3V0hDT1VjTHVYeTV1NW1tSnJlUjdmMm5QNVRiNXVKbEVzTVBwMlE?oc=5",
-    "published": "Sat, 04 Apr 2026 19:27:00 GMT",
-    "sector": "Financials",
+    "title": "Industrial Sector Stocks Review: Gains, Headwinds, and a Top Performer - News and Statistics - IndexBox",
+    "source": "IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2t5QUdrUVFCTEltRHJUM0hSc0FOSFAzV2xtclhFVm9oWEtRV2JzdlM3RE5FQjRuSFg4OVBNRXZ5T1VGZi1lMGtaTzNBSzlaWGl6eEhUQjhaQzM5eDdXdXE2WmVaWUQtMGh1Tl96ZjJ5MFh3T2dDRXN2OUp4bWVCZDFJblN1M0NxdURTSWg4ek5VeElvYW9Z?oc=5",
+    "published": "Sat, 04 Apr 2026 20:01:00 GMT",
+    "sector": "Industrials",
     "entity_centrality": "mentioned",
-    "mention_count": 2
+    "mention_count": 1
+  },
+  {
+    "title": "Top Utilities Sector List | Screener - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rRUdqSi02VXJ5aXQ3SkxVSnR3LUxSYWVlY0FDUHFPM3BNel9qWGxSRTc3c09NdnZZR0N6eUZxR3l0ekR0WHFfRGwzeHMxYU5VbnA5bllsVHZFUENzel9mYnRNenc4V0JDeGIzZnBGaU82TWZwZWFYZg?oc=5",
+    "published": "Sat, 04 Apr 2026 11:37:52 GMT",
+    "sector": "Utilities",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
   },
   {
     "title": "FDA chief talks about the need for speed in drug approvals - InsuranceNewsNet",
@@ -1620,55 +1773,10 @@
     "mention_count": 1
   },
   {
-    "title": "Topic: Renewable energy industry worldwide - Statista",
-    "source": "Statista",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oZnAybGVMampuT19fUFplM0JTNmpwTHZiSm91RHN0WE9kRWp3Rzk4bmEyOHBDNW4tT3ZXUXJOWVJoVHlDTTFKcjZaYXVCNU9kWHhycHZ2WXpfajdSQTNFMzc5eUpGS2NhNlN2d1BHY3F2UGRzdGRtSnJR?oc=5",
-    "published": "Mon, 30 Mar 2026 07:00:00 GMT",
-    "sector": "Energy",
-    "entity_centrality": "mentioned",
-    "mention_count": 2
-  },
-  {
-    "title": "Utilities Down on Rotation to Cyclical Sectors -- Utilities Roundup - marketscreener.com",
-    "source": "marketscreener.com",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOTRlMlZmYmktUE1zZURsbTRmLXlGYU9hdHZPbHNMendYMnNzazlid1I3RlVRZy1wamdaS1lzNWgwZHpJclNTR1YxOGVoSTNfUWZnOEF5ak84VXEwbUFHd3VJakRYTFYwY1hyV3ByODNVbUptSnA5RE9KYm9CM3E5eW1BdlNyUUt2Y2pxUjJjdzlld3RBQy1vQmpKVTZ5U09TOU9FRzV0dUJpc21uLWZwWFY4b3dtWWdB?oc=5",
-    "published": "Mon, 06 Apr 2026 21:24:16 GMT",
-    "sector": "Utilities",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Est\u00e9e Lauder is the worst performing large-cap consumer staples stock YTD - MSN",
-    "source": "MSN",
-    "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPRWZ4X0dJM3EwZHhXZHdvVzJnbklIZzVyNlpNTjFhMGhJVTQ4MWV0YkZMYTRfWTJHcG5yekRtUXJieEZjd1p2S05IeFhEUHFMamFNcWhVMnFKSTZURW5sUVNaQzRsZmFuYldsd2NEYUVCcWcyTXkyQWxXYW9rTXhJaDlaUjlEdWVsTEg5MzF6WC1IWngtWnlEaWlFTmFqRmtBNWU5SmVJdmthd1VkV25rTUZSdkJ5U2ZfeW5ySWI2U1pxejYxMU1qYXBWZDBkTGwtNk9reE4wU2Y5ZDU1UXBLZGZIMXpFZVZrUXB3TmxGX2xSVUQ2LTN6RGdFcDFCRFdHcUNTc2piVFh2M0Jya2FoWjd2OWIyY29RNXlkM0dYSGVucEZpX1BWU05XTDk2V1hCSEFoajRQdXZSWGtab0NlR0JzdzBEUENGdGc3MUpBT3ZueGxKcDNzdWU0amlHMU9VZktpN3puZU1JMHN4ZHNRTEtSWQ?oc=5",
-    "published": "Mon, 06 Apr 2026 21:02:50 GMT",
-    "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Small-cap industrial stocks with A-grade EPS revisions (XLI:NYSEARCA) - Seeking Alpha",
-    "source": "Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWJXM21EcFQyLXRTaGV6eEJsVjFYQ0pZQ0FVcHJMT0lWREk5bGN4RGo4VTlUYVc3Mk54cnVPTzZPRk1HRXptdEYyclJJeXA3NUVUZVhidlFIZVR6VjN5dVYyWS1VazgtVFpzUWl4ckpNMENyTUpCZWttYldIQW5ybmhCUjB6R2Fnb1dtVEY0Q0UtaXhvcVJV?oc=5",
-    "published": "Mon, 06 Apr 2026 20:17:26 GMT",
-    "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Why TSMC grew four times faster than its foundry rivals in 2025 \u2014 price hikes, vertical integration, and commanding technology lead pay dividends - Tom's Hardware",
+    "title": "Amazon, Microsoft, and Google under investor pressure to disclose site-specific data center water and power consumption \u2014 more than a dozen shareholders ask for transparency ahead of annual investor meetings - Tom's Hardware",
     "source": "Tom's Hardware",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzhMcjFWQzY0NXJzTHlVeE1yZFI5c2JRc1NZbnpJNmRxWmJWMFlkamRhSzd4NVBmbXRiU1VJekRET0o2TGY2ZjFMazkzRk9aaWdaZlAtdGN4amt0QjFUY3g2Zk1VYlR1bGJoTjRfM3N4QjkzR1h1bHYtdjh4aTZHUUl2ZU1UNzdZa2Z1MXhtMDFkM0sxOFhmVzRfdU1aVXNGQlZvWGRwWmZxQQ?oc=5",
-    "published": "Mon, 06 Apr 2026 19:07:23 GMT",
-    "sector": "Technology",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Bernie Sanders has a plan to stop the AI industry - understandingai.org",
-    "source": "understandingai.org",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xUTBuMUtveVJRTmNyajNvTTlXbGJ3X2tHazk1OXRTQlI1dHNQVFdDcHRRa1JGWUp2T18wMFhwbUVyVnR2MjlrR0VTYVBpUjhBUmZFcnhISmZWb3lQT3RxdGdqR3paZFpIWHg2OFR0RGVEeDY4ZlE?oc=5",
-    "published": "Mon, 06 Apr 2026 19:02:49 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOXhLVEE1YzZ1eFZLZkNDdml0eDRrUExaalNpWG5RUGFGT0hiSW9HYkZuODdmNGg2STg5eGNob0QwZzJ4eHA4NFZJT2twMzlwdlAydDRBcnpHMkpTNExLZVdXUmozMTMwOTk2clp4QWNJb0dfZ3lRQjhxdnNUMWFLbTVDVDRYbHFpdTk4UTI2M1dPQ1MyeG5QNjZPV21fTldqQjhvV25rZzF4RWY4U0JqTUZieWFmRHJuSFVMYnBLNjVFQTNBckFSRUJtTnptY3lsa1M0?oc=5",
+    "published": "Mon, 06 Apr 2026 21:40:30 GMT",
     "sector": "Technology",
     "entity_centrality": "mentioned",
     "mention_count": 1
@@ -1683,20 +1791,11 @@
     "mention_count": 1
   },
   {
-    "title": "Drop in fixed investment in Mexico strains outlook despite infrastructure plan - BNamericas",
-    "source": "BNamericas",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUpzQ2k3YWtSTFpIc1RIWWlBRWFFM3FaRGJ0MTJhWHVnZHFteEFPOGNtMDhIQ08teTFRZXI5YmlkRkFvTXlNODhuR1dNeUt5OEFzdEZaXzEtdFVwYk1RYmNqM2NLVl9nTTNKSWZOdXYxV1EybmllTUpfUGdmaHQ3VE9aSExtV2NTYWdXQkNCLVYwVzl1LWM4YzNwR3B3SEN5cHJWVi1vbzlPWFo0V0xrSTBWcENMcXY1?oc=5",
-    "published": "Mon, 06 Apr 2026 18:28:16 GMT",
-    "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Healthcare Stocks To Keep An Eye On - April 6th - MarketBeat",
-    "source": "MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc05za3V4amcyalJkRVdDMzYyaGNLSkRMRmpoSm12RDY3TWx6R2F6NnZwMDJudWNjUEZRZWlVdWNFWjlpWmFZeUlqMUp3VW1lZTJlQ1pwZFprWS1Hc2ViTzYzbFY4SUlJNlZPb053cGpIYXdDZmR1M1pkcGM2Qy12TEFjUnN1cGRNN2ppazdfRVRkWi14VkN6Zy1JU1VJR2Fj?oc=5",
-    "published": "Mon, 06 Apr 2026 18:10:51 GMT",
-    "sector": "Healthcare",
+    "title": "\ud83d\udcc8 2026 Oil Shock: Prices Spike After Hormuz Disruption - Voronoi by Visual Capitalist",
+    "source": "Voronoi by Visual Capitalist",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODg4cElHWkk3cXdlUXZGU1BwSFYtak54cWhfSkhPYUZ4OEN2d2JDV1E4azJkblZyWU1iUkd1c2hIWkE4X0VOeERyMjZDaDJxSHJvMXl3X1pGMkpwYlJZVGJ1OVVuSlcwMW9WQVVZb3ZkVURsSFBhdkdfMG5kSHVxTDNvWmtkbmFaTEx6SVl5RGFXSnNnU3c?oc=5",
+    "published": "Mon, 06 Apr 2026 18:32:08 GMT",
+    "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -1710,20 +1809,29 @@
     "mention_count": 1
   },
   {
-    "title": "Renewable Energy Update 4.3.26 - JD Supra",
-    "source": "JD Supra",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wV0Q2QktVMTJKY0RhbDE5V2p4bnhfN0lTQjY1V1I4WXRIY25LMnlOMFFiRG5OZUxlRDF3TTI5aEo4NWVBeEtURk91RDVMMklIQjhWNnhKeTJKellvby1uY0RnbzJBaHUzRDdzMnAtcUY0dUVOMEtJNlU1eFBCZw?oc=5",
-    "published": "Mon, 06 Apr 2026 17:34:47 GMT",
-    "sector": "Utilities",
+    "title": "2026 Renewable Energy Industry Outlook - Deloitte",
+    "source": "Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNU0tOUY0dXRzMFhJcFBsTEd2VmZfVUdYNEF1eVpxaUJicWJ2WnUzMVJnaERwbklkdFFCV0VwLXFOcVVIaFFiQXVPeUtQMnVOVlVjRUFWS244WlVMS3l0NGgxaU50SVdUUjBBa2ZRcGJfdUlic21qY0p1YXZTbjFvdHJfV2lZdUFXYmpXX3lreXpOcmVEcGZ1SW9uSXY2YTNDeS1TODg2UlU?oc=5",
+    "published": "Mon, 06 Apr 2026 16:22:43 GMT",
+    "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Manufacturers test AI-translation tech to improve worker communications - Manufacturing Dive",
-    "source": "Manufacturing Dive",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0dzNTBUbjZqa2NZYzJHMmxybEREVFQwajVnYmxTNVRNT3BvT19WS2VyYzM5VmZtN0dzZFpFYW5FSklLS25vSjJUbHdHZlprQjVmQ3NKV055aXhTYlplQ2FSUU5oRDNhVEhhV2E2UU1uU25nVWhOcjhub0NEZEhDRGFpWG5xN0RRcTZfMTFDeC0tQUlOVFRPdU5TLWVqMUp6R080SlltVFVQSmpkN3ZOMS1VWGNLdFoxOTdyVEY1TmYwWGFLY2c?oc=5",
-    "published": "Mon, 06 Apr 2026 15:54:15 GMT",
+    "title": "US tech sector lost jobs in March, stalling growth - Computerworld",
+    "source": "Computerworld",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHJZOE5rZEQzek01UFM5VGZpUi1PSVZ1Uk1PTzhhM0VjaWNINmNQOWloR1dCTjFCM2pvQ2c5enVQeXdMZFh5R2cweTVzM1UtNGRhUmd0c1p4MUNHUEdqTFVUVUs2dFVobmZqMUNhT0hsNGVQT19DcnhnN2JPclV3SmEtZURIZk1SZVpzMVRuR2hTRF81TjRFUDhVbVR3QXRnUWc?oc=5",
+    "published": "Mon, 06 Apr 2026 16:00:47 GMT",
     "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Ann Arbor pharmaceutical company acquires nasal spray treatment manufacturer - MLive.com",
+    "source": "MLive.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOURUZWdBZWZUY2tGZVhVMEd1QjFlSUZfVnp4Ny1NXzNfZ2d4RUlRLV95UUNNVDFxRDBsRDZyVE4wcUw3Vk9jeHpVamtXeG51WUxOR1pva0wyYnNaamU3TGcxVlAzR2wyR3lobE9XcU1fWHdvR0J5emp0eWwxVDdGaGItcm52U1k4Z3hkV1VSX1lGdGRjVWc0NnBUeXBZM2U0R2ZHczdwWE15U1A0VUl0R3Y0azdBcWw2SnkwOW1UMldHZDhs0gHYAUFVX3lxTE9iQnpzQ01wNVQxV2xmcWNsdVhETmM2SEgyOEExTk9sOFg5cE5pUTAyd2s0UmMyRjVQNUN0bHZPcVdQcjctVDc5R0VOQTkzd25nY3ZTcjJEQWM5dGs2bGpYdzNubVpPVUNCTVlzUEhCVE5CYjRnMEVjeTJnZ0U4R1pUWUNyTHpOekpRRUhxUXpiNjVQd2EzeGc2a0tHOHpzTUpHLXc5SDY5M0kxQllWN1FNZ1AzdDNGRFJYdFlIMEpOMXh4QjU1TmZDNGhPOGozLVBld1RWcE93dg?oc=5",
+    "published": "Mon, 06 Apr 2026 15:30:00 GMT",
+    "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -1737,29 +1845,20 @@
     "mention_count": 1
   },
   {
-    "title": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYmNNWEw0ZWVmUUlxNmROOUdfeVF3NngyaEowcjdEOFBLcm1xaE4yNFJ4Xy1TXy1NZm9hd3IyczV4TjBGY09oa0pQTHZXWHRTMkpUbjMyLUtmUUpyVi1tNTZHSzNSQzhtTVlrTXhRQWhSNTdvVm9VVmVxYlk1QVRaOVRldmJWRzVOS3ZnQWZTY0hDWmNILXRTSS1WbnFFaVBXVFp4OU1vZzl2MzVJczBLWHkyV0xvNm9KX2pDdGg3WDl0bkVvYWd1TVllY2IycXJLV25xRlQySDhTbnkyS2dXTDFaWlJpYU0?oc=5",
-    "published": "Mon, 06 Apr 2026 14:38:08 GMT",
-    "sector": "Technology",
+    "title": "Mint Explainer | Why Opec+'s output increase in May won't cool global oil prices - Mint",
+    "source": "Mint",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTi1ZRHpURlBBT0hvX3NkWUhTelg0R3JCWXpnclB4YkVrdGZ3aDdST0JkNFE1d0FTZEg1aXh0SDlaZ1ZLc0x5R2FGNF9oSnNLM1dQcjduSERLR2swaG5zX0sydWtIdGFkd1pWbjdJV3UySXdNcktjemNVUmtEbEtRUUN5YnYyZTVPU0U5Qld0NHlfLVRJWGFfNlVsZlR3NXkzVlBUVnFGbDRFUWFQVzZpMTV5V0dnLXpw0gG-AUFVX3lxTE9xeHZIaVVfY2htWTJ6dkJkdmtTVWtpYTVvUUY0dW5GRkUyY0NIcjZJakZrRDJvNmRnY0gzY0pvVmVkeldMTHVhMC1ZWnRUTTF2RUdGUEV5MmJDQnZUTjVkMGZ1elI0NWhEVEtUendsd1JZc1BFbHdiUXc0SThGZk1BZ2FVQ191eVhjUUhqZE5qa2lBZEdwMTZtaU1SSURkajRtOWRIWFBMMDNKNHhmZWZhbmNnN1FfeWFnci1YSHc?oc=5",
+    "published": "Mon, 06 Apr 2026 14:11:54 GMT",
+    "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Jefferies recommends buying staples stocks as gas prices exceed $3.50 per gallon - Investing.com",
-    "source": "Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOC1NX1RfczNsTlZteXZZeFhwazk0VUFUUG16NHdFSHdQYnJOMFlkY3hHQkh1QWpORFlOT1Zob3J3c19kcGQ1Wi1FaDh1Vmp4ZTFNS2FPM1MtaU00bzdiQWJuc3pZQ3FUZVVVcTB3bHhmNjgxYXY0VGRPLTI1eFM3MjRxN2Z0OWZUZHdDT1RSRGFYZ3JxS1dMNERYU1N6V0pnZTVsd21KeW9pX0J4clA4eHVKbnVDeS1QMElBaERKdVJfQnozd2pjdkQ0dzItdHhyRkZsMDRYMA?oc=5",
-    "published": "Mon, 06 Apr 2026 14:13:35 GMT",
-    "sector": "Consumer Staples",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Is Astec Industries (ASTE) Stock Outpacing Its Industrial Products Peers This Year? - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZTBsTEtXdi0yanZva05iUmRSbmZTbFZTal9JbjJkczktRW81SlJ2YjhyRFVZQVRkaXJJVjg1S3ZhZ3hPaTBSblVPbUxac0kzeFF5cVpTMUlnQloxTFhjdjJsM2t0TnJ2bEZrSG1uNEZ2TnNKMEVPM2dJSHdGYjRtaUs1dEtwTG53M1hnazFxSno0UTNaZUdjaDNxSWJzeWZFaVlzVA?oc=5",
-    "published": "Mon, 06 Apr 2026 13:40:03 GMT",
-    "sector": "Industrials",
+    "title": "Dear Doctor: What stops doctors from getting money, kickbacks from pharmaceutical companies? - OregonLive.com",
+    "source": "OregonLive.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONS1wN2dOdzVZYkM2UnIyNHB4cmR4akJuMlJNRTNEbnNDdlRZbHFIRGJZeFlBYjJJU3lDa2VBc0RVMXVXMkR1dEk2cDg3TVEtdldzVi1JU2JURUlTS2JBaEd0LVpBd3E2Sm5wUlRZOWtlWnQyQUlKbmRnR3NjUjl0MWNYYzYtOFVwZEdpMVNYcEhWTU5zRU5Ndy1iR0RxdGs5SlNhYUZiQnVYbThKNXdaSEdTcjYzTDF6NlQ2bmJGWW9jNVhCc01iYVZHYnZ1MWQ5RFHSAeYBQVVfeXFMTzhXZi1oUVNxUklfYTN6c25WTjRBcDJWN01PbWNtdUFWbndUMU1yNWxSWU10OEV5Yk5LY2I1N3BKX2dRWU95VEJuUXpTMWN0Rm5fZXhHcVBMa2RqcXFYUmhkSkZLVGdsV1Z1WUYxXzAtMW9PQzhOTzhWb09abnh3ZFJ0bUxIT0xxTVhPeHgzbXZBeUoteWJnU2RyZWdRd0VXN0JJeDM4cEVYbTF3dDQ0UmlSZFp5dkVNX0UtWVZ0Ym9fSW9tbk1INld1RnBILXB4M2ZodFlmbGhCWnZpMUhvNE1QRzNhbnc?oc=5",
+    "published": "Mon, 06 Apr 2026 13:00:00 GMT",
+    "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
@@ -1782,53 +1881,111 @@
     "mention_count": 1
   },
   {
-    "title": "Tech cash flows to Texas lawmakers debating data centers - E&E News by POLITICO",
-    "source": "E&E News by POLITICO",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1htY0VTQ3FsV09EcWtJYXJnbUROa2NGYU42X0dUOXJHX2tHR2NkaHNzZVB4endDYTNubFJwUUFPYjV3MVU3aExDN1FMMGJ2X3lnQWdVLUw5djJGdlhNTzNyQWVERGhCYXZxUUlsQnFOQ0c2MW9mZnVxanZEOVo1N2EzTXd3cHBUenR5ODZHUklfX2c?oc=5",
-    "published": "Mon, 06 Apr 2026 10:51:00 GMT",
-    "sector": "Technology",
+    "title": "All Major Pharma Companies Implicated in Bribery Schemes, New Report Says - Mad In America",
+    "source": "Mad In America",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVZfbHk2dGFKaFJzN1MwZEhUaWZPbHBfQVRFOHpNSU5jWnBUMHJBeEVBMkN4T3JmbkZjdDZjVXZSanZOX2NVSUpJOW5abUU0bVk0NDdQa3lqQl9qRWNoZEhpc091R3RhNldxRU0wTXotUVB0T2NFSGpFVDQxUjdVMGphSnY5OEhxWVRnVDR1clh5bENqQ3JmUE96U3hjbTJVTTJSX1Q5Zm9hVERSQ2RJ?oc=5",
+    "published": "Mon, 06 Apr 2026 10:00:07 GMT",
+    "sector": "Healthcare",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "1 Consumer Stock to Keep an Eye On and 2 We Question - StockStory",
-    "source": "StockStory",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS29hMlpvWTN0cThsNUZDNDNQdWxraGRmdmg1TnA5U2pPZ1habENRX0lsT01QS3RxOTlmZ1o0TzJJeUN0LW5wTV9UWFluSkpMVzROd3VUMEV2cUFuVDJIUGFsSTlBMFZJcmtBTGVaRTAwaWRVVDRQNHRENTdfX0JscHg1YVNaRDU5emxnMURubGg0WmV2MWNtaFJzR09qczJzRUxZd1d1a2l0ekdTT2dfNkJn?oc=5",
-    "published": "Mon, 06 Apr 2026 10:43:39 GMT",
-    "sector": "Consumer Discretionary",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "The Month in Infrastructure: Getting real about data centers - SmartBrief",
-    "source": "SmartBrief",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmpsSnNGRlV5LXIwSEpldnNTVzNyU0NTY2F4MkxqTjZwS0w4RnplYktwU3NtU00wUkplaWZDWHhUX1h3NjdNcG8xMmNNdE9fT2V6WVlKRmZXWno4OHJiSUtMaDViMkJETUpIMnhJWTFxdzRFdGk1dmljMVBEb0lXenEwenczRXJick9JS3FWQkNIXzVHXzUw?oc=5",
-    "published": "Mon, 06 Apr 2026 10:02:10 GMT",
-    "sector": "Industrials",
-    "entity_centrality": "mentioned",
-    "mention_count": 1
-  },
-  {
-    "title": "Has Ahold (ADRNY) Outpaced Other Consumer Staples Stocks This Year? - qz.com",
+    "title": "Is Nabors Industries (NBR) Outperforming Other Oils-Energy Stocks This Year? - qz.com",
     "source": "qz.com",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFR3QzU4SEZNVXdKc1JMNHhfbVM0ZTNNeDVDYjB6aHpKdm9LREpWaGJkMWZTYnpMdXM5SkdJNUUzUkkyRFotaVIya3ZUNTFUYmt3bW1QaGVzckxyVHJTVzQ3NHVsTmc4S1dwcGUxOTdGT0tJNzJJb1c5VEk2SVp6b1FfZktVUQ?oc=5",
-    "published": "Mon, 06 Apr 2026 08:40:02 GMT",
-    "sector": "Consumer Staples",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODV4bWM4Ym1UZ1ZldkFnamhHa1R0NjdrU2ZjSGRRVWNDeWRtMm11TVZNY0VSN0NtM2ZQZ1E3X0lQbGR1ZkJYaldOY2hUdGNjSjZ0M0NSYjRKZC0tNFBjMmpocTJVXzRvcy1ibm45aUtreW9kdUVPeGJEYktGcjlFYzNwaEx1ZW5wRG5CWmFVUXF6UQ?oc=5",
+    "published": "Mon, 06 Apr 2026 08:40:03 GMT",
+    "sector": "Energy",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
-    "title": "Distress in European retail, consumer goods sector highest since 2008 - Fibre2Fashion",
-    "source": "Fibre2Fashion",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdzBxZzdRY3o4Njd5R3k4MTd4THAzT3JzX2RkQzhJWC12b1dCdjlLUkQ3ek1DRU5PVDQ2eHVoS0IxN19MZmcyOW5adGU0X29pTktNcGRhUVdCcFRUQWVxYlM0Y1FQT2RvY0Z1NUo5VjQ2N0Zlb3ZFZnVJZkowdTI1TFM5MTFWZkUyQVhnSEhSLS11MUtTd3QtcXRncVU2U3ZzejJLaHJfQTdWM0otQy1MQVRoalFwcXlkT0F6ckkwcVdqRjg2UURWXzVNWHFGWVZkbGZfZExWXzJvUQ?oc=5",
-    "published": "Mon, 06 Apr 2026 07:34:28 GMT",
-    "sector": "Consumer Staples",
+    "title": "What\u2019s happening this week in economics? - Deloitte",
+    "source": "Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
+    "published": "Mon, 06 Apr 2026 07:00:00 GMT",
+    "sector": "Financials",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Job Market\u2019s Effect on the Economy - U.S. Bank",
+    "source": "U.S. Bank",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGNEeGZ1Y3pqbjJEdDBQYk8wZVJDb0twSUFQc055SmN3TXIxMGFSTk5hZXRKT1dZUGxGMzdPajFIcmcwc3FSZkROdEdjQ19KQl9pMjR3WHhDR3ppMHB0ZS1kMC0tUmY1ZUk5bHJ1YkRmYlc4ZFNSWkg0bG9FWGo3cTNnazJGbUtmZFZNdnpCcjY3cnB6MTdnMmVFYzhaS2NFN3R5N0F0ek5aX1hF?oc=5",
+    "published": "Mon, 06 Apr 2026 07:00:00 GMT",
+    "sector": "Financials",
     "entity_centrality": "mentioned",
     "mention_count": 1
   },
   {
     "title": "China advances new power grid strategy to support clean energy transition - Digital Watch Observatory",
     "source": "Digital Watch Observatory",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWt4MHBqN1ZuT1M0czZSVGlCQUxUOVdXeVN5cG1qc19fYXZMZHFJUDEwN3lLRjdiSC1ZLWw4a2s0ay1VWlZFZ3l1VTNzR0Vndk5FaUNEcy14azE0SEU1TFMwNWNnNktlTVk3MlVnRFBtMS1OTURTM0cwcm5BZ"
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWt4MHBqN1ZuT1M0czZSVGlCQUxUOVdXeVN5cG1qc19fYXZMZHFJUDEwN3lLRjdiSC1ZLWw4a2s0ay1VWlZFZ3l1VTNzR0Vndk5FaUNEcy14azE0SEU1TFMwNWNnNktlTVk3MlVnRFBtMS1OTURTM0cwcm5BZERqczFEZ2RXSVI2U1BhOUltMjRiT21kMTBTcC1zT2ZKTlAx?oc=5",
+    "published": "Mon, 06 Apr 2026 06:55:00 GMT",
+    "sector": "Utilities",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "1 Consumer Stock to Keep an Eye On and 2 We Question - The Globe and Mail",
+    "source": "The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMGR3WTRrX3lnVGM5dTE4QmxSVnVveWl6U1B0UlJCRndkc1FiSXZ4VHRyRl9tb29Na05FNkNOd0ZFV2FlVGg5X0EzZ0oyY21BZ2JTdzR3b1hBQnFBNl85c1VEYXY5SFF2NkhtWHNKNThEMzFVeVE3RS0wQ3U5N0tiMldnOFJXdi1jbEhBeXYxQlpyV01qTVNnQ0VDQVdtMzhXSFpEYVZMUmRHOVFSbWU4eVdhYS11T3FpbjNmZFJvaW1RNXhLczV3azlEbXB0aHhnS2hv?oc=5",
+    "published": "Mon, 06 Apr 2026 04:33:00 GMT",
+    "sector": "Consumer Discretionary",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Trump\u2019s Explosive Threat Sends Oil Prices Soaring as Iran Refuses to Back Down - Open Magazine",
+    "source": "Open Magazine",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNS1CQ1QyR0NveXR5MHlaMnNlY0NFbXcya3h0WTlqSHF2SFlybm1kQnJocUs2ZWluLWRrTXU2OFl3YnlEcTNqQ0IyMTktSjRwMklzcWV3aEw2THhrV3d0Zlc3RHVRNWUyUUVBS3ZHN2tBb3VUb1JQQWl4U0hQdmJMZEN2YzJrdGJqYVdNdkl6RkZvNXZndTFvMEd3bWtNOWtUblE5ZFljdDdya3VrdFJmYkhQVmk?oc=5",
+    "published": "Mon, 06 Apr 2026 03:40:50 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "The Energy Sector Is Paying Out. Here Are 2 Stocks That Could Fund Your Retirement. - The Motley Fool",
+    "source": "The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdjlyb1JpTG9PVHJpNVREUm13RjRiMk1zb1JlN0k2dGREN1FkUUc3dVEwdmlZWHdsTTFkcHRBV25acHlmdDJJUURuMlctVnZ0c0x3bTRMcUhDTWlXbkp1QmRHZzRBU3RwamswSEVMVEpMRlNUQW1xRGNyQjctdVNXcTZzQlZoaHhlc3V5Wkl6a0twX1NwTkJn?oc=5",
+    "published": "Fri, 03 Apr 2026 21:05:00 GMT",
+    "sector": "Energy",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Global Semiconductor Sales Increase Substantially in February - Semiconductor Industry Association | SIA",
+    "source": "Semiconductor Industry Association | SIA",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1id1NUaTl0dnZ1RnBoTHE3alpKbGVpdFdQa09lMW5PR1pqcnhSSEhId1hYZV8zNkYyLWZzVXdmQ1lXOWptQk8yVy1oUjhYOEVh?oc=5",
+    "published": "Fri, 03 Apr 2026 21:03:39 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "Tech stocks today: SpaceX reportedly targets $2 trillion valuation, Microsoft invests $10 billion in Japan - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMms0NUhqTGtpM01JQzNKSU85enlZY1RuQWJvMk5uUlc4ckRTLWg1QjgxdlJ3ZTUtTnRKaFhSZGtsd2o2ZHhtU2dyd0VHSFdPMkttS1J0SDIwaGQzMlpYT2p5UWo5QWxXWkVhZ2RIdXVLa3cyTlY3WmtCMTg4aVlSM2dMbHZ3dkhHcmFHOUVKNTFmVnRGSVFPYWpXZ0UtOVE3NGFQNS1EaEVkVDJhVHdGNVYya1ZXS0E0aUloNjJnYng4ZlZ6?oc=5",
+    "published": "Fri, 03 Apr 2026 12:27:01 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
+  },
+  {
+    "title": "7 Best-Performing Tech Stocks for April 2026 - NerdWallet",
+    "source": "NerdWallet",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTDNDN29pUVZLME9OYkxUdm84dTJRdF95M1hBZXk4SG4wT0NyeHV0QjRBT0txMTA4MFB1WHZNQkN4REJhcGJDNjl1ejJrQjFmRlkwb1FrcTdhWDhpV3V0alJ3VjBqc19vd1dZQ2JhSHRSamlMOG92YzhIS2ZMXzZpekZ3?oc=5",
+    "published": "Fri, 03 Apr 2026 07:00:00 GMT",
+    "sector": "Technology",
+    "entity_centrality": "mentioned",
+    "mention_count": 3
+  },
+  {
+    "title": "Top 7 Consumer Staples Stocks: April 2026 - NerdWallet",
+    "source": "NerdWallet",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mcjJKMHdDT0RWUmtVTDM4VmhrYi1GcUV5WlAyQUEyb0dCT0xZOTQ1bV9CQkg5cWZzU0NVbjBiOFh6TWhOTmkxaVR5eHdoWnNSRkN1bldHWFJCUFhMcnRkQ2ctS0h5NFpBdVlvTm5hdHpORnFy?oc=5",
+    "published": "Fri, 03 Apr 2026 07:00:00 GMT",
+    "sector": "Consumer Staples",
+    "entity_centrality": "mentioned",
+    "mention_count": 1
   }
 ]

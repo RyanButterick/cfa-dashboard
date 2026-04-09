@@ -1,53 +1,78 @@
 [
   {
-    "title": "Why UnitedHealth Group Rallied Today - The Motley Fool",
-    "description": "Why UnitedHealth Group Rallied Today - The Motley Fool",
+    "title": "JPMorgan Joins Project Glasswing To Tackle AI Cyber Risks And Resilience - Yahoo Finance",
+    "description": "JPMorgan Joins Project Glasswing To Tackle AI Cyber Risks And Resilience - Yahoo Finance",
     "event_type": "news",
-    "date": "Tue, 07 Apr 2026 19:39:00 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHJJclVET1dvbkJTdXRPQkxXZ05qZXBHOWJXSU51WUdMQURXTHlSbms3QVB5ZGY0SXdTdWpjM0VvYjRqLWQyT3VqMFpwVUM0WjB1S0NEbjRjWDdfY1R2djZZZ19mRjFKQnMxSldLSmZOSTNsanZoNmpLRlJhLUYyNjJoMXdpZw?oc=5",
-    "source": "The Motley Fool",
-    "mention_count": 11,
+    "date": "Thu, 09 Apr 2026 15:12:41 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHZ1RmVETzdHWW1vbW9UZHN4bUFLWjRHejJoa2hzVElGZG5DcjhKOEh1c3pxQ0dsNTEzUW5ZR0xYalY5SDRCckJ5bkI4b3kwdmR3M0RyT1BlUGlaT0FZdG9RQWdkc09oQl9VMENfalJKbXlFNXFsSHkxSl9zbjlvaUNqeVcwcnphVTFWVUdjYlpfbDFTc1NDd0FVcE42WU9yR29XRndzQVhtaVAw?oc=5",
+    "source": "Yahoo Finance",
+    "mention_count": 5,
     "entity_centrality": "primary",
     "relevance_tier": "Direct",
     "affected_tickers": [
-      "UNH"
+      "JPM"
     ],
     "relevance_badge": "\ud83d\udfe2 Direct",
-    "ai_score": 10,
+    "ai_score": 7,
     "ai_tickers": [
-      "UNH"
+      "JPM"
     ],
-    "ai_reason": "High coverage directly names UNH with material positive price movement explanation.",
+    "ai_reason": "JPM joins AI cybersecurity initiative with 5x coverage; demonstrates leadership in critical risk management.",
     "ai_sentiment": "positive",
-    "is_mover_related": true,
-    "relevance_score": 78.0,
-    "summary": "UnitedHealth Group (UNH) rallied today, likely driven by positive developments in the healthcare insurance or policy landscape affecting the company's core business segments. UNH's stock movement was tied to its exposure across health insurance operations, Medicare/Medicaid contracts, and pharmacy benefits management\u2014where favorable regulatory developments or improved claims outlook would directly expand net margins and boost earnings visibility for these high-margin segments.",
+    "relevance_score": 72.98,
+    "summary": "JPMorgan Chase announced its participation in Project Glasswing, a collaborative initiative focused on addressing artificial intelligence cybersecurity vulnerabilities and building AI system resilience. JPM's involvement in this project could strengthen its technological infrastructure and reduce operational risk exposure, particularly relevant given the bank's heavy reliance on complex trading systems and capital markets operations that are increasingly AI-dependent. This commitment may also enhance JPM's regulatory standing with banking authorities evaluating financial institutions' cybersecurity preparedness as AI adoption accelerates across the financial sector.",
     "proactive_or_reactive": "reactive",
-    "timestamp": "Tue, 07 Apr 2026 19:39:00 GMT"
+    "timestamp": "Thu, 09 Apr 2026 15:12:41 GMT"
   },
   {
-    "title": "Why UnitedHealth Stock Is Soaring Today - TradingView",
-    "description": "Why UnitedHealth Stock Is Soaring Today - TradingView",
+    "title": "Exxon Mobil Stock Is Falling. Why Energy Is Going From Record Gains to a Major Slump. - Barron's",
+    "description": "Exxon Mobil Stock Is Falling. Why Energy Is Going From Record Gains to a Major Slump. - Barron's",
     "event_type": "news",
-    "date": "Tue, 07 Apr 2026 12:01:09 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjVZTmhSbGdzd0xSaE5ReFg4YnRfVlNJa0plUmdWbWVYUU1aN1o3Nzdkc0UwMDZQemdFcGtieV9mYWxucXYwR1VuQ0dMSTJBaXM1b3FrYlBxeEhDaE5nR1RDWXhFZ1h5T19qd25pV29hNzRqc284dTY4dVhWc1JUZF9vSldLdmZtUDZ0bC1CaW1QM0JvbUtJQ3ZJTHJ6UzN5?oc=5",
-    "source": "TradingView",
-    "mention_count": 9,
+    "date": "Wed, 08 Apr 2026 20:58:00 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12MWRxRDNUcVVkVkxkNENSVzNNTm44c0ZUOW5fOXBtRjlaalBydFhqNHlJVWVMTDdLbmV5QklEZ1RyUmYtOW5ES2xLNWFDbmpITVRYLXhBQTUydWV0TVYzQ3JyQXdNRFVLWWE1cGxrWWY0ek44NVNJbWFB?oc=5",
+    "source": "Barron's",
+    "mention_count": 3,
     "entity_centrality": "primary",
     "relevance_tier": "Direct",
     "affected_tickers": [
-      "UNH"
+      "NEE",
+      "XOM"
     ],
     "relevance_badge": "\ud83d\udfe2 Direct",
-    "ai_score": 9,
+    "ai_score": 7,
     "ai_tickers": [],
-    "ai_reason": "High coverage indicates material positive event driving stock movement.",
+    "ai_reason": "Energy sector declining from record gains; high coverage suggests sector-wide downturn.",
+    "ai_sentiment": "negative",
+    "relevance_score": 71.54,
+    "summary": "Energy stocks are experiencing a significant pullback after a period of record gains, with Exxon Mobil leading declines as oil prices retreat and market sentiment shifts away from the sector. XOM is falling due to lower crude oil prices compressing upstream production margins and reducing cash flow from its core oil and gas operations, while NEE benefits from the relative outperformance of renewables as investors rotate toward cleaner energy alternatives with more predictable earnings. This dynamic reflects a broader reallocation where traditional fossil fuel producers face headwinds from both commodity price weakness and accelerating clean energy policy tailwinds favoring utilities with wind and solar portfolios like NextEra.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Wed, 08 Apr 2026 20:58:00 GMT"
+  },
+  {
+    "title": "CEO Andy Jassy\u2019s 2025 Letter to Shareholders - About Amazon",
+    "description": "CEO Andy Jassy\u2019s 2025 Letter to Shareholders - About Amazon",
+    "event_type": "news",
+    "date": "Thu, 09 Apr 2026 10:07:13 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObWFDWFp0cEY5ZUFqd01nYmlLVWg0cjBreFFXaFMxZGFOV085T3RNVDdsRTlwcFpPb3E3MnkwbjNjVlRaWjVDNjAtSkUzZGtKSHpiVWJZc1BjVXNsdlR6TEdhd1hKTlM0aVJWUHNKUEppSlh2OHhwYjVFTVhyVC1oZ2RSNnJzVHV1UkRna09wcVBwdlFoSWkwdTBVQQ?oc=5",
+    "source": "About Amazon",
+    "mention_count": 4,
+    "entity_centrality": "mentioned",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "AMZN"
+    ],
+    "relevance_badge": "\u26aa Macro",
+    "ai_score": 10,
+    "ai_tickers": [
+      "AMZN"
+    ],
+    "ai_reason": "CEO shareholder letter directly addresses AMZN strategy, operations, and forward guidance.",
     "ai_sentiment": "positive",
     "is_mover_related": true,
-    "relevance_score": 76.08,
-    "summary": "UnitedHealth Group (UNH) experienced a significant stock price increase today. UNH likely benefited from positive developments in healthcare policy, Medicare/Medicaid reimbursement rates, or pharmacy benefits management operations, which are core profit drivers for the company's insurance and UnitedHealthcare segments. The stock's strength reflects investor optimism regarding the company's ability to maintain or expand margins across its health insurance and healthcare services divisions.",
+    "relevance_score": 69.04,
+    "summary": "Andy Jassy released Amazon's 2025 shareholder letter, providing strategic guidance on the company's operational priorities and financial outlook. AMZN's stock reaction will likely depend on management's commentary regarding AWS margin expansion, advertising revenue growth acceleration, and capital allocation for AI infrastructure investments\u2014each representing distinct earnings drivers that institutional investors monitor closely for forward guidance on profitability and return on incremental capital.",
     "proactive_or_reactive": "reactive",
-    "timestamp": "Tue, 07 Apr 2026 12:01:09 GMT"
+    "timestamp": "Thu, 09 Apr 2026 10:07:13 GMT"
   },
   {
     "title": "UnitedHealth Group (UNH) Upgraded Over Potential Upside to Earnings Estimates",
@@ -56,167 +81,134 @@
     "date": "Wed, 08 Apr 2026 06:21:24 +0000",
     "source_url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-unh-upgraded-over-070224075.html?.tsrc=rss",
     "source": "Yahoo Finance",
-    "mention_count": 5,
+    "mention_count": 3,
     "entity_centrality": "primary",
     "relevance_tier": "Direct",
     "affected_tickers": [
       "PG"
     ],
     "relevance_badge": "\ud83d\udfe2 Direct",
-    "ai_score": 8,
+    "ai_score": 9,
     "ai_tickers": [],
-    "ai_reason": "Analyst upgrade with earnings upside; directly material for UNH valuation and returns.",
+    "ai_reason": "Analyst upgrade directly on UNH with earnings upside potential cited.",
     "ai_sentiment": "positive",
-    "relevance_score": 72.98,
-    "summary": "UnitedHealth Group received an analyst upgrade based on expectations for upward revisions to its earnings forecasts. While UNH is a healthcare company and PG operates in consumer staples, both benefit from pricing power dynamics\u2014UNH can increase insurance premiums and medical service costs to offset inflation, while PG can pass through higher input costs to consumers, potentially boosting both companies' margins during inflationary periods. The upgrade to UNH may signal analyst confidence in the healthcare sector's ability to maintain profitability, which could support defensive positioning in PG as well.",
+    "relevance_score": 68.54,
+    "summary": "UnitedHealth Group (UNH) received an upgrade from analysts who see potential for earnings estimate revisions upward, likely reflecting improved operational efficiency or stronger-than-expected healthcare utilization trends. While UNH is the direct beneficiary of this upgrade through higher projected net income and potential EPS accretion, the indirect effect on Procter & Gamble (PG) would be modest\u2014a healthier healthcare sector and stronger consumer sentiment could slightly reduce input cost pressures on PG's supply chain, though PG's consumer staples pricing power remains the primary driver of its margins. The upgrade to UNH has negligible direct impact on PG's fundamental earnings trajectory.",
     "proactive_or_reactive": "reactive",
     "timestamp": "Wed, 08 Apr 2026 06:21:24 +0000"
   },
   {
-    "title": "Buy UnitedHealth or Humana Stock as Medicare Advantage Rates Increase?",
-    "description": "Buy UnitedHealth or Humana Stock as Medicare Advantage Rates Increase?",
+    "title": "Warren Buffett bought 5M UnitedHealth shares as it tanked. A $13B Medicare boosted it. Was he right? - Yahoo Finance",
+    "description": "Warren Buffett bought 5M UnitedHealth shares as it tanked. A $13B Medicare boosted it. Was he right? - Yahoo Finance",
     "event_type": "news",
-    "date": "Tue, 07 Apr 2026 23:44:00 +0000",
-    "source_url": "https://finance.yahoo.com/sectors/healthcare/articles/buy-unitedhealth-humana-stock-medicare-234400124.html?.tsrc=rss",
+    "date": "Thu, 09 Apr 2026 11:05:00 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjB5ZWJ6ZUQ0c0p1M0habXVabjdBWDlsdFFrWVZUTVNzeGJVeXEtM2Q2d2xQSEFOOUtRTGp0WjJVWG5QblZKYUVEY1RYeDFTN1d6X0VNeUpCRnJTcmdJV2RONnAwbGpqTW1KN2JVa1IxOUhkUEFRa3h2X1cySnY4MTlsMVVPak9odmE0cnY4YTdHRlliTU1WNzFYVGd2TEhnUVRZN0hCTFNaQQ?oc=5",
     "source": "Yahoo Finance",
-    "mention_count": 4,
+    "mention_count": 3,
     "entity_centrality": "primary",
     "relevance_tier": "Direct",
     "affected_tickers": [
       "UNH"
-    ],
-    "relevance_badge": "\ud83d\udfe2 Direct",
-    "ai_score": 10,
-    "ai_tickers": [],
-    "ai_reason": "Medicare Advantage rates increase directly benefits insurers; strong fundamental driver for UNH.",
-    "ai_sentiment": "positive",
-    "is_mover_related": true,
-    "relevance_score": 71.04,
-    "summary": "The Centers for Medicare & Medicaid Services announced higher reimbursement rates for Medicare Advantage plans, benefiting insurers offering these government-sponsored health programs. UNH (UnitedHealth Group) will see improved underwriting margins on its Medicare Advantage segment as higher per-member monthly rates directly increase premium revenue without proportional increases in medical claims costs, enhancing operating leverage in this high-margin business line.",
-    "proactive_or_reactive": "reactive",
-    "timestamp": "Tue, 07 Apr 2026 23:44:00 +0000"
-  },
-  {
-    "title": "Microsoft and Publicis Groupe expand their strategic partnership to power the future of agentic marketing for businesses worldwide - Microsoft Source",
-    "description": "Microsoft and Publicis Groupe expand their strategic partnership to power the future of agentic marketing for businesses worldwide - Microsoft Source",
-    "event_type": "news",
-    "date": "Wed, 08 Apr 2026 13:12:11 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRThjUExCQ21aWm5xM3hJQW9rNzJNcGxlaHRlVzZRdUJlUzdZX0lDRk1GTmNGSGl3eHNMeVppNGFmTkQtLVJPSGgyV2Q5eUZqdGc4RVk5NTRKbENJWGk0T1dxMTVfUm9YdnNVWmd6M1UzQklfaHB1a0pQZ3hGS0pHZzJ4S0t3NVAtQ2pHWUhrOUgxYmlHSnROS1RFeHQ5bUZZM0pwUEZ6ckk0OHAzbDI1Z2IzTm5YYkNtMGR2OFJlWlFkT1lBeHV4MXBJN1Q2ZnR6SVpPNzU2U1otdUZDVlVGSGpndVNvY254cThyUHM3a2JFdzlScEFReEVYbERrS1BJUlhKWDNkSQ?oc=5",
-    "source": "Microsoft Source",
-    "mention_count": 2,
-    "entity_centrality": "primary",
-    "relevance_tier": "Direct",
-    "affected_tickers": [
-      "MSFT"
-    ],
-    "relevance_badge": "\ud83d\udfe2 Direct",
-    "ai_score": 7,
-    "ai_tickers": [
-      "MSFT"
-    ],
-    "ai_reason": "Directly names MSFT partnership expansion in AI marketing, strengthening enterprise positioning.",
-    "ai_sentiment": "positive",
-    "relevance_score": 71.02,
-    "summary": "Microsoft and Publicis Groupe have expanded their strategic partnership to develop agentic marketing solutions powered by AI and cloud technology. MSFT will generate incremental revenue streams through Azure consumption and enterprise software licensing as Publicis integrates Microsoft's AI models and cloud infrastructure into its marketing automation platforms, while also strengthening MSFT's enterprise AI positioning against competitors like Amazon Web Services and Google Cloud.",
-    "proactive_or_reactive": "reactive",
-    "timestamp": "Wed, 08 Apr 2026 13:12:11 GMT"
-  },
-  {
-    "title": "Exxon Mobil (XOM) Stock Loses 6% of Output After Iran War Disrupts Gulf Production - CoinCentral",
-    "description": "Exxon Mobil (XOM) Stock Loses 6% of Output After Iran War Disrupts Gulf Production - CoinCentral",
-    "event_type": "news",
-    "date": "Wed, 08 Apr 2026 13:22:40 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSEhhbXdneXhQdHk2YkZNeldaOFZWTHYzR1JldlNocWtyMFJiYlhqY2lYRlFxRVBQM0ZVdzlhbksyT0oxTGNCZlBTTGJadE05bm1CdlRzbTNBTmNzYXRNR1lsdnBOSERwa3dLT0lyVnRSaWcyaGM0NFJhbVNsYzROWF84UXNZR29HYUxPM05DVDVFWDIyWElkcVZsNXRDcm5wQU5VREh2MA?oc=5",
-    "source": "CoinCentral",
-    "mention_count": 5,
-    "entity_centrality": "primary",
-    "relevance_tier": "Direct",
-    "affected_tickers": [
-      "XOM"
     ],
     "relevance_badge": "\ud83d\udfe2 Direct",
     "ai_score": 8,
-    "ai_tickers": [
-      "XOM"
-    ],
-    "ai_reason": "Directly reports XOM production loss from geopolitical disruption materially affecting output.",
-    "ai_sentiment": "negative",
-    "relevance_score": 70.98,
-    "summary": "Exxon Mobil (XOM) has lost 6% of its production output due to Iran war disruptions affecting Gulf operations. XOM's earnings per barrel will decline as reduced production volumes amplify fixed cost per unit of output, while the company simultaneously faces reduced revenue from lower crude sales volume in the near term. This production loss will pressure XOM's free cash flow generation and dividend sustainability if the disruption persists beyond the current quarter.",
+    "ai_tickers": [],
+    "ai_reason": "Warren Buffett's major UNH purchase and Medicare context directly signal valuation opportunity.",
+    "ai_sentiment": "positive",
+    "relevance_score": 68.54,
+    "summary": "Warren Buffett's Berkshire Hathaway acquired 5 million shares of UnitedHealth (UNH) during a market decline, followed by a $13 billion boost likely from improved Medicare reimbursement rates or favorable policy developments. The purchase targets UNH's health insurance segment, which generates revenue through Medicare Advantage enrollment and managed care contracts\u2014these programs benefit directly from higher government reimbursement, improving UNH's net margins and cash flows. Buffett's timing suggests he identified an oversold opportunity in a counter-cyclical healthcare play with structural profitability improvements from Medicare policy tailwinds.",
     "proactive_or_reactive": "reactive",
-    "timestamp": "Wed, 08 Apr 2026 13:22:40 GMT"
+    "timestamp": "Thu, 09 Apr 2026 11:05:00 GMT"
   },
   {
-    "title": "UnitedHealth Jumps on CMS' MA Rate Boost: How to Position Now - TradingView",
-    "description": "UnitedHealth Jumps on CMS' MA Rate Boost: How to Position Now - TradingView",
+    "title": "Assessing Caterpillar (CAT) Valuation After Strong Share Price Momentum And Record Sales - Yahoo Finance",
+    "description": "Assessing Caterpillar (CAT) Valuation After Strong Share Price Momentum And Record Sales - Yahoo Finance",
     "event_type": "news",
-    "date": "Tue, 07 Apr 2026 15:43:00 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2R3bmxuNmRLc3FkdUV5RDI4dEk1S19aaGVFTFNSZ3ZGWVRmMG5UM2RrRWxHSUxfQm4tZUR6QVBSZGEyQl9oRV8tTTg2VkRHWFVxa2tLXzhtWDRGWUJfTC1iVDRnYl9STkoyU1NEWlZNQ0FIYmQ3WTFFVzZHaWRELU1PbDFCVk9FSXVVZWJ6aUJiV0FaaS1TRU5hclI0bjd0QUs5cjJ0QzRhTHd2dEVKRHlBZ0NDUQ?oc=5",
-    "source": "TradingView",
+    "date": "Thu, 09 Apr 2026 08:08:19 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTZYMHdmekswZzZaVGJFOFBSWWVqVUlYQVlwSXMwVklDXzI0c3hBUFd3LTYxSzdfMzdyRDVoRUgyMkxGWmhyN1BWb0VVUjlOLUdjM19SMTduOGpYQ0wtcGdCYzJEMzdRUXJoOWxFYlVLVEdKU25XWGhWQ0RNUE05Nm9SOElXMTUxOTFMQWU2dGFBbE1HaXh6WWZXazRnQ0d0RzlZRnhoUGg5SGM?oc=5",
+    "source": "Yahoo Finance",
     "mention_count": 3,
     "entity_centrality": "primary",
     "relevance_tier": "Direct",
     "affected_tickers": [
-      "UNH"
+      "CAT"
     ],
     "relevance_badge": "\ud83d\udfe2 Direct",
-    "ai_score": 10,
+    "ai_score": 7,
     "ai_tickers": [],
-    "ai_reason": "CMS MA rate boost directly enhances UNH earnings and investment thesis.",
+    "ai_reason": "Record sales and strong momentum directly support bullish valuation assessment.",
     "ai_sentiment": "positive",
-    "is_mover_related": true,
-    "relevance_score": 66.54,
-    "summary": "The Centers for Medicare & Medicaid Services (CMS) announced increased reimbursement rates for Medicare Advantage plans, benefiting insurers offering these programs. UnitedHealth Group (UNH), which derives significant revenue from its Optum Health and UnitedHealthcare Medicare Advantage segments, will experience improved operating margins and higher net revenues as CMS rate increases flow directly to its bottom line through higher per-member-per-month (PMPM) capitated payments.",
+    "relevance_score": 68.54,
+    "summary": "Caterpillar (CAT) has experienced strong share price momentum alongside record sales, prompting a reassessment of its current valuation metrics. CAT's elevated stock price following robust revenue growth raises questions about whether the valuation premium is justified by fundamental earnings power or reflects speculative momentum, particularly given the stock's sensitivity to cyclical commodity prices and China demand exposure. Investors must weigh whether CAT's current multiples adequately price in potential headwinds from industrial cycle normalization or infrastructure spending moderation.",
     "proactive_or_reactive": "reactive",
-    "timestamp": "Tue, 07 Apr 2026 15:43:00 GMT"
+    "timestamp": "Thu, 09 Apr 2026 08:08:19 GMT"
   },
   {
-    "title": "UNH Stock Today: April 8 \u2014 CMS Hikes 2027 MA Rates; Insurers Rally - Meyka",
-    "description": "UNH Stock Today: April 8 \u2014 CMS Hikes 2027 MA Rates; Insurers Rally - Meyka",
+    "title": "Why Procter & Gamble (PG) Outpaced the Stock Market Today - Yahoo Finance",
+    "description": "Why Procter & Gamble (PG) Outpaced the Stock Market Today - Yahoo Finance",
     "event_type": "news",
-    "date": "Wed, 08 Apr 2026 08:53:16 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDEwOVJTTDZOOEZJdTgxeW1zeTNoQkJTM2RZRUVOVzZXYVFlTTFfTVJRMndKODZKU082WGRDZldEb0UtUHFOcnVmYmZtQUh3dFpMVFdwTEpFd2tZQXZGX2JhRHZFRW81YjJseTRUbWd2QlVUcFIyajZYSXJCRGN0R3BvdEU1UjRuOEN0YmxNRTl0X1RQY0E?oc=5",
-    "source": "Meyka",
+    "date": "Wed, 08 Apr 2026 21:50:02 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3ZiNTVTaFBWV0loSFRBdTh6SFM1VEhtYndHdGIzY1B2VlhBeXV1UUtZU2ZxRnMyOFhJeEtCQi1mYm5MX3NOcW04d3NJRzZQMHN3Q1FhM3picnBVUXBvM0lBWDZBeU1sOXYzZFE4X1FpZHpUM1RUN2hnVUt6OG8wSkFweWFtYkgzNDZrLWJmVjFENjREN3JaSDJKOA?oc=5",
+    "source": "Yahoo Finance",
     "mention_count": 3,
     "entity_centrality": "primary",
     "relevance_tier": "Direct",
     "affected_tickers": [
-      "UNH"
+      "PG"
     ],
     "relevance_badge": "\ud83d\udfe2 Direct",
-    "ai_score": 10,
+    "ai_score": 6,
     "ai_tickers": [],
-    "ai_reason": "CMS Medicare Advantage rate hikes directly boost UNH revenue and margins significantly.",
+    "ai_reason": "PG outpaced market with high coverage; suggests positive momentum but lacks specific catalyst.",
     "ai_sentiment": "positive",
-    "is_mover_related": true,
-    "relevance_score": 66.54,
-    "summary": "The Centers for Medicare & Medicaid Services (CMS) announced higher reimbursement rates for Medicare Advantage plans in 2027, benefiting major insurers. UnitedHealth Group (UNH), which derives a substantial portion of revenue from its Medicare Advantage business through UnitedHealthcare, will experience increased premium income and improved margins from these higher capitated payment rates, directly boosting earnings per share for that segment.",
+    "relevance_score": 68.54,
+    "summary": "Procter & Gamble outperformed the broader stock market today, likely driven by positive developments in the consumer staples sector. PG's strong relative performance reflects investor confidence in its pricing power and brand portfolio, which enable the company to maintain margins despite elevated input costs and inflationary pressures. This outperformance suggests the market is rewarding PG's ability to pass through cost increases to consumers while maintaining demand across its diversified product categories in both developed and emerging markets.",
     "proactive_or_reactive": "reactive",
-    "timestamp": "Wed, 08 Apr 2026 08:53:16 GMT"
+    "timestamp": "Wed, 08 Apr 2026 21:50:02 GMT"
   },
   {
-    "title": "6-Day Rally Sends UnitedHealth Stock Up 19% - Trefis",
-    "description": "6-Day Rally Sends UnitedHealth Stock Up 19% - Trefis",
+    "title": "Amazon.com Inc Stock (AMZN) Opened Up by 4.66% on Apr 8: A Full Analysis - TradingKey",
+    "description": "Amazon.com Inc Stock (AMZN) Opened Up by 4.66% on Apr 8: A Full Analysis - TradingKey",
     "event_type": "news",
-    "date": "Wed, 08 Apr 2026 04:30:40 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0FVcTNwX1ozQ1oyMWZYSWt4SDVNazY5cWU4emJiOWEtcldZb3p0Qmd1Z0ljQ2pEMjZBSnRYbUU3TENUcUt6Y08xWFdFUHRzLTR0UUpNY0J4SWdmalNZN1hBQWh3RUJnaEY0dkdIM0NYMmxmY1F0V0kwOU1TaXFVenJHLTdCOGYtdzVKamFmajVuakloRzZOSGtoaTVLdFNialBPOTZ3?oc=5",
-    "source": "Trefis",
+    "date": "Wed, 08 Apr 2026 13:47:34 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzhsU0tFS2MxU3FXOEhvMTdncUxGYm9qUjFiSUFSd0FtSFNiVFNVZ2pYT3RrQWdyb0VYT1NJT1FoR0lYTUtTRl9vd0ZtSWtkd2dYX2VwM0xLOUVtWlRETHVYYmd3SEh0czRlYWJqbkNMVzBFOHA0OW9sUWY1bjNXYm8wWXdJNWZFX1dj?oc=5",
+    "source": "TradingKey",
     "mention_count": 3,
     "entity_centrality": "primary",
     "relevance_tier": "Direct",
     "affected_tickers": [
-      "UNH"
+      "AMZN"
     ],
     "relevance_badge": "\ud83d\udfe2 Direct",
-    "ai_score": 9,
+    "ai_score": 8,
     "ai_tickers": [],
-    "ai_reason": "19% rally confirmation; material price momentum and market recognition of strength.",
+    "ai_reason": "AMZN stock jump 4.66% on April 8 with high coverage; material positive price movement signal.",
     "ai_sentiment": "positive",
     "is_mover_related": true,
     "relevance_score": 66.54,
-    "summary": "UnitedHealth Group (UNH) experienced a significant 6-day rally, with its stock price appreciating 19% during this period. The surge likely reflects positive sentiment around UNH's insurance operations, including its UnitedHealthcare division's competitive positioning in Medicare Advantage and Medicaid plans, which generate recurring premium revenues and drive earnings growth. This rally also suggests investor optimism regarding the company's pharmacy benefits management (PBM) segment through Optum, which benefits from increased medication volumes and margin expansion in a higher-demand healthcare environment.",
+    "summary": "Amazon.com Inc. (AMZN) opened up 4.66% on April 8, indicating a significant positive market reaction to company news or broader market conditions. The rally likely benefited AMZN's AWS cloud computing segment and e-commerce operations, where higher stock valuations increase the company's market capitalization and improve its ability to fund capital expenditures and R&D investments in AI infrastructure without additional equity dilution.",
     "proactive_or_reactive": "reactive",
-    "timestamp": "Wed, 08 Apr 2026 04:30:40 GMT"
+    "timestamp": "Wed, 08 Apr 2026 13:47:34 GMT"
+  },
+  {
+    "title": "AMZN 8-K Filing",
+    "description": "FORM 8-K",
+    "event_type": "filing",
+    "date": "2026-04-09",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926041034/tm263815d2_8k.htm",
+    "mention_count": 1,
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "AMZN"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 5,
+    "ai_sentiment": "neutral",
+    "ai_reason": "SEC filing by portfolio company",
+    "relevance_score": 60.5,
+    "summary": "Amazon.com Inc. (AMZN) filed a Form 8-K, which discloses a material event or change in the company's operations, finances, or ownership structure that investors need to know about. The specific financial mechanism depends on the 8-K content\u2014common triggers include executive departures (affecting organizational risk), debt issuances (impacting leverage ratios and balance sheet), acquisition announcements (altering capital allocation), or AWS/advertising segment updates (directly influencing revenue mix and margin profiles). Without the detailed filing contents, the impact on AMZN's valuation could range from positive (strategic investments in high-margin AWS or advertising) to negative (leadership changes or unexpected liabilities), making it essential to review the actual 8-K disclosure to assess exposure across e-commerce, cloud computing, and advertising revenue streams.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "2026-04-09"
   },
   {
     "title": "XOM 8-K Filing",
@@ -234,7 +226,7 @@
     "ai_sentiment": "neutral",
     "ai_reason": "SEC filing by portfolio company",
     "relevance_score": 60.5,
-    "summary": "Exxon Mobil Corporation (XOM) has filed a Form 8-K with the SEC, disclosing a material event that requires immediate disclosure to investors. The filing will likely detail changes affecting XOM's upstream production volumes, downstream refining margins, or exposure to commodity price volatility in crude oil and natural gas, which directly impact the company's cash flow generation and earnings per share. Investors should review the specific 8-K item to determine whether the disclosure involves operational disruptions, asset impairments, regulatory changes related to carbon policy, or strategic M&A activity that alters XOM's financial guidance.",
+    "summary": "Exxon Mobil Corporation (XOM) filed a Form 8-K with the SEC, disclosing a material event that requires immediate investor notification. Without the specific filing content, the disclosure likely addresses operational changes, financial results, executive transitions, or strategic initiatives that directly affect XOM's earnings, cash flow, or asset valuations. The market will assess whether the event impacts XOM's upstream oil and gas production volumes, downstream refining margins, or exposure to carbon regulation costs\u2014all critical levers for the company's profitability and capital allocation decisions.",
     "proactive_or_reactive": "reactive",
     "timestamp": "2026-04-08"
   }

@@ -1,5 +1,12 @@
 [
   {
+    "ticker": "AMZN",
+    "filing_type": "8-K",
+    "filing_date": "2026-04-09",
+    "description": "FORM 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926041034/tm263815d2_8k.htm"
+  },
+  {
     "ticker": "XOM",
     "filing_type": "8-K",
     "filing_date": "2026-04-08",
@@ -166,13 +173,6 @@
     "filing_date": "2026-02-05",
     "description": "8-K",
     "url": "https://www.sec.gov/Archives/edgar/data/19617/000119312526039427/d23804d8k.htm"
-  },
-  {
-    "ticker": "AMZN",
-    "filing_type": "8-K",
-    "filing_date": "2026-02-05",
-    "description": "8-K",
-    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000002/amzn-20260205.htm"
   },
   {
     "ticker": "AAPL",

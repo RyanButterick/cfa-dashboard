@@ -1,5 +1,53 @@
 [
   {
+    "title": "Global energy stocks plunge as US-Iran ceasefire hits oil - Reuters",
+    "description": "Global energy stocks plunge as US-Iran ceasefire hits oil - Reuters",
+    "event_type": "news",
+    "date": "Wed, 08 Apr 2026 15:08:39 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnJ6SjZaRWFydzFkR0o4dkpGcC1PdnJLTWsyM090VXE2QllhNmtYSjJvSUhjQ0pMaktYdTFBYkhOa2ZWS3dyaWFId2dlMkVzRHMzN2s3Q1AyV2JhaWkyRVU1SkRGMkEwU0oydE1Da0QzSkZxOGdvTGVodVd2NVI5MkhYaF9VLUJ2Vlc3cm5FR2VlMGRLcDhvZTFka0swYTFlZGJDTWxXblJ3Zw?oc=5",
+    "source": "Reuters",
+    "mention_count": 1,
+    "entity_centrality": "mentioned",
+    "sector_origin": "Energy",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "NEE"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 7,
+    "ai_tickers": [],
+    "ai_reason": "Iran ceasefire directly pressures oil prices and energy sector sharply.",
+    "ai_sentiment": "negative",
+    "relevance_score": 65.0,
+    "summary": "A ceasefire between the US and Iran has triggered a sharp decline in global energy stocks as oil prices fall due to reduced geopolitical tensions and supply concerns. NEE shares are likely pressured as lower crude prices reduce the competitive advantage of renewable energy sources; utilities typically see margin compression when fossil fuel costs decline, making solar and wind generation less economically attractive relative to conventional power in the near term. Additionally, the stock may face headwinds from potential interest rate cuts that could follow lower inflation expectations from cheaper oil, affecting NEE's dividend yield and capital expenditure economics.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Wed, 08 Apr 2026 15:08:39 GMT"
+  },
+  {
+    "title": "Energy Sector Logs Worst Day In A Year: 20 Stocks Tumble Sharply - State Street Energy Select Sector SPDR - Benzinga",
+    "description": "Energy Sector Logs Worst Day In A Year: 20 Stocks Tumble Sharply - State Street Energy Select Sector SPDR - Benzinga",
+    "event_type": "news",
+    "date": "Wed, 08 Apr 2026 14:57:03 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVzc1dmJPcl96UnR3WUhJdEwwMlVsRFpMbzlLWnk3QmpFZ2FsVHUzRm1uMjJvWndYU1VsbXI3WnFjRFlma2FSTU9KRlRCRXI2RFd1OGFicENTVGN5TkJaNXFnbGk0OHhibzFEMEpiMDNYbUhDVFBaaDNNZTZHdnU0VVNGZzExWEZMT0N6S1pxZThYSVFxc09ZTGdkZGlVeWROVGVSWTlXLW9oTXZnSDlVUnBYbFVxQ0xGWTBzNmFWQlFRLW9RX0E?oc=5",
+    "source": "Benzinga",
+    "mention_count": 1,
+    "entity_centrality": "mentioned",
+    "sector_origin": "Energy",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "NEE"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 8,
+    "ai_tickers": [],
+    "ai_reason": "Major energy sector selloff directly impacts energy holdings materially.",
+    "ai_sentiment": "negative",
+    "relevance_score": 59.0,
+    "summary": "Energy stocks experienced their worst trading day in a year, with significant broad-based declines across the sector as reflected in the State Street Energy Select Sector SPDR (XLE). NextEra Energy Inc. (NEE), a major renewable energy and utility player, likely faced downward pressure through a dual mechanism: rising interest rates increase the cost of capital for NEE's renewable infrastructure projects (which are typically financed with long-term debt), while simultaneous weakness in traditional energy valuations can create sector-wide selling pressure that indiscriminately affects both fossil fuel and clean energy companies.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Wed, 08 Apr 2026 14:57:03 GMT"
+  },
+  {
     "title": "OPEC+ agrees to boost oil output when Strait of Hormuz reopens - Reuters",
     "description": "OPEC+ agrees to boost oil output when Strait of Hormuz reopens - Reuters",
     "event_type": "news",
@@ -18,48 +66,20 @@
     "ai_tickers": [
       "XOM"
     ],
-    "ai_reason": "OPEC+ output boost directly positive for oil price and energy producer revenue.",
+    "ai_reason": "OPEC+ output boost contingent on Strait reopening; supports oil prices.",
     "ai_sentiment": "positive",
     "relevance_score": 57.02,
-    "summary": "OPEC+ has agreed to increase oil production contingent on the reopening of the Strait of Hormuz, signaling a potential near-term supply expansion once this critical chokepoint resumes normal operations. XOM will benefit from higher oil prices sustained during the Strait's closure, but faces margin compression risk once production increases cause prices to decline; however, the company's refining operations could see improved margins if crude input costs fall faster than refined product prices adjust downward.",
+    "summary": "OPEC+ has agreed to increase oil production once the Strait of Hormuz reopens, signaling a potential supply increase in global oil markets. XOM will benefit from higher crude prices in the near term as markets price in supply constraints during the closure, but faces longer-term headwinds once output increases, which typically compresses refining margins and reduces the premium XOM earns on its downstream operations.",
     "proactive_or_reactive": "reactive",
     "timestamp": "Sun, 05 Apr 2026 08:41:00 GMT"
   },
   {
-    "title": "7 Best-Performing Tech Stocks for April 2026 - NerdWallet",
-    "description": "7 Best-Performing Tech Stocks for April 2026 - NerdWallet",
+    "title": "Tech Stocks Sank in Q1\u2014but the Biggest Opportunities May Be Ahead - Morningstar Canada",
+    "description": "Tech Stocks Sank in Q1\u2014but the Biggest Opportunities May Be Ahead - Morningstar Canada",
     "event_type": "news",
-    "date": "Fri, 03 Apr 2026 07:00:00 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTDNDN29pUVZLME9OYkxUdm84dTJRdF95M1hBZXk4SG4wT0NyeHV0QjRBT0txMTA4MFB1WHZNQkN4REJhcGJDNjl1ejJrQjFmRlkwb1FrcTdhWDhpV3V0alJ3VjBqc19vd1dZQ2JhSHRSamlMOG92YzhIS2ZMXzZpekZ3?oc=5",
-    "source": "NerdWallet",
-    "mention_count": 3,
-    "entity_centrality": "mentioned",
-    "sector_origin": "Technology",
-    "relevance_tier": "Sector",
-    "affected_tickers": [
-      "AAPL",
-      "MSFT"
-    ],
-    "relevance_badge": "\u26aa Macro",
-    "ai_score": 8,
-    "ai_tickers": [
-      "AAPL",
-      "MSFT"
-    ],
-    "ai_reason": "High coverage tech stock performance ranking directly elevates AAPL and MSFT sentiment.",
-    "ai_sentiment": "positive",
-    "relevance_score": 52.54,
-    "summary": "NerdWallet has identified the seven best-performing technology stocks for April 2026, highlighting strong momentum in the sector. AAPL and MSFT are likely included due to their divergent growth drivers: AAPL benefits from expanding services revenue (App Store, subscriptions) and AI-enhanced iPhone demand offsetting China supply chain headwinds, while MSFT gains from accelerating Azure cloud adoption and enterprise AI integration driving higher-margin recurring revenue in Office 365 and cybersecurity products.",
-    "proactive_or_reactive": "reactive",
-    "timestamp": "Fri, 03 Apr 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Generational Buying Opportunity for Tech Stocks Has Arrived, Says Top Goldman Analyst - TipRanks",
-    "description": "Generational Buying Opportunity for Tech Stocks Has Arrived, Says Top Goldman Analyst - TipRanks",
-    "event_type": "news",
-    "date": "Tue, 07 Apr 2026 13:26:38 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmdJWGszQnNYT0N3SURrOUoyODNIN0pBSXZfVjNBMHc5ZlZCckp0UTRZdjJjQ2xxQUExMF9nVUplb1k5VUdCdmNEd1RUTnAwUXBIYlE4SjBlZ0tvZnlYSWFmNUVlemRsV0t3MnJzRkZnMjFoaml0dVo2eFQ1LUl3Mk5RWG5ESUdpYmVlZkJRUkwwc3BISHhSMmkzdE9lS2NVeFZ5S21VbTd6YjV4UHJnZU5LUS0?oc=5",
-    "source": "TipRanks",
+    "date": "Wed, 08 Apr 2026 09:17:12 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakVPUUh5RENfTl9wRG1yMUpTMmJvRDdFRXFuYTdJUUdSX2M1czJFYjB5cVRvNlRhc3lza2tkR2hoaHZ2MUpSaXVsMlVIMmppdEVEVTZsc0k0aUNUQm4tWXZELW03dVhPWFQ2eUR1WDN3bXFVbzVqaTJhc1M5Q1dlazBPaC0tR1ltUE9ERkx0ZDJhS1Z6MTJmZXFJS1BndGF0dF8w?oc=5",
+    "source": "Morningstar Canada",
     "mention_count": 2,
     "entity_centrality": "mentioned",
     "sector_origin": "Technology",
@@ -77,14 +97,68 @@
       "NEE"
     ],
     "relevance_badge": "\u26aa Macro",
-    "ai_score": 7,
+    "ai_score": 5,
     "ai_tickers": [],
-    "ai_reason": "Tech valuation opportunity signal from Goldman strengthens AAPL, MSFT outlook.",
+    "ai_reason": "Tech sector recovery outlook supports portfolio technology positions.",
     "ai_sentiment": "positive",
-    "relevance_score": 51.02,
-    "summary": "A top Goldman Sachs analyst has declared that technology stocks represent a generational buying opportunity, signaling a potential inflection point in valuations after recent market volatility. The call directly benefits AAPL and MSFT, as their dominant positions in cloud computing (Azure for MSFT) and AI infrastructure, combined with Apple's premium services revenue streams, position them to capitalize on enterprise digital transformation spending and AI monetization cycles. AMZN similarly stands to benefit through AWS cloud services expansion and AI integration into its advertising platform, while the analyst's bullish stance could drive multiple expansion for high-growth tech positions that have traded at depressed valuations.",
+    "relevance_score": 54.02,
+    "summary": "Tech stocks including AAPL, MSFT, and AMZN declined significantly in Q1 2024, with cloud computing platforms like Azure and AWS facing margin pressure amid elevated interest rates affecting capital-intensive infrastructure investments. The selloff creates potential buying opportunities for investors, as these companies' AI capabilities (particularly MSFT's enterprise AI integration and AMZN's AWS machine learning services) position them for accelerated earnings growth once the Fed begins rate cuts, which would simultaneously benefit capital-light software businesses with high gross margins.",
     "proactive_or_reactive": "reactive",
-    "timestamp": "Tue, 07 Apr 2026 13:26:38 GMT"
+    "timestamp": "Wed, 08 Apr 2026 09:17:12 GMT"
+  },
+  {
+    "title": "7 Best-Performing Tech Stocks for April 2026 - NerdWallet",
+    "description": "7 Best-Performing Tech Stocks for April 2026 - NerdWallet",
+    "event_type": "news",
+    "date": "Fri, 03 Apr 2026 07:00:00 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTDNDN29pUVZLME9OYkxUdm84dTJRdF95M1hBZXk4SG4wT0NyeHV0QjRBT0txMTA4MFB1WHZNQkN4REJhcGJDNjl1ejJrQjFmRlkwb1FrcTdhWDhpV3V0alJ3VjBqc19vd1dZQ2JhSHRSamlMOG92YzhIS2ZMXzZpekZ3?oc=5",
+    "source": "NerdWallet",
+    "mention_count": 3,
+    "entity_centrality": "mentioned",
+    "sector_origin": "Technology",
+    "relevance_tier": "Sector",
+    "affected_tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN"
+    ],
+    "relevance_badge": "\u26aa Macro",
+    "ai_score": 7,
+    "ai_tickers": [
+      "AAPL",
+      "MSFT",
+      "AMZN"
+    ],
+    "ai_reason": "Best-performing tech stocks list likely includes AAPL, MSFT, AMZN with strong performance.",
+    "ai_sentiment": "positive",
+    "relevance_score": 52.54,
+    "summary": "NerdWallet has identified seven technology stocks as top performers for April 2026, with your portfolio holdings AAPL, MSFT, and AMZN among the recognized leaders. AAPL benefits from strong iPhone demand and Services revenue growth driving higher margins, while MSFT's Azure cloud platform and enterprise AI adoption are expanding recurring revenue and operating leverage. AMZN's AWS segment continues to generate high-margin cloud infrastructure revenue that offsets consumer e-commerce pressure, supporting overall profitability and stock appreciation.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Fri, 03 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "title": "These energy stocks are especially cheap when you consider how expensive oil has become - MarketWatch",
+    "description": "These energy stocks are especially cheap when you consider how expensive oil has become - MarketWatch",
+    "event_type": "news",
+    "date": "Tue, 07 Apr 2026 15:08:00 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXF2TWVfWG5DWmhwb1JlVHUxaTlXQWVKNWxoNExtZTYxeDd0YnJiLXpJZzFVVjJkaFpxOTVHWlllYTB6M1h3R01yRlF1NjRyUThtZXdsWTdXRVl4azc4ZEpzY3pqczZwNmx3RjN0aG1wY2xlRDA3dExGUFlEUmF3YXhMbUZTcmhHUEVROUdaNi04UWtXR1FOR0VXU2wwbTBTeDdDUXNNSUJLbjRfdTdMaUlRSFp4a0xxbW5aQWZBTl8xczFnZW1QYWV3?oc=5",
+    "source": "MarketWatch",
+    "mention_count": 1,
+    "entity_centrality": "mentioned",
+    "sector_origin": "Energy",
+    "relevance_tier": "Direct",
+    "affected_tickers": [
+      "NEE"
+    ],
+    "relevance_badge": "\ud83d\udfe2 Direct",
+    "ai_score": 5,
+    "ai_tickers": [],
+    "ai_reason": "Energy valuation relative to commodity prices provides moderate context.",
+    "ai_sentiment": "neutral",
+    "relevance_score": 51.5,
+    "summary": "Oil prices have risen significantly, creating valuation opportunities in energy-related equities that appear underpriced relative to commodity costs. However, NextEra Energy (NEE) is primarily a renewable energy and utility company with minimal direct oil exposure, so it would not benefit from higher oil prices in the traditional sense\u2014instead, elevated oil costs could actually strengthen NEE's competitive position by making its wind and solar generation assets more economically attractive compared to fossil fuel alternatives.",
+    "proactive_or_reactive": "reactive",
+    "timestamp": "Tue, 07 Apr 2026 15:08:00 GMT"
   },
   {
     "title": "OPEC Output Fell Most in Decades Last Month on War, Survey Shows - Bloomberg.com",
@@ -101,121 +175,46 @@
       "XOM"
     ],
     "relevance_badge": "\ud83d\udfe1 Sector",
-    "ai_score": 6,
-    "ai_tickers": [
-      "XOM"
-    ],
-    "ai_reason": "OPEC output decline supports oil prices and energy sector profitability.",
-    "ai_sentiment": "positive",
+    "ai_score": 7,
+    "ai_tickers": [],
+    "ai_reason": "OPEC output collapse significantly pressures oil supply and XOM production.",
+    "ai_sentiment": "negative",
     "relevance_score": 51.0,
-    "summary": "OPEC crude oil production fell sharply last month due to geopolitical conflict, marking the largest monthly decline in decades according to Bloomberg's survey. Exxon Mobil (XOM) stands to benefit as constrained OPEC supply tightens global crude inventories, which typically drives higher oil prices and expands XOM's upstream production margins and downstream refining spreads on its crude processing operations. Additionally, reduced OPEC output may support natural gas prices through energy substitution effects, providing upside to XOM's integrated gas production and marketing segments.",
+    "summary": "OPEC crude oil production contracted sharply last month, marking the steepest decline in decades, primarily driven by geopolitical disruptions from ongoing regional conflicts. XOM will benefit from the tightening crude supply, which supports higher oil prices that directly increase upstream production revenues and refining margins\u2014the spread between crude input costs and refined product selling prices that drives XOM's downstream profitability. Additionally, reduced OPEC output strengthens pricing power for independent producers like XOM, potentially boosting cash flow generation and shareholder returns through higher dividend capacity.",
     "proactive_or_reactive": "reactive",
     "timestamp": "Tue, 07 Apr 2026 14:53:34 GMT"
   },
   {
-    "title": "US tech stocks struggle for safe haven appeal in Iran market fallout - Reuters",
-    "description": "US tech stocks struggle for safe haven appeal in Iran market fallout - Reuters",
+    "title": "Goldman\u2019s Oppenheimer Says Tech Stock Valuations Are Attractive - Bloomberg.com",
+    "description": "Goldman\u2019s Oppenheimer Says Tech Stock Valuations Are Attractive - Bloomberg.com",
     "event_type": "news",
-    "date": "Tue, 31 Mar 2026 10:21:45 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3A3Z3NxbVg0bjM0ekJBVkZULWJfVDFnS0tUajhmZ1FNQnRtTEkwei1BYTliTjZYZWNBdS1hd0lKNlg4VlBTZ3dZNDVaaXpsQUhQX2xqQUJnckdSVnB3NFZrbFdGNGhBd1R4S0ZYanZpbUlWUFJQOUVJZFl0ZWI4Vl9lVHdWdDJuRkhFc1F1dHgySjZDWC1yRWktMmZXWlRMMWIzQ2lqbWNPWlM3dmpWaGVIMnBSN2I2elJuM0VPVQ?oc=5",
-    "source": "Reuters",
+    "date": "Tue, 07 Apr 2026 10:14:14 GMT",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmQxUjZwNGhDVzVWNFpHaGx2OFZPamtNZHB3RDNLUXNFN3YxNFZxWHdqbGtBM05zMm5kVUNaUHBsR19RSlhqOWl1N29IRmh2a3pQTEwtR0RnMktfa1FhbVhoQjF3UEM1aGZtWkRPcVlsR0RxMmdrV1J4M0Y2THhSRzhPeVFzcjB0ZHhaNWZpMkphcVg0Nnh5djF1S0R2TF9NM1pYNWxycUtZTkRzQmNkZHpQZEo?oc=5",
+    "source": "Bloomberg.com",
     "mention_count": 1,
     "entity_centrality": "mentioned",
     "sector_origin": "Technology",
     "relevance_tier": "Sector",
     "affected_tickers": [
       "AAPL",
-      "MSFT"
+      "MSFT",
+      "JPM",
+      "JNJ",
+      "XOM",
+      "AMZN",
+      "PG",
+      "UNH",
+      "CAT",
+      "NEE"
     ],
     "relevance_badge": "\u26aa Macro",
-    "ai_score": 6,
-    "ai_tickers": [
-      "AAPL",
-      "MSFT"
-    ],
-    "ai_reason": "Tech sector volatility from geopolitical tension affects stock valuations broadly.",
-    "ai_sentiment": "negative",
-    "relevance_score": 51.0,
-    "summary": "Geopolitical tensions related to Iran have reduced the typical safe-haven demand for US technology stocks, as investors rotate toward traditional defensive assets like Treasury bonds and gold. Apple (AAPL) faces headwinds as its China supply chain exposure and iPhone revenue streams become riskier during periods of geopolitical uncertainty, while Microsoft (MSFT) experiences selling pressure on its high-growth cloud computing and AI segments, which are typically valued on elevated forward earnings multiples that compress when risk appetite deteriorates.",
-    "proactive_or_reactive": "reactive",
-    "timestamp": "Tue, 31 Mar 2026 10:21:45 GMT"
-  },
-  {
-    "title": "Building AI infrastructure the Community-First way in Canada - The Official Microsoft Blog",
-    "description": "Building AI infrastructure the Community-First way in Canada - The Official Microsoft Blog",
-    "event_type": "news",
-    "date": "Tue, 07 Apr 2026 18:05:55 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEZHdlNROUNodDg3XzA4WEZSa2QyWHlEVzBUeVhrVDY5NWZwT2NDaWY2V2FmWGM3MmV2MWlJbkloREdvaWhyQUpjR2ZCcEhTOGlDWG8tYnJ6V1A3TUpaWkM4T3NobkFsWUJrbXZCdlVlVFNWMGJNOGhUNHlYOVlhMUo1ZTU1TFVKam9rekRuMmJFMVczd0k0dDZ4R0J1Wm9SV2d4dWJVVDczWGphN2tndGh3VEg?oc=5",
-    "source": "The Official Microsoft Blog",
-    "mention_count": 1,
-    "entity_centrality": "mentioned",
-    "sector_origin": "Industrials",
-    "relevance_tier": "Sector",
-    "affected_tickers": [
-      "MSFT"
-    ],
-    "relevance_badge": "\ud83d\udfe2 Direct",
     "ai_score": 5,
-    "ai_tickers": [
-      "MSFT"
-    ],
-    "ai_reason": "Community-focused AI infrastructure strategy strengthens MSFT cloud positioning.",
+    "ai_tickers": [],
+    "ai_reason": "Tech valuation optimism moderately benefits AAPL, MSFT, AMZN.",
     "ai_sentiment": "positive",
     "relevance_score": 51.0,
-    "summary": "Microsoft announced a community-focused AI infrastructure initiative in Canada, likely involving expanded Azure data center capacity and AI service offerings in the region. MSFT benefits through increased Azure cloud consumption for AI workloads, higher enterprise software licensing adoption tied to AI tools, and strengthened competitive positioning in the Canadian market, which should support revenue growth in its Intelligent Cloud segment (currently ~40% of total revenue).",
+    "summary": "Goldman Sachs analyst Oppenheimer released a bullish assessment that technology sector valuations are now attractive relative to fundamentals. AAPL and MSFT, which carry elevated price-to-earnings multiples but generate substantial free cash flow from their core businesses (iPhone/Services for Apple and Azure cloud for Microsoft), would re-rate higher if investors perceive the valuation gap as unjustified given AI growth tailwinds and margin expansion potential. This recommendation could also benefit AMZN, whose AWS cloud division commands premium valuations that may compress if tech multiples broadly re-rate upward, offsetting any near-term multiple expansion.",
     "proactive_or_reactive": "reactive",
-    "timestamp": "Tue, 07 Apr 2026 18:05:55 GMT"
-  },
-  {
-    "title": "Energy Stocks Are Having a Moment That Could Last - WSJ",
-    "description": "Energy Stocks Are Having a Moment That Could Last - WSJ",
-    "event_type": "news",
-    "date": "Tue, 07 Apr 2026 09:30:00 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEp6a0FIOW1qaHdsTndrQnNzVVZhNGV6UzRjTFFaVWtzMnRmWkJYYWJ1OXVvMHg0ZnBJYm9DRHkyN1o3bnJWckI4Zkh6UjBweFFLTDROSU8xQzV1ZkhKakpHcWlESGRFUHZGb2tQWWlfN0dlaEFEUnUwdFA3cGdBVG5aakpJRU42VlRGbklzbw?oc=5",
-    "source": "WSJ",
-    "mention_count": 1,
-    "entity_centrality": "mentioned",
-    "sector_origin": "Energy",
-    "relevance_tier": "Sector",
-    "affected_tickers": [
-      "XOM"
-    ],
-    "relevance_badge": "\ud83d\udfe2 Direct",
-    "ai_score": 5,
-    "ai_tickers": [
-      "XOM"
-    ],
-    "ai_reason": "Energy stocks rally supports oil prices and refining margins for Exxon.",
-    "ai_sentiment": "positive",
-    "relevance_score": 51.0,
-    "summary": "Energy stocks are experiencing a sustained rally driven by structural factors supporting higher commodity prices and tight global supply dynamics. XOM benefits through multiple mechanisms: higher crude oil prices directly increase upstream profit margins, while refining margins expand when oil and refined product spreads widen, and natural gas price strength boosts downstream earnings across XOM's integrated operations. Additionally, OPEC production discipline and geopolitical supply constraints reduce downside price risk for the oil majors' cash flow generation.",
-    "proactive_or_reactive": "reactive",
-    "timestamp": "Tue, 07 Apr 2026 09:30:00 GMT"
-  },
-  {
-    "title": "Surging Oil Prices to Keep Romania\u2019s Interest Rates Unchanged - Bloomberg.com",
-    "description": "Surging Oil Prices to Keep Romania\u2019s Interest Rates Unchanged - Bloomberg.com",
-    "event_type": "news",
-    "date": "Tue, 07 Apr 2026 04:00:00 GMT",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFgzemxwRlkwbU8zN3RNemVNNnQ2YWRWWWR1STZVZ2Y1UXU5TnJnakJYWExqN1AyQy04Uk9YOFNKaDRKME4tc0hDYlAtV0dWalA3WS1INGZHaWpvZEtWRFVXRXk2U2V5c2pYZWV0N1A1dWVaME9IUDVUdGlaNnJja3pOM2J5aUZyS3NKYzFTZDJBNVhQWjlTalJfOGpXTUpHcVBENUc1WkpiZW5FeGxzU3NB?oc=5",
-    "source": "Bloomberg.com",
-    "mention_count": 1,
-    "entity_centrality": "mentioned",
-    "sector_origin": "Financials",
-    "relevance_tier": "Sector",
-    "affected_tickers": [
-      "XOM"
-    ],
-    "relevance_badge": "\ud83d\udfe1 Sector",
-    "ai_score": 4,
-    "ai_tickers": [
-      "XOM"
-    ],
-    "ai_reason": "Rising oil prices support Exxon's revenues and margins.",
-    "ai_sentiment": "positive",
-    "relevance_score": 51.0,
-    "summary": "Romania's central bank is expected to maintain its interest rates unchanged as surging oil prices sustain inflationary pressures in the economy. XOM benefits from higher crude prices through expanded refining margins and increased upstream production revenues, as elevated oil prices directly boost the cash flow and profitability of integrated energy companies like Exxon Mobil regardless of monetary policy tightening elsewhere in Europe.",
-    "proactive_or_reactive": "reactive",
-    "timestamp": "Tue, 07 Apr 2026 04:00:00 GMT"
+    "timestamp": "Tue, 07 Apr 2026 10:14:14 GMT"
   }
 ]
