@@ -160,7 +160,7 @@ The dashboard supports two Claude models, selectable from the News & Events tab:
 
 ## Estimated API Costs
 
-A single full refresh (all three feeds) typically costs $0.01-0.03 with Haiku, or $0.05-0.15 with Sonnet. Monthly costs for daily use would be approximately $0.50-1.00 with Haiku.
+A single full refresh (all three feeds) typically costs $0.10-0.20 with Haiku, or $0.40-0.80 with Sonnet. Monthly costs for daily use would be approximately $6-12.00 with Haiku - assuming 2 refreshes a day. We are working on ways to reduce this further.
 
 ## Tech Stack
 
